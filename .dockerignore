@@ -2,3 +2,5 @@
 Dockerfile
 README.md
 .dockerignore
+.env
+Makefile

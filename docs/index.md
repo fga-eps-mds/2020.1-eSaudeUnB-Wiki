@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Welcome to 2020.1-Grupo1
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Members
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Name                          | University Registration  | GitHub             | Email                                |
+|-------------------------------|------------|--------------------|--------------------------------------|
+| Daniel Maike Mendes Gonçalves | 16/0117003 | [DanMke](https://github.com/DanMke)             | danmke@hotmail.com                   |
+| Gabriela Medeiros da Silva    | 16/0121817 | [gabiMSilva](https://github.com/gabiMSilva)         | gabriela.medeiros2010@hotmail.com.br |
+| Joberth Rogers Tavares Costa  | 16/0128013 | [joberthrogers18](https://github.com/joberthrogers18)    | joberth.rogers18@gmail.com    |
