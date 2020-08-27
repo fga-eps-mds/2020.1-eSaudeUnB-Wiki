@@ -40,19 +40,64 @@
 
 ## 5. Descrição
 
-<p align = "justify"> </p>
+<p align = "justify">
+    Devido ao estado de calamidade da pandemia do virus COVID-19. Houve a necessidade da criação e realocação de vários serviços manuais para a web, dessa forma foi criada a proposta do desenvolvimento de uma plataforma onde pudesse proporcionar o bem-estar psicossocial, prevenir e tratar transtornos mentais no cenário atual pandemia. A proposta atual consiste na realização de consultas remotas entre pacientes e psicólogos através de uma plataforma web, onde toda a parte de gerênciamento de consultas e acompanhamento de portuário serão tratados pelo próprio sistema.
+</p>
 
 ## 6. Risco geral do projeto
 
-<p align = "justify"> </p>
+| Risco | Ação Preventiva |
+| :---------: | :--------: |
+| Dificuldade da Equipe de Desenvolvimento no começo com as tecnologias estabelecidas  | Uso do pair program entre os desenvolvedores para a passagem do conhecimento mais fluida  |
+| Comparecimento dos integrantes nas Dailys e Fechamento de Sprints | Definir horários acessíveis tanto para Equipe de MDS quanto equipe de EPS |
+| A falta ou desistência de um membro devido a pandemia e novo sistema de ensino EAD | Estimular a participação de todos os membros no projeto em dailys e passamento de conhecimento através do pair program.  |
+| Falta de conhecimento em metologias Ágeis por parte de MDS | Criar um ambiente mais práticos para MDS, sempre envolvendo termos da área e rotinas que as metodologias propõem. |  
+| Abrangência ampla do escopo do projeto | Estar ao máximo possível em contato com o cliente fazendo validação das principais funcionalidades, com o objetivo de criar um MVP concreto dentro do prazo da disciplina. |  
 
 ## 7. Cronograma de Marcos
 
-<p align = "justify"> </p>
+<p align = "justify"> 
+
+</p>
 
 ## 8. Stakeholders
 
-<p align = "justify"> </p>
+### Orientadores e Clientes
+
+| Integrante | Papel |
+| :---------: | :--------: |
+| Hilmer Neri | Orientador |
+| Carla Rocha Aguiar | Orientado |
+| Priscila Almeida | Cliente |
+
+### Time de Gerência
+
+<p align = "justify">
+    Equipe composta por alunos da disciplina de "Engenharia de Produto de Software" da Universidade de Brasilía, onde tem o papel de orientar de forma técnica a equipe de desenvolvimento do projeto.
+</p>
+
+
+| Integrante| Papel |
+| :---------:  | :--------: |
+| Daniel Maike | DevOps |
+| João Pedro | Product Owner |
+| Joberth Rogers | Scrum Master | 
+
+
+### Time de Desenvolvimento 
+
+<p align = "justify">
+    Equipe composta por alunos da disciplina de "Metodologia e Desenvolvimento de Software" da Universidade de Brasilía, onde tem o papel de Desenvolver o projeto proposto neste documento.  
+</p>
+
+| Integrante | Papel |
+| :---------: | ----------: | 
+| Abner Filipe | Desenvolvedor |
+| Perdro Henrique | Desenvolvedor |
+| Caio Martins | Desenvolvedor | 
+| Rafael Leão | Desenvolvedor |
+| Vinicius Lima | Desenvolvedor |
+
 
 ## 9. Requisitos para aprovação do projeto
 
