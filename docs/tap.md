@@ -5,6 +5,7 @@
 |    Data    |  Versão  |        Descrição       |          Autor(es)          |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 26/08/2020 |   0.1    | Criação do Documento de TAP           |   Daniel Maike, João Pedro, Joberth Rogers  |
+| 26/08/2020 |   0.2    | Atualização do Documento de TAP           |   Daniel Maike, João Pedro, Joberth Rogers  |
 
 ## Sumário
 
@@ -54,12 +55,30 @@
 
 ## 9. Requisitos para aprovação do projeto
 
-<p align = "justify"> </p>
+* <p align = "justify"> Desenvolver uma plataforma integrada para gestão online das solicitações da comunidade acadêmica e dos profissionais do HUB para atendimento à saúde mental. </p>
 
-## 10. Gerente do projeto
+* <p align = "justify"> Oferecer a plataforma como serviço, garantindo a escalabilidade da solução para que ela possa ser utilizada, do ponto de vista técnico, em escala municipal, quanto nacional. </p>
 
-<p align = "justify"> </p>
+* <p align = "justify"> Elaborar um prontuário eletrônico para registro dos atendimentos da atenção à saúde mental prestados pela Dasu/DAC. </p>
 
-## 11. Patrocinador
+* <p align = "justify"> Desenvolver um painel com os indicadores, métricas e dados agregados da plataforma para auxiliar na gestão orientado a dados, permitindo o acesso de gestores públicos às informações da plataforma em tempo real por meio de gráficos, listas e informações relevantes e relatórios gerados automaticamente. </p>
 
-<p align = "justify"> </p>
+* <p align = "justify"> Desenvolver o sistema de forma a garantir a interoperabilidade com outras plataformas e permitir a integração com outros sistemas já utilizados pelas secretarias de saúde, e, assim, viabilizar a manutenção da solução e facilitar a troca  de informação entre sistemas. </p>
+
+## 10. Gerentes do projeto
+
+| Nome do gerente | E-mail | GitHub |
+|:----------:|:----------------------:|:---------------------------:|
+| Daniel Maike Mendes Gonçalves | danmke@hotmail.com | [@DanMke](https://github.com/DanMke) |
+| João Pedro de Lima Pereira    | jplpereira@gmail.com | [@jplpereira](https://github.com/jplpereira) |
+| Joberth Rogers Tavares Costa  | joberth.rogers18@gmail.com | [@joberthrogers18](https://github.com/joberthrogers18) | 
+
+## 11. Patrocinadora
+
+|   Nome da patrocinadora   |         E-mail        |
+|:------------------------:|:---------------------:|
+| Carla Silva Rocha Aguiar | rocha.carla@gmail.com |
+
+## 12. Referências
+
+* PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 6a. ed. - EUA: Project Management Institute, 2017
