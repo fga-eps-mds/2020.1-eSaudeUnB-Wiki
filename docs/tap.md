@@ -7,20 +7,21 @@
 | 26/08/2020 |   0.1    | Criação do Termo de Abertura do Projeto           |   Daniel Maike, João Pedro, Joberth Rogers  |
 | 26/08/2020 |   0.2    | Adição dos tópicos 8, 9, 10 e 11           |   João Pedro  |
 | 26/08/2020 |   0.3    | Adição dos tópicos 2, 3 e 4           |   Daniel Maike  |
+| 26/08/2020 |   0.4    | Adição do tópico 5, 6 e 8 | Joberth Rogers | 
 
 ## Sumário
 
-[1. Introdução](#1-introducao)
-[2. Finalidade do projeto](#2-finalidade)
-[3. Objetivos do projeto](#3-objetivos)
-[4. Requisitos de alto nível](#4-requisitos)
-[5. Descrição](#5-descrição)
-[6. Risco geral do projeto](#6-risco)
-[7. Cronograma de Marcos](#7-marcos)
-[8. Stakeholders](#8-stakeholders)
-[9. Requisitos para aprovação do projeto](#9-aprovacao)
-[10. Gerente do projeto](#9-gerente)
-[11. Patrocinador](#9-patrocinador)
+[1. Introdução](#1-introducao) </br>
+[2. Finalidade do projeto](#2-finalidade) </br>
+[3. Objetivos do projeto](#3-objetivos) </br>
+[4. Requisitos de alto nível](#4-requisitos) </br>
+[5. Descrição](#5-descrição) </br>
+[6. Risco geral do projeto](#6-risco)</br>
+[7. Cronograma de Marcos](#7-marcos) </br>
+[8. Stakeholders](#8-stakeholders) </br>
+[9. Requisitos para aprovação do projeto](#9-aprovacao) </br>
+[10. Gerente do projeto](#9-gerente) </br>
+[11. Patrocinador](#9-patrocinador) </br>
 
 ## 1. Introdução
 
