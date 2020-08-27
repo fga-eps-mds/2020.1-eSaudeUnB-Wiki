@@ -42,7 +42,7 @@
 ## 5. Descrição
 
 <p align = "justify">
-    Devido ao estado de calamidade da pandemia do virus COVID-19. Houve a necessidade da criação e realocação de vários serviços manuais para a web, dessa forma foi criada a proposta do desenvolvimento de uma plataforma onde pudesse proporcionar o bem-estar psicossocial, prevenir e tratar transtornos mentais no cenário atual pandemia. A proposta atual consiste na realização de consultas remotas entre pacientes e psicólogos através de uma plataforma web, onde toda a parte de gerênciamento de consultas e acompanhamento de portuário serão tratados pelo próprio sistema.
+    Com o alcance da pandemia do COVID-19, fatos como o isolamento social promovido pela OMS (Organização Mundial da Saúde) ou até mesmo o luto enfrentado por pessoas que tiveram entes queridos perdidos pela doença do virus, foram razões para o encadeamento de doenças mentais durante a situação encontrada. Devido a esses motivos, foi criado a proposta do desenvolvimento de uma plataforma onde pudesse proporcionar o bem-estar psicossocial, prevenir e tratar transtornos mentais no cenário atual de epidemia. A sugestão de projeto consiste na realização de consultas remotas entre pacientes e psicólogos através de uma plataforma web, onde toda a parte de gerênciamento de consultas e acompanhamento de portuário serão tratados pelo próprio sistema, além da ánalise e tratamento dessa gama de dados através de painéis de BI gerado das consultas que serão realizadas pelo produto desenvolvido.
 </p>
 
 ## 6. Risco geral do projeto
