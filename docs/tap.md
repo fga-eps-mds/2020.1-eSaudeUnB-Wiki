@@ -71,7 +71,7 @@
 | Integrante | Papel |
 | :---------: | :--------: |
 | Hilmer Neri | Orientador |
-| Carla Rocha Aguiar | Orientado |
+| Carla Rocha Aguiar | Orientador |
 | Priscila Almeida | Cliente |
 
 ### Time de Gerência
