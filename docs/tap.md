@@ -58,7 +58,10 @@
 ## 7. Cronograma de Marcos
 
 <p align = "justify"> 
+    Atualmente o projeto esta dividido em dois Marcos principais dentro do planejamento da disciplina. São eles: 
 
+        - Release 1: entrega do um MVP (minímo produto viável) do projeto.
+        - Release 2: entrega geral do projeto planejado.
 </p>
 
 ## 8. Stakeholders
