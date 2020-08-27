@@ -40,13 +40,13 @@ Serão tratados como itens de configuração para este projeto o código e a doc
 
 * <p align = "justify">Os commits devem ser criados logo em seguida à finalização de um conjunto conexo de alterações, descrevendo-o de forma sucinta e atômica. O formato deve conter o tipo do commit, a descrição e o id da issue no repositório do GitHub. O texto deve descrever o que foi produzido, de forma resumida e em inglês, com o tempo verbal no presente. Como no seguinte formato:
 
- <type>: <short summary> <#id>
-  │            │           │
-  │            │           └─⫸ Id da issue no repositório do GitHub
-  │            │
-  │            └─⫸ Resumo da alteração no tempo presente. Não capitalizado. Sem ponto final.
-  │
-  └─⫸ Tipo do Commit: feat|fix|docs|style|refactor|test|chore|perf|ci|build|temp
+ [tipo do commit]: [resumo da alteração] <#id><br>
+      │                    │               │<br>
+      │                    │               └─⫸ Id da issue no repositório do GitHub<br>
+      │                    │<br>
+      │                    └─⫸ Resumo da alteração no tempo presente. Não capitalizado. Sem ponto final.<br>
+      │<br>
+      └─⫸ Tipo do Commit: feat|fix|docs|style|refactor|test|chore|perf|ci|build|temp<br>
 
 Tipos:
    - feat: para uma nova feature
