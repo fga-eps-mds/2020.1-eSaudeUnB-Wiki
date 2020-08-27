@@ -4,8 +4,9 @@
 
 |    Data    |  Versão  |        Descrição       |          Autor(es)          |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
-| 26/08/2020 |   0.1    | Criação do Documento de TAP           |   Daniel Maike, João Pedro, Joberth Rogers  |
-| 26/08/2020 |   0.2    | Atualização do Documento de TAP           |   Daniel Maike, João Pedro, Joberth Rogers  |
+| 26/08/2020 |   0.1    | Criação do Termo de Abertura do Projeto           |   Daniel Maike, João Pedro, Joberth Rogers  |
+| 26/08/2020 |   0.2    | Adição dos tópicos 8, 9, 10 e 11           |   João Pedro  |
+| 26/08/2020 |   0.3    | Adição dos tópicos 2, 3 e 4           |   Daniel Maike  |
 
 ## Sumário
 
@@ -27,15 +28,15 @@
 
 ## 2. Finalidade do projeto
 
-<p align = "justify"></p>
+<p align = "justify"> O projeto propõe o desenvolvimento de um sistema web para atualizar o atendimento na área de saúde mental decorrentes do isolamento social necessário devido a pandemia causada pela doença COVID-19, com o objetivo de lidar com a fase de recuperação necessária com os danos causados pela pandemia.</p>
 
 ## 3. Objetivos do projeto
 
-<p align = "justify"> </p>
+<p align = "justify"> Este projeto tem como propósito facilitar e incentivar a comunidade a ter maior importância e cuidado com a saúde mental, também com o objetivo de tratar os danos deixados pelo isolamento social e alteração nas rotinas devido a pandemia vivenciada no ano de 2020. A plataforma servirá tanto como prontuário, para o profissional de psicologia agendar, gerenciar e registrar atendimentos. Serão disponibilizadas painéis com informações de indicadores e métricas da saúde mental da comunidade atendida para análises e melhorias do cuidado da saúde mental.</p>
 
 ## 4. Requisitos de alto nível
 
-<p align = "justify"> </p>
+<p align = "justify"> O sistema contará com a criação de uma API que se conectará a um banco de dados para manter os dados da aplicação, e um Front-End que consome a API e viabiliza o contato com o usuário do produto. A aplicação contará também com painéis de Business Inteligence voltado a indicadores e métricas de saúde mental.</p>
 
 ## 5. Descrição
 
