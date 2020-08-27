@@ -1,3 +1,8 @@
 site_name: Grupo 1
 theme:
   name: 'material'
+  language: 'pt'
+
+nav:
+  - Inicio: index.md 
+  - GCS: gcs.md

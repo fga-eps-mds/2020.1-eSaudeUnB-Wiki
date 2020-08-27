@@ -35,21 +35,37 @@ Serão tratados como itens de configuração para este projeto o código e a doc
 
 ### 3.1 Política de Commits
 
-* <p align = "justify">Os commits devem ser criados logo em seguida à finalização de um conjunto conexo de alterações, descrevendo-o de forma sucinta e atômica. O texto deve descrever o que foi produzido, de forma resumida e em inglês, com o tempo verbal no particípio. Como no seguinte formato:
+* <p align = "justify">Os commits devem ser criados logo em seguida à finalização de um conjunto conexo de alterações, descrevendo-o de forma sucinta e atômica. O texto deve descrever o que foi produzido, de forma resumida e em inglês, com o tempo verbal no presente. Como no seguinte formato:
 
-   ```<Texto começando com letra maiúscula e com o verbo no particípio>.```
+ <type>: <short summary>
+  │            │
+  │            └─⫸ Resumo da alteração no tempo presente. Não capitalizado. Sem ponto final.
+  │
+  └─⫸ Tipo do Commit: feat|fix|docs|style|refactor|test|chore|perf|ci|build|temp
+
+Tipos:
+   - feat: a new feature
+   - fix: a bug fix
+   - docs: documentation only changes
+   - style: changes that do not affect the meaning of the code(white-space, formatting, missing semi-colons, etc)
+   - refactor: a code change that neither fixes a bug nor adds a feature
+   - test: adding missing tests or correcting existing ones
+   - chore: changes to the build process or auxiliary tools and libraries such as documentation generation
+   - perf: a code change that improves performance
+   - ci: changes to your CI configuration files and scripts
+   - temp: temporary commit that won't be included in your CHANGELOG
 
 * Exemplo:
 
-   ```Created user structure```
+   ```feat: create user structure```
 
 </p>
 
-* Commits devem ser redigidos no idioma inglês
-* Devem ser simples e concisos, possuindo títulos curtos
-* Commits devem descrever o que está sendo alterado, se houver mais de uma alteração (pertinente ao commit) ela deve ser adicionada na descrição do commit
-* Devem iniciar com letras maiúsculas.
-* Devem iniciar com um verbo no particípio informando seu objetivo. Ex: "Created new main page"
+* Commits devem ser redigidos no idioma inglês.
+* Devem ser simples e concisos, possuindo títulos curtos.
+* Commits devem descrever o que está sendo alterado, se houver mais de uma alteração (pertinente ao commit) ela deve ser adicionada na descrição do commit.
+* Devem iniciar com letras minúsculas.
+* Devem iniciar com um verbo no presente, informando seu objetivo. Ex: "create new main page"
 
 ### 3.2 Política de Branches
 
@@ -59,52 +75,47 @@ Serão tratados como itens de configuração para este projeto o código e a doc
 
 <br>
 
-* <p align = "justify">O repositório do projeto terá uma branch principal, sendo ela a branch estável, a <i>Master</i>.</p>
+* <p align = "justify">O repositório do projeto terá uma branch principal, sendo ela a branch estável, a <i>master</i>.</p>
 
-* <p align = "justify">A <i>Master</i> será a branch estável do projeto, sendo ela proveniente da develop quando o pull request for aprovado, ao fim de cada release ou quando houver necessidade. Nenhum membro será autorizado a fazer commits diretamente na <i>Master</i>.</p>
+* <p align = "justify">A <i>master</i> será a branch estável do projeto, sendo ela proveniente da <i>develop</i> quando o pull request for aprovado, ao fim de cada release ou quando houver necessidade. Nenhum membro será autorizado a fazer commits diretamente na <i>master</i>.</p>
 
-* <p align = "justify">As branches auxiliares são para a criação das funcionalidades ou correções de erro. Cada <i>Tarefa</i> ou <i>bugfix</i> terá sua própria branch, criada a partir da develop, e terá como nomenclatura o seguinte padrão: </p>
+* <p align = "justify">As branches auxiliares são para a resulução de issues do projeto. Cada <i>User Story</i>, <i>Technical Story</i>, <i>HotFix</i> ou <i>BugFix</i> terá sua própria branch, criada a partir da <i>develop</i>, e terá como nomenclatura o seguinte padrão: </p>
 
-   ``` TF[ID da Tarefa no RoadMap]-[Nome representativo da Tarefa] ``` ou <br>
-   ``` FIX[ID da issue a ser resolvida]-[Nome representativo da issue] ``` ou <br>
-   ``` FIX[Nome da correcao ou configuracao] ``` ou <br>
-   ``` TE-[Nome representativo da Tarefa Extra] ```<br>
+   ``` feature/US[ID da User Story]-[Nome representativo da US] ``` ou <br>
+   ``` feature/TS[ID da Technical Story]-[Nome representativo da TS] ``` ou <br>
+   ``` bugfix/[Nome representativo do Bug Fix] ``` ou <br>
+   ``` hotfix/[Nome representativo do Hot Fix] ``` <br>
 
-* As branches develop e master têm papel importante no fluxo seguido. Portanto, nenhuma dessas deve receber um commit diretamente pelo time de desenvolvimento de nenhuma Feature ou Correção.
+* As branches <i>develop</i> e <i>master</i> têm papel importante no fluxo seguido. Portanto, nenhuma dessas deve receber um commit diretamente pelo time de desenvolvimento de nenhum <i>User Story</i>, <i>Technical Story</i>, <i>HotFix</i> ou <i>BugFix</i>.
 
-* Para cada Feature uma nova branch deve ser criada com base no último commit da develop. De acordo com o modelo acima.
+* Para cada ISSUE uma nova branch deve ser criada com base no último commit da <i>develop</i>, de acordo com o modelo acima.
   
-* Para branches de Correção de algum defeito ou configuração de ferramentas, estas deverão estar de acordo com o modelo acima.
-
 #### 3.2.1 Conflitos
 
-Se um pull request causar algum tipo de conflito, deve ser resolvido primeiro pela equipe que desenvolveu o que está causando conflito, prezando pela integridade e organização do histórico de commits, e então deve ser refeito o pedido para avaliação do merge.
+Se um <i>Pull Request</i> causar algum tipo de conflito, deve ser resolvido primeiro pela equipe que desenvolveu o que está causando conflito, prezando pela integridade e organização do histórico de commits, e então deve ser refeito o pedido para avaliação do merge.
 
 ### 3.3 Política de Aprovação do Código
 
-* <p align = "justify"> Para a aprovação do código, este deve ser aprovado por ao menos dois desenvolvedores da equipe diferente daquele que o submeteu ou sua dupla, caso exista.</p>
+* <p align = "justify"> Para a aprovação do código, este deve ser aprovado por ao menos dois membros da equipe de Engenharia de Produto de Software.</p>
 
 ## 4. Uso de Issues
 
-* <p align = "justify">As issues serão criadas com o objetivo de mapear as histórias de usuário, histórias técnicas e bugs, tendo assim um maior controle sobre eles. Com isso, conseguiremos manter o rastro dos commits com suas respectivas issues.</p>
+// TODO: SEMPRE CRIAR UMA ISSUE ANTES DE RESOLVER
 
-* <p align = "justify">As issues serão divididas em labels, para que se possa indicar sua natureza. As labels definidas para o projeto serão:</p>
+* <p align = "justify"> As issues serão criadas com o objetivo de mapear as <i>User Story</i>, <i>Technical Story</i>, <i>HotFix</i> ou <i>BugFix</i>, tendo assim um maior controle sobre elas. Com isso, conseguiremos manter o rastro dos commits com suas respectivas issues.</p>
 
-   * **Tarefa**: Utilizada para issues que representam features ou atividades do projeto. 
-   * **Tarefa Extra**: Utilizada para issues que representam tarefas extras do projeto. 
-   * **Refatoração**: Utilizada para issues que representam refatoração do código.  
-   * **Front**: Utilizada para issues que representam refatoração do layout.
-   * **Bug**: Utilizada para issues que representam correção de bugs.
-
-* <p align = "justify"> Caso o time sinta a necessidade de acrescentar uma nova label, este documento deverá ser atualizado.</p>
+* <p align = "justify"> As issues serão divididas em labels, para que se possa indicar sua natureza.</p>
 
 * <p align = "justify"> O padrão do nome das issues terá o seguinte formato: </p>
 
-   ``` TF <ID da Tarefa no RoadMap> - <Nome definido  pela equipe para a tarefa> ``` <br>
-   ``` FIX - <Nome definido para a história pela equipe> ``` <br>
-   ``` TE - <Nome definido para a história pela equipe> ``` <br>
+   ``` US<ID incremental> - <Descrição da Issue>``` <br>
+   ``` TS<ID incremental> - <Descrição da Issue> ``` <br>
+   ``` BUGFIX - <Descrição da Issue> ``` <br>
+   ``` HOTFIX - <Descrição da Issue> ``` <br>
 
-* Exemplo : "TAREFA 1.1 - Tarefa". <br>
+* Exemplo : "US02 - Criar Termo de Abertura do Projeto (TAP)". <br>
+
+* <p align = "justify"> E cada descrição de Issue deverá seguir o Issue Template determinado no repositório.</p>
 
 ## 5. Repositório de documentação
 
