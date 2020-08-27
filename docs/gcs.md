@@ -5,6 +5,9 @@
 |    Data    |  Versão  |        Descrição       |          Autor(es)          |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 25/08/2020 |   0.1    | Criação do Documento de GCS           |   Daniel Maike, João Pedro, Joberth Rogers  |
+| 26/08/2020 |   0.2    | Adequação dos Itens de Configuração          |   Daniel Maike, João Pedro, Joberth Rogers  |
+| 26/08/2020 |   0.3    | Adequação das Políticas e do Uso de Issues          |   Daniel Maike, João Pedro, Joberth Rogers  |
+| 26/08/2020 |   1.0    | Adequação do Repositório de Documentação e atualização de políticas de commit         |   Daniel Maike  |
 
 ## Sumário
 
@@ -35,29 +38,31 @@ Serão tratados como itens de configuração para este projeto o código e a doc
 
 ### 3.1 Política de Commits
 
-* <p align = "justify">Os commits devem ser criados logo em seguida à finalização de um conjunto conexo de alterações, descrevendo-o de forma sucinta e atômica. O texto deve descrever o que foi produzido, de forma resumida e em inglês, com o tempo verbal no presente. Como no seguinte formato:
+* <p align = "justify">Os commits devem ser criados logo em seguida à finalização de um conjunto conexo de alterações, descrevendo-o de forma sucinta e atômica. O formato deve conter o tipo do commit, a descrição e o id da issue no repositório do GitHub. O texto deve descrever o que foi produzido, de forma resumida e em inglês, com o tempo verbal no presente. Como no seguinte formato:
 
- <type>: <short summary>
+ <type>: <short summary> <#id>
+  │            │           │
+  │            │           └─⫸ Id da issue no repositório do GitHub
   │            │
   │            └─⫸ Resumo da alteração no tempo presente. Não capitalizado. Sem ponto final.
   │
   └─⫸ Tipo do Commit: feat|fix|docs|style|refactor|test|chore|perf|ci|build|temp
 
 Tipos:
-   - feat: a new feature
-   - fix: a bug fix
-   - docs: documentation only changes
-   - style: changes that do not affect the meaning of the code(white-space, formatting, missing semi-colons, etc)
-   - refactor: a code change that neither fixes a bug nor adds a feature
-   - test: adding missing tests or correcting existing ones
-   - chore: changes to the build process or auxiliary tools and libraries such as documentation generation
-   - perf: a code change that improves performance
-   - ci: changes to your CI configuration files and scripts
-   - temp: temporary commit that won't be included in your CHANGELOG
+   - feat: para uma nova feature
+   - fix: para bug fix
+   - docs: documentação apenas mudanças
+   - style: mudanças que não afetam o significado do código (espaço em branco, formatação, ponto e vírgula ausente, etc)
+   - refactor: uma mudança de código que não corrige um bug nem adiciona um recurso
+   - test: adicionar testes ausentes ou corrigir os existentes
+   - chore: mudanças no processo de construção ou ferramentas auxiliares e bibliotecas, como geração de documentação
+   - perf: uma mudança de código que melhora o desempenho
+   - ci: mudanças em seus arquivos e scripts de configuração de CI
+   - temp: commit temporário que não será incluído em seu CHANGELOG
 
 * Exemplo:
 
-   ```feat: create user structure```
+   ```feat: create user structure #10```
 
 </p>
 
@@ -65,7 +70,7 @@ Tipos:
 * Devem ser simples e concisos, possuindo títulos curtos.
 * Commits devem descrever o que está sendo alterado, se houver mais de uma alteração (pertinente ao commit) ela deve ser adicionada na descrição do commit.
 * Devem iniciar com letras minúsculas.
-* Devem iniciar com um verbo no presente, informando seu objetivo. Ex: "create new main page"
+* Devem iniciar com um verbo no presente, informando seu objetivo. Ex: "feat: create new main page"
 
 ### 3.2 Política de Branches
 
@@ -100,8 +105,6 @@ Se um <i>Pull Request</i> causar algum tipo de conflito, deve ser resolvido prim
 
 ## 4. Uso de Issues
 
-// TODO: SEMPRE CRIAR UMA ISSUE ANTES DE RESOLVER
-
 * <p align = "justify"> As issues serão criadas com o objetivo de mapear as <i>User Story</i>, <i>Technical Story</i>, <i>HotFix</i> ou <i>BugFix</i>, tendo assim um maior controle sobre elas. Com isso, conseguiremos manter o rastro dos commits com suas respectivas issues.</p>
 
 * <p align = "justify"> As issues serão divididas em labels, para que se possa indicar sua natureza.</p>
@@ -117,9 +120,15 @@ Se um <i>Pull Request</i> causar algum tipo de conflito, deve ser resolvido prim
 
 * <p align = "justify"> E cada descrição de Issue deverá seguir o Issue Template determinado no repositório.</p>
 
+* <p align = "justify"> Qualquer alteração deve ser solucionada apenas após a criação de uma issue especificando a alteração.</p>
+
 ## 5. Repositório de documentação
 
-O repositório de documentação é encontrado na [wiki](#https://github.com/fga-eps-mds/2020.1-Grupo1-Wiki) do projeto. Seu objetivo é armazenar a documentação proveniente do projeto, bem como, as práticas adotadas pela equipe de desenvolvimento. Este repositório segue especificações semelhantes ao repositório de código. Os commits devem seguir o mesmo padrão. Porém, os documentos devem ser mantidos na branch master e não há instruções a respeito da criações de novas branches.
+O repositório de documentação é encontrado na [wiki](#https://github.com/fga-eps-mds/2020.1-Grupo1-Wiki) do projeto. Seu objetivo é armazenar a documentação proveniente do projeto, bem como, as práticas adotadas pela equipe de desenvolvimento.
+
+### 5.1 Versionamento de documentos
+
+A versão dos documentos deve seguir o versionamento semântico MAJOR.MINOR. Uma alteração que envolva correção ou validação de um documento e que não exija esforço intelictual moderado, deve ser versionado incrementando o dígito MINOR. Para alterações que envolva adição de conteúdo ou correções significativas, deve ser incrementado o dígito MAJOR.
 
 ## 6. Referências
 
