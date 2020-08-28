@@ -22,7 +22,7 @@
 ### **Capturas de tela**
 <!-- Imagens do bug para melhor reprodução -->
 
-### **Informações sobre o meio ambiente**
+### **Informações sobre o ambiente**
 - Dispositivo: [por exemplo iPhone6]
 
 ### **Anexos (opcional)**
