@@ -33,23 +33,22 @@
 
 ## 3. Objetivos do projeto
 
-<p align = "justify"> Este projeto tem como propósito facilitar e incentivar a comunidade a ter maior importância e cuidado com a saúde mental, também com o objetivo de tratar os danos deixados pelo isolamento social e alteração nas rotinas devido a pandemia vivenciada no ano de 2020. A plataforma servirá tanto como prontuário, para o profissional de psicologia agendar, gerenciar e registrar atendimentos. Serão disponibilizadas painéis com informações de indicadores e métricas da saúde mental da comunidade atendida para análises e melhorias do cuidado da saúde mental.</p>
+<p align = "justify"> Este projeto tem como propósito facilitar e incentivar a comunidade a ter maior importância e cuidado com a saúde mental, também com o objetivo de tratar os danos deixados pelo isolamento social e alteração nas rotinas devido a pandemia vivenciada no ano de 2020. A plataforma servirá tanto para registrar os prontuários eletrônicos, como para o profissional de psicologia agendar, gerenciar e registrar atendimentos. Serão disponibilizados painéis com informações de indicadores e métricas da saúde mental da comunidade atendida para análises e melhorias do cuidado da saúde mental.</p>
 
 ## 4. Requisitos de alto nível
 
-<p align = "justify"> O sistema contará com a criação de uma API que se conectará a um banco de dados para manter os dados da aplicação, e um Front-End que consome a API e viabiliza o contato com o usuário do produto. A aplicação contará também com painéis de Business Inteligence voltado a indicadores e métricas de saúde mental.</p>
+<p align = "justify"> O sistema contará com a criação de uma API que se conectará a um banco de dados para manter os dados da aplicação e um Front-End que consome a API e viabiliza o contato com o usuário do produto. A aplicação contará também com painéis de Business Intelligence voltado a indicadores e métricas de saúde mental.</p>
 
 ## 5. Descrição
 
-<p align = "justify">
-    Com o alcance da pandemia do COVID-19, fatos como o isolamento social promovido pela OMS (Organização Mundial da Saúde) ou até mesmo o luto enfrentado por pessoas que tiveram entes queridos perdidos pela doença do virus, foram razões para o encadeamento de doenças mentais durante a situação encontrada. Devido a esses motivos, foi criado a proposta do desenvolvimento de uma plataforma onde pudesse proporcionar o bem-estar psicossocial, prevenir e tratar transtornos mentais no cenário atual de epidemia. A sugestão de projeto consiste na realização de consultas remotas entre pacientes e psicólogos através de uma plataforma web, onde toda a parte de gerênciamento de consultas e acompanhamento de portuário serão tratados pelo próprio sistema, além da ánalise e tratamento dessa gama de dados através de painéis de BI gerado das consultas que serão realizadas pelo produto desenvolvido.
+<p align = "justify"> Com o alcance da pandemia do COVID-19, fatos como o isolamento social promovido pela OMS (Organização Mundial da Saúde) ou até mesmo o luto enfrentado por pessoas que tiveram entes queridos perdidos pela doença do virus, foram razões para o encadeamento de doenças mentais durante a situação encontrada. Devido a esses motivos, foi criada a proposta do desenvolvimento de uma plataforma que pudesse proporcionar o bem-estar psicossocial, prevenir e tratar transtornos mentais no cenário atual de epidemia. A sugestão de projeto consiste na realização de consultas remotas entre pacientes e psicólogos através de uma plataforma web, onde toda a parte de gerênciamento de consultas e acompanhamento de prontuário serão tratados pelo próprio sistema, além da ánalise e tratamento dessa gama de dados através de painéis de Business Intelligence gerados das consultas que serão realizadas pelo produto desenvolvido.
 </p>
 
 ## 6. Risco geral do projeto
 
 | Risco | Ação Preventiva |
 | :---------: | :--------: |
-| Dificuldade da Equipe de Desenvolvimento no começo com as tecnologias estabelecidas  | Uso do pair program entre os desenvolvedores para a passagem do conhecimento mais fluida  |
+| Dificuldade da Equipe de Desenvolvimento no começo com as tecnologias estabelecidas  | Uso da programação em pares entre os desenvolvedores para a passagem do conhecimento mais fluida  |
 | Comparecimento dos integrantes nas Dailys e Fechamento de Sprints | Definir horários acessíveis tanto para Equipe de MDS quanto equipe de EPS |
 | A falta ou desistência de um membro devido a pandemia e novo sistema de ensino EAD | Estimular a participação de todos os membros no projeto em dailys e passamento de conhecimento através do pair program.  |
 | Falta de conhecimento em metologias Ágeis por parte de MDS | Criar um ambiente mais práticos para MDS, sempre envolvendo termos da área e rotinas que as metodologias propõem. |  
@@ -58,7 +57,7 @@
 ## 7. Cronograma de Marcos
 
 <p align = "justify"> 
-    Atualmente o projeto esta dividido em dois Marcos principais dentro do planejamento da disciplina. São eles: 
+    Atualmente o projeto esta dividido em dois marcos principais dentro do planejamento da disciplina. São eles: 
 
         - Release 1: entrega do um MVP (minímo produto viável) do projeto.
         - Release 2: entrega geral do projeto planejado.
@@ -71,13 +70,12 @@
 | Integrante | Papel |
 | :---------: | :--------: |
 | Hilmer Neri | Orientador |
-| Carla Rocha Aguiar | Orientador |
+| Carla Rocha Aguiar | Orientadora |
 | Priscila Almeida | Cliente |
 
 ### Time de Gerência
 
-<p align = "justify">
-    Equipe composta por alunos da disciplina de "Engenharia de Produto de Software" da Universidade de Brasilía, onde tem o papel de orientar de forma técnica a equipe de desenvolvimento do projeto.
+<p align = "justify"> Equipe composta por estudantes da disciplina de Engenharia de Produto de Software do curso de Engenharia de Sofware da Universidade de Brasilía, onde tem o papel de orientar de forma técnica a equipe de desenvolvimento do projeto.
 </p>
 
 
@@ -90,14 +88,13 @@
 
 ### Time de Desenvolvimento 
 
-<p align = "justify">
-    Equipe composta por alunos da disciplina de "Metodologia e Desenvolvimento de Software" da Universidade de Brasilía, onde tem o papel de Desenvolver o projeto proposto neste documento.  
+<p align = "justify"> Equipe composta por alunos da disciplina de Metodologia e Desenvolvimento de Software do curso de Engenharia de Software da Universidade de Brasilía, onde tem o papel de Desenvolver o projeto proposto neste documento.  
 </p>
 
 | Integrante | Papel |
 | :---------: | ----------: | 
 | Abner Filipe | Desenvolvedor |
-| Perdro Henrique | Desenvolvedor |
+| Pedro Henrique | Desenvolvedor |
 | Caio Martins | Desenvolvedor | 
 | Rafael Leão | Desenvolvedor |
 | Vinicius Lima | Desenvolvedor |
