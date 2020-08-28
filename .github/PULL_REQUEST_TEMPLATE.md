@@ -21,17 +21,17 @@
 
 ## Tipo de mudanças
 <!--- Que tipos de alterações seu código fez? Coloque um `x` em todas as caixas que se aplicam:= -->
-- [] _Bug fix_ (modificação na qual conserta um _issue_ e não modifica recursos já existentes)
-- [] Nova _feature_ (modificação na qual adiciona uma nova _feature_ e não modificar _features_ já existentes)
-- [] Mudança disruptiva (_Breaking change_) (Correção ou _features_ que altera _features_ já existentes)
+- [ ] _Bug fix_ (modificação na qual conserta um _issue_ e não modifica recursos já existentes)
+- [ ] Nova _feature_ (modificação na qual adiciona uma nova _feature_ e não modificar _features_ já existentes)
+- [ ] Mudança disruptiva (_Breaking change_) (Correção ou _features_ que altera _features_ já existentes)
 
 ## Lista de controle:
 <!--- Passe por todos os pontos abaixo e coloque um `x` em todas as caixas que se aplicam. -->
 <!--- Se você não tiver certeza sobre algum desses itens, não hesite em perguntar. Nós estamos aqui para ajudar! -->
-- [] Meu código segue o estilo de código deste projeto.
-- [] Meus _commits_ seguem o padrão de estilo deste projeto.
-- [] Minha mudança requer uma mudança na documentação.
-- [] Eu atualizei a documentação de acordo.
-- [] Eu li o documento de Contribuição (**CONTRIBUTING**).
-- [] Eu adicionei testes para cobrir minhas alterações.
-- [] Todos os testes novos e existentes foram aprovados.
+- [ ] Meu código segue o estilo de código deste projeto.
+- [ ] Meus _commits_ seguem o padrão de estilo deste projeto.
+- [ ] Minha mudança requer uma mudança na documentação.
+- [ ] Eu atualizei a documentação de acordo.
+- [ ] Eu li o documento de Contribuição (**CONTRIBUTING**).
+- [ ] Eu adicionei testes para cobrir minhas alterações.
+- [ ] Todos os testes novos e existentes foram aprovados.
