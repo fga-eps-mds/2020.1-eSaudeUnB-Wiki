@@ -22,7 +22,7 @@
 [7. Cronograma de Marcos](#7-cronograma-de-marcos) </br>
 [8. Stakeholders](#8-stakeholders) </br>
 [9. Requisitos para aprovação do projeto](#9-requisitos-para-aprovação-do-projeto) </br>
-[10. Gerente do projeto](#10-gerente-do-projeto) </br>
+[10. Gerentes do projeto](#10-gerentes-do-projeto) </br>
 [11. Patrocinador](#11-patrocinador) </br>
 
 ## 1. Introdução
