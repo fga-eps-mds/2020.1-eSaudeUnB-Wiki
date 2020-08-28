@@ -8,6 +8,8 @@
 | 26/08/2020 |   0.2    | Adição dos tópicos 8, 9, 10 e 11           |   João Pedro  |
 | 26/08/2020 |   0.3    | Adição dos tópicos 2, 3 e 4           |   Daniel Maike  |
 | 26/08/2020 |   0.4    | Adição do tópico 5, 6 e 8 | Joberth Rogers | 
+| 27/08/2020 |   0.5    | Revisão dos tópicos 5, 6 | João Pedro, Joberth Rogers | 
+| 27/08/2020 |   0.6    | Atualização do tópico 8 | Daniel Maike, Joberth Rogers | 
 
 ## Sumário
 
@@ -20,8 +22,8 @@
 [7. Cronograma de Marcos](#7-marcos) </br>
 [8. Stakeholders](#8-stakeholders) </br>
 [9. Requisitos para aprovação do projeto](#9-aprovacao) </br>
-[10. Gerente do projeto](#9-gerente) </br>
-[11. Patrocinador](#9-patrocinador) </br>
+[10. Gerente do projeto](#10-gerente) </br>
+[11. Patrocinador](#11-patrocinador) </br>
 
 ## 1. Introdução
 
@@ -69,9 +71,9 @@
 
 | Integrante | Papel |
 | :---------: | :--------: |
-| Hilmer Neri | Orientador |
-| Carla Rocha Aguiar | Orientadora |
-| Priscila Almeida | Cliente |
+| Hilmer Rodrigues Neri | Orientador |
+| Carla Silva Rocha Aguiar | Orientadora |
+| Priscila Almeida Andrade | Cliente |
 
 ### Time de Gerência
 
@@ -79,11 +81,11 @@
 </p>
 
 
-| Integrante| Papel |
-| :---------:  | :--------: |
-| Daniel Maike | DevOps |
-| João Pedro | Product Owner |
-| Joberth Rogers | Scrum Master | 
+| Integrante| Papel | GitHub |
+| :---------:  | :--------: |:---------------------------:|
+| Daniel Maike Mendes Gonçalves | DevOps | [@DanMke](https://github.com/DanMke) |
+| João Pedro de Lima Pereira | Product Owner |[@jplpereira](https://github.com/jplpereira) |
+| Joberth Rogers Tavares Costa | Scrum Master | [@joberthrogers18](https://github.com/joberthrogers18) | 
 
 
 ### Time de Desenvolvimento 
@@ -91,13 +93,14 @@
 <p align = "justify"> Equipe composta por alunos da disciplina de Metodologia e Desenvolvimento de Software do curso de Engenharia de Software da Universidade de Brasilía, onde tem o papel de Desenvolver o projeto proposto neste documento.  
 </p>
 
-| Integrante | Papel |
-| :---------: | ----------: | 
-| Abner Filipe | Desenvolvedor |
-| Pedro Henrique | Desenvolvedor |
-| Caio Martins | Desenvolvedor | 
-| Rafael Leão | Desenvolvedor |
-| Vinicius Lima | Desenvolvedor |
+| Integrante | Papel | GitHub |
+| :---------: | :----------: |  |
+| Abner Filipe Cunha Ribeiro | Desenvolvedor | [@abner423](https://github.com/abner423) | 
+| Luis Gustavo Ferreira Marques | Desenvolvedor | [@luisfgmarques](https://github.com/luisfgmarques) | 
+| Pedro Henrique Castro de Oliveira | Desenvolvedor | [@pedroholiveira1998](https://github.com/pedroholiveira1998) | 
+| Caio Martins Ferreira | Desenvolvedor | [@PerhapsAlex](https://github.com/PerhapsAlex) | 
+| Rafael Leão Teixeira de Magalhães | Desenvolvedor | [@Rafaelltm](https://github.com/Rafaelltm) | 
+| Vinicius Ferreira Alves de Lima | Desenvolvedor | [@vinelime](https://github.com/vinelime) |
 
 
 ## 9. Requisitos para aprovação do projeto
