@@ -1,20 +1,19 @@
----
-name: Feature request
-about: Suggest new ideas for the project
-title: "#number_issue: Name_for_issue"
-labels: ''
-assignees: ''
+<!-- 
+nome: Solicitação de recurso
+sobre: Sugira novas ideias para o projeto
+titulo: "#number_issue: Name_for_issue"
+rótulos: ''
+designados: '' 
+-->
 
----
+### **Descrição do Problema**
+<!-- Apresentar um breve resumo do problema que a feature deseja resolver -->
 
-**Problem description**
-<!-- Present a short summary of the problem that the feature wants to address -->
+### **Comportamento esperado**
+<!-- Descreva resumidamente o que esperar deste feature -->
 
-**Expected behavior**
-<!-- Briefly describe what to expect from this feature -->
+### **Alternativas consideradas (opcional)**
+<!-- Se houver uma alternativa para essa feature, descreva-a aqui -->
 
-**Alternatives considered (Optional)**
-<!-- If there is an alternative to this feature, describe it here -->
-
-**Attachment**
-<!-- Add some visual feature or context to better understand the desired feature -->
+### **Anexo**
+<!-- Adicione algum recurso visual ou contexto para entender melhor o recurso desejado -->

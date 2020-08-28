@@ -1,33 +1,29 @@
----
-name: Bug report
-about: Report for application improvement
-title: "#number_issue: name_name_issue"
-labels: ''
-assignees: ''
+<!-- 
+    nome: Relatório de bug
+    sobre: Relatório de melhoria do aplicativo
+    título: "Bugfix: name_name_issue"
+    labels: ''
+    designados: '' 
+-->
 
----
+### **Descrição do bug**
+<!-- Descrição do bug de uma maneira clara -->
 
-**Description of the bug**
-<!-- Bug description in a sunny way -->
-
-**Related issue**
-<!-- Number of the related issue -->
-
-**Steps**
-<!-- Steps to reproduce the bug -->
-1. Go to ...
-2. Click in...
+### **Passos**
+<!-- Etapas para reproduzir o bug -->
+1. Vá para ...
+2. Clique em ...
 3. ....
 4. ....
 
-**Expected behavior**
-<!-- Expected behavior after correction -->
+### **Comportamento esperado**
+<!-- Comportamento esperado após a correção -->
 
-**Screenshots**
-<!-- Pictures of the bug for better reproduction -->
+### **Capturas de tela**
+<!-- Imagens do bug para melhor reprodução -->
 
-**Information about the environment**
-  - Device: [e.g. iPhone6]
+### **Informações sobre o ambiente**
+- Dispositivo: [por exemplo iPhone6]
 
-**Attachment and context (Optional)**
-<!-- Add some visual feature or context to better understand the desired feature -->
+### **Anexos (opcional)**
+<!-- Adicione algum recurso visual ou contexto para entender melhor o recurso desejado -->
