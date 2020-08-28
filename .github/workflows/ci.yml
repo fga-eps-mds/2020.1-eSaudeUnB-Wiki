@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - feature/US08-mkdocs-gh-actions
+      - develop
 jobs:
   deploy:
     runs-on: ubuntu-latest
