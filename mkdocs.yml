@@ -1,8 +1,25 @@
-site_name: Grupo 1
+site_name: Grupo-1 Docs
+
+repo_name: 'fga-eps-mds/2020.1-Grupo1-Wiki'
+repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo1-Wiki'
+
 theme:
   name: 'material'
-  language: 'pt'
+  language: pt
+  palette:
+    primary: 'brown'
+    accent: 'brown'
+  font:
+    text: 'Barlow'
+  icon:
+    logo: material/library
+  feature:
+    tabs: true
 
 nav:
-  - Inicio: index.md 
-  - GCS: gcs.md
+  - Inicio: 
+    - Home: index.md
+  - Projeto:
+    - Termo de Abertura do Projeto: tap.md
+    - Plano de Gestão e Configuração de Software: gcs.md
+    - Roadmap Papéis: roadmap-papeis.md
