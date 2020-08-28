@@ -123,9 +123,9 @@
 | João Pedro de Lima Pereira    | jplpereira@gmail.com | [@jplpereira](https://github.com/jplpereira) |
 | Joberth Rogers Tavares Costa  | joberth.rogers18@gmail.com | [@joberthrogers18](https://github.com/joberthrogers18) | 
 
-## 11. Patrocinadora
+## 11. Patrocinador
 
-|   Nome da patrocinadora   |         E-mail        |
+|   Nome do patrocinador   |         E-mail        |
 |:------------------------:|:---------------------:|
 | Carla Silva Rocha Aguiar | rocha.carla@gmail.com |
 
