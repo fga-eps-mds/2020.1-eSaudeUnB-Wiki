@@ -41,28 +41,26 @@ Serão tratados como itens de configuração para este projeto o código e a doc
 * <p align = "justify">Os commits devem ser criados logo em seguida à finalização de um conjunto conexo de alterações, descrevendo-o de forma sucinta e atômica. O formato deve conter o tipo do commit, a descrição e o id da issue no repositório do GitHub. O texto deve descrever o que foi produzido, de forma resumida e em inglês, com o tempo verbal no presente. Como no seguinte formato:
 
  [tipo do commit]: [resumo da alteração] <#id><br>
-      │                    │               │<br>
-      │                    │               └─⫸ Id da issue no repositório do GitHub<br>
-      │                    │<br>
-      │                    └─⫸ Resumo da alteração no tempo presente. Não capitalizado. Sem ponto final.<br>
-      │<br>
-      └─⫸ Tipo do Commit: feat|fix|docs|style|refactor|test|chore|perf|ci|build|temp<br>
+
+   * [tipo do commit] -> Tipo do Commit: feat | fix | docs | style | refactor | test | chore | perf | ci | build | temp<br>
+   * [resumo da alteração] -> Resumo da alteração no tempo presente. Não capitalizado. Sem ponto final.<br>
+   * <#id> -> Id da issue no repositório do GitHub<br>
 
 Tipos:
-   - feat: para uma nova feature
-   - fix: para bug fix
-   - docs: documentação apenas mudanças
-   - style: mudanças que não afetam o significado do código (espaço em branco, formatação, ponto e vírgula ausente, etc)
-   - refactor: uma mudança de código que não corrige um bug nem adiciona um recurso
-   - test: adicionar testes ausentes ou corrigir os existentes
-   - chore: mudanças no processo de construção ou ferramentas auxiliares e bibliotecas, como geração de documentação
-   - perf: uma mudança de código que melhora o desempenho
-   - ci: mudanças em seus arquivos e scripts de configuração de CI
-   - temp: commit temporário que não será incluído em seu CHANGELOG
+   - feat: para uma nova feature<br>
+   - fix: para bug fix<br>
+   - docs: documentação apenas mudanças<br>
+   - style: mudanças que não afetam o significado do código (espaço em branco, formatação, ponto e vírgula ausente, etc)<br>
+   - refactor: uma mudança de código que não corrige um bug nem adiciona um recurso<br>
+   - test: adicionar testes ausentes ou corrigir os existentes<br>
+   - chore: mudanças no processo de construção ou ferramentas auxiliares e bibliotecas, como geração de documentação<br>
+   - perf: uma mudança de código que melhora o desempenho<br>
+   - ci: mudanças em seus arquivos e scripts de configuração de CI<br>
+   - temp: commit temporário que não será incluído em seu CHANGELOG<br>
 
 * Exemplo:
 
-   ```feat: create user structure #10```
+   ```feat: create user structure #1```
 
 </p>
 
