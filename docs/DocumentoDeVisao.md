@@ -40,11 +40,9 @@
 #### [4.2 Resumo dos Recursos](#42-Resumo-dos-Recursos1)
 ## [5.Recursos do Produto](#5-Recursos-do-Produto)
 ## [6.Restrições](#6-Restricoes)
-#### [6.1 Restrições de Implementação](#6.1-Restricaes-de-Implementacao1)
-#### [6.2 Restrições de Design](#62-Restricoes-de-Design1)
-#### [6.3 Restrições de Segurança](#63-Restricoes-de-Seguranca1)
-#### [6.4 Restrições Externas](#64-Restricoes-Externas1)
-#### [6.5 Restrições de Metodologia](#65-Restricooes-de-Metodologia1)
+#### [6.1 Restrições de Design](#62-Restricoes-de-Design1)
+#### [6.2 Restrições de Segurança](#63-Restricoes-de-Seguranca1)
+#### [6.3 Restrições de Metodologia](#65-Restricooes-de-Metodologia1)
 
 
 ## 1. Introdução
@@ -204,13 +202,9 @@ O sistema dispõe das seguintes funcionalidades:
 
 
 ## 6 Restrições
-### 6.1 Restrições de Implementação
-O software deverá ser implementado para funcionar 100% via web, sem necessidade de dependências externas.
-### 6.2 Restrições de Design
+### 6.1 Restrições de Design
 Deve ser intuitivo e de fácil uso para os profissionais da área,tendo uma interface amigável.
-### 6.3 Restrições de Segurança
+### 6.2 Restrições de Segurança
 Os dados armazenados pelo sistema devem se manter confidenciais, para manter sempre o direito sigilo profissional do paciente.
-### 6.4 Restrições Externas
-O sistema deve estar acessível não somente aos Profissionais da UNB, mas sim para todos os Psicólogos Cadastrados para utilização.
-### 6.5 Restrições de Metodologia
+### 6.3 Restrições de Metodologia
 A metodologia de desenvolvimento da plataforma será baseada em práticas ágeis, DevOps, entrega contínua e comunidades de software livre, tendo seu código fonte disponibilizado gratuitamente para uso por toda a comunidade.
