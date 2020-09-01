@@ -11,6 +11,7 @@
 | 30/08/2020 | 0.7  | Formatação e inclusão de informações ao tópico restrições | Luis Marques |
 | 31/08/2020| 0.8 |Inclusão da Visão Geral do Produto| Abner Filipe |
 | 01/09/2020 | 0.9 | Correção de Erros no Sumário | Abner Filipe / Rafael Leão |
+| 01/09/2020 | 0.10 | Adição da Parte Interessada Cliente e do Usuário Paciente| Vinicius Ferreira |
 
 # Sumário
 ## [1.Introdução](#1-Introducao)
@@ -100,6 +101,7 @@ No contexto da pandemia que o mundo está passando atualmente, surge a necessida
 | Time de Desenvolvimento | Grupo de alunos de MDS da Universidade de Brasília/FGA | Desenvolvimento do produto e da documentação|
 | Time de Gerenciamento | Grupo de alunos de EPS da Universidade de Brasília/FGA | Gerenciamento de projeto e dos membros do time de desenvolvimento, assim como contato com o cliente para definição de requisitos|
 | Supervisor | Professor Hilmer Rodrigues Neri, tanto da turma de MDS quanto da turma de EPS| Ser o principal orientador da disciplina apresentando os métodos e processos necessários para o desenvolvimento do software, e também supervisionar e avaliar as releases|
+| Clientes | Psicólogos que serão principais usuários | Utilizar o software finalizado para o próprio trabalho |
 
 ### 3.2 Resumo dos Usuários
 
@@ -108,6 +110,7 @@ No contexto da pandemia que o mundo está passando atualmente, surge a necessida
 | -------- | -------- |
 | Psicólogo ou outro profissional da área de saúde mental | Criará prontuários para registrar, avaliar e monitorar as consultas e pacientes |
 | Gestor | Terá acesso à dashboard de BI com os dados inseridos pelos psicólogos |
+| Paciente | Terá acesso a uma lista de psicólogos cadastrados e seus horários disponíveis para atendimento |
 
 ### 3.3 Ambiente do Usuário
 Será disponibilizado para cada usuário após um login pessoal, uma área de trabalho que varia dependendo do nível de acesso. 
@@ -144,6 +147,13 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 | **Tipo**     | Professor de ambas as disciplinas de MDS e EPS |
 | **Responsabilidades**     |Avaliação das entregas de releases e do projeto final |
 
+#### 3.4.4 Cliente
+
+|    |    |
+|----|:----:|
+|  **Representantes**  |    Cristineide Leandro França    |
+|**Descrição** |  Profissional da área da psicologia  |
+| **Responsabilidades** |  Definir os requisitos e os problemas que devem ser solucionados pelo software   |
 
 ### 3.5 Perfil do Usuário
 #### 3.5.1 Psicólogo
@@ -164,6 +174,15 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 **Descrição**|Gestores que terão acesso aos dados gerais da comunidade| 
 **Responsabilidades** |Terá acesso a uma dashboard de BI em tempo real com indicações e métricas de saúde mental baseada nos dados inseridos pelos psicólogos. Cada usuário terá acesso a apenas parte dos dados disponibilizados para este usuário, sendo que os dados confidenciais disponibilizados pelos psicólogos não ficarão livres para os gestores|
 **Critérios de sucesso**|Programa implementado para uso|
+
+#### 3.5.3 Paciente
+
+|    |    |
+|----|:----:|
+| **Representante** | Cristineide Leandro França|
+|**Descrição**| Paciente que é atendido pelo psicólogo|
+|**Responsabilidade**| Após um cadastro com seus dados, o paciente poderá conferir a lista de psicólogos e agendar consultas baseado nos horários disponíveis. Os prontuários disponibilizados devem se referir a estes pacientes cadastrados|
+|**Critérios de sucesso**| Programa implementado para uso|
 
 
 ### 3.6 Principais Necessidades dos Usuários 
