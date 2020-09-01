@@ -1,4 +1,5 @@
 # Documento de visão
+## Histórico de versões
 | Data     | Versão   | Descrição| Autor    |
 | -------- | -------- | -------- | -------- |
 | 29/08/2020 | 0.1  | Adição da Introdução | Caio Martins |
