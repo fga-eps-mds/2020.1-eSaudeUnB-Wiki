@@ -1,53 +1,52 @@
-
+# Documento de visão
 | Data     | Versão   | Descrição| Autor    |
 | -------- | -------- | -------- | -------- |
-| 29/08/2020 | 0.0.1  | adição da introdução | Caio Martins |
-| 29/08/2020 | 0.0.2  | alteração na Restrição | Luis Marques |
-| 29/08/2020 | 0.0.3  | adição da Descrição da Parte Interessada e do Usuário | Vinícius Ferreira |
-| 29/08/2020 | 0.0.4  | Criação de tabela com resumo das funcionalidades | Pedro Henrique Castro de Oliveira |
-| 30/08/2020 | 0.0.5  | Alteração no texto do quadro resumo relacionado a listagem do psicólogo  | Pedro Henrique Castro de Oliveira |
-| 30/08/2020 | 0.0.6  | Adição de conteúdo a introdução: definição de abreviações e referências | Caio Martins |
-| 30/08/2020 | 0.0.7  | Formatação e inclusão de informações ao tópico restrições | Luis Marques |
-| 31/08/2020|0.1.7|Inclusão da Visão Geral do Produto| Abner Filipe
-# Documento de visão
----
+| 29/08/2020 | 0.1  | Adição da Introdução | Caio Martins |
+| 29/08/2020 | 0.2  | Alteração na Restrição | Luis Marques |
+| 29/08/2020 | 0.3  | Adição da Descrição da Parte Interessada e do Usuário | Vinícius Ferreira |
+| 29/08/2020 | 0.4  | Criação de tabela com Resumo das Funcionalidades | Pedro Henrique Castro de Oliveira |
+| 30/08/2020 | 0.5  | Alteração no texto do quadro resumo relacionado a listagem do psicólogo  | Pedro Henrique Castro de Oliveira |
+| 30/08/2020 | 0.6  | Adição de conteúdo a introdução: definição de abreviações e referências | Caio Martins |
+| 30/08/2020 | 0.7  | Formatação e inclusão de informações ao tópico restrições | Luis Marques |
+| 31/08/2020| 0.8 |Inclusão da Visão Geral do Produto| Abner Filipe |
+| 01/09/2020 | 0.9 | Correção de Erros no Sumário | Abner Filipe / Rafael Leão |
 
 # Sumário
->## 1.[Introdução](#introducao)
->> #### 1.1[Propósito](#Proposito)
->> #### 1.2[Escopo](#Escopo)
->> #### 1.3[Definições, acrônimos e abreviações](#Definicoes,-acronimos-e-abreviacoes)
->> #### 1.4[Referências](###referencias)
->> #### 1.5[Visão Geral](###Visao-geral)
->## 2.[Posicionamento](#posicionamento)
->> #### 2.1[Oportunidades de Negócios](#Oportunidades-de-Negocios)
->> #### 2.2[Instrução do Problema](#Instrucao-do-Problema)
->> #### 2.3[Instrução de Posição do Produto](#Instrucao-de-Posicao-do-Produto)
->## 3.[Descrição da Parte Interessada e do Usuário](#Descricao-da-Parte-Interessada-e-do-Usuario)
->> #### 3.1[Resumo das Partes Interessadas](#Resumo-das-Partes-Interessadas)
->> #### 3.2[Resumo dos Usuários](#Resumo-dos-Usuarios)
->> #### 3.3[Ambiente do Usuário](#Ambiente-do-Usuario)
->> #### 3.4[Perfis das Partes Interessadas](#Perfis-das-Partes-Interessadas)
->>>#### 3.4.1[Time de Desenvolvimento](#Time-de-Desenvolvimento)
->>>#### 3.4.2[Time de Gerenciamento](#Time-de-Gerenciamento)
->>>#### 3.4.3[Supervisor](#Supervisor)
->> #### 3.5[Perfil do Usuário](#Perfil-do-Usuario)
->>>#### 3.5.1[Psicólogo](#Psicologo)
->>>#### 3.5.2[Gestor](#Gestor)
->> #### 3.6[Principais Necessidades dos Usuários](#Principais-Necessidades-dos-Usuarios)
->## 4.[Visão Geral do Produto](#Visao-Geral-do-Produto)
->> #### 4.1[Perspectiva do Produto](#Perspectiva-do-Produto)
->> #### 4.2[Resumo dos Recursos](#Resumo-dos-Recursos)
->## 5.[Recursos do Produto](##Recursos-do-Produto)
->## 6.[Restrições](#Restricoes)
->> #### 6.1[Restrições de Implementação](#Restricoes-de-Implementacao)
->> #### 6.2[Restrições de Design](#Restricoes-de-Design)
->> #### 6.3[Restrições de Segurança](#Restricoes-de-Seguranca)
->> #### 6.4[Restrições Externas](#Restricoes-Externas)
->> #### 6.5[Restrições de Metodologia](#Restricoes-de-Metodologia)
+## [1.Introdução](#1-Introducao)
+#### [1.1 Propósito](#11-Proposito1)
+#### [1.2 Escopo](#12-Escopo1)
+#### [1.3 Definições, acrônimos e abreviações](#13-Definicoes-acronimos-e-abreviacoes1)
+#### [1.4 Referências](#14-Referencias1)
+#### [1.5 Visão geral](#15-Visao-geral)
+## [2.Posicionamento](#2-Posicionamento)
+#### [2.1 Oportunidades de Negócios](#21-Oportunidades-de-Negocios1)
+#### [2.2 Instrução do Problema](#22-Instrucao-do-Problema1)
+#### [2.3 Instrução de Posição do Produto](#23-Instrucao-de-Posicao-do-Produto1)
+## [3.Descrição da Parte Interessada e do Usuário](#3-Descricao-da-Parte-Interessada-e-do-Usuario)
+#### [3.1 Resumo das Partes Interessadas](#31-Resumo-das-Partes-Interessadas1)
+#### [3.2 Resumo dos Usuários](#32-Resumo-dos-Usuarios1)
+#### [3.3 Ambiente do Usuário](#33-Ambiente-do-Usuario1)
+#### [3.4 Perfis das Partes Interessadas](#34-Perfis-das-Partes-Interessadas1)
+#### [3.4.1 Time de Desenvolvimento](#341-Time-de-Desenvolvimento1)
+#### [3.4.2 Time de Gerenciamento](#342-Time-de-Gerenciamento1)
+#### [3.4.3 Supervisor](#343-Supervisor1)
+#### [3.5 Perfil do Usuário](#35-Perfil-do-Usuario1)
+#### [3.5.1 Psicólogo](#351-Psicologo1)
+#### [3.5.2 Gestor](#352-Gestor1)
+#### [3.6 Principais Necessidades dos Usuários](#36-Principais-Necessidades-dos-Usuarios1)
+## [4.Visão Geral do Produto](#4-Visao-Geral-do-Produto)
+#### [4.1 Perspectiva do Produto](#41-Perspectiva-do-Produto1)
+#### [4.2 Resumo dos Recursos](#42-Resumo-dos-Recursos1)
+## [5.Recursos do Produto](#5-Recursos-do-Produto)
+## [6.Restrições](#6-Restricoes)
+#### [6.1 Restrições de Implementação](#6.1-Restricaes-de-Implementacao1)
+#### [6.2 Restrições de Design](#62-Restricoes-de-Design1)
+#### [6.3 Restrições de Segurança](#63-Restricoes-de-Seguranca1)
+#### [6.4 Restrições Externas](#64-Restricoes-Externas1)
+#### [6.5 Restrições de Metodologia](#65-Restricooes-de-Metodologia1)
 
 
-## 1 Introdução
+## 1. Introdução
 ### 1.1 Propósito
 O presente documento tem como objetivo expor requisitos visando as necessidades dos usuários finais e uma descrição compreensível do funcionamento geral do sistema.
 
@@ -170,7 +169,7 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 
 ### 3.6 Principais Necessidades dos Usuários 
 Um meio de comunicação unificado entre psicólogos, já que esses dados servirão para indicar os principais problemas dos pacientes, ajudando a definir qual o foco que deverá ser tomado coletivamente. 
-## 4.Visão Geral do Produto
+## 4 Visão Geral do Produto
 ### 4.1 Perspectiva do Produto
 O produto tem como meta a implantação de uma plataforma com a finalidade de atualizar os atendimentos na área de saúde mental decorrentes do isolamento social, com o propósito de lidar com a fase de recuperação da pandemia Covid-19.
 ### 4.2 Resumo dos Recursos
@@ -184,7 +183,7 @@ O produto tem como meta a implantação de uma plataforma com a finalidade de at
 
 
 
-## 5.Recursos do Produto
+## 5 Recursos do Produto
 O sistema dispõe das seguintes funcionalidades:
 * Cadastro de psicólogos. 
 * Listagem de psicólogos.
@@ -203,7 +202,7 @@ O sistema dispõe das seguintes funcionalidades:
 | Disponibilizar dashboard de business intelligence | O software processará as informações cadastradas e montará painéis com gráficos mostrando dados e estatísticas relevantes sobre os pacientes |
 
 
-## 6.Restrições
+## 6 Restrições
 ### 6.1 Restrições de Implementação
 O software deverá ser implementado para funcionar 100% via web, sem necessidade de dependências externas.
 ### 6.2 Restrições de Design
