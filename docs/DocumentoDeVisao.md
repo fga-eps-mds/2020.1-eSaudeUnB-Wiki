@@ -13,39 +13,6 @@
 | 01/09/2020 | 0.9 | Correção de Erros no Sumário | Abner Filipe / Rafael Leão |
 | 01/09/2020 | 0.10 | Adição da Parte Interessada Cliente e do Usuário Paciente| Vinicius Ferreira |
 
-## Sumário
-## [1.Introdução](#1-introducao)
-#### [1.1 Propósito](#11-proposito1)
-#### [1.2 Escopo](#12-escopo1)
-#### [1.3 Definições, acrônimos e abreviações](#13-definicoes-acronimos-e-abreviacoes1)
-#### [1.4 Referências](#14-referencias1)
-#### [1.5 Visão geral](#15-visao-geral)
-## [2.Posicionamento](#2-posicionamento)
-#### [2.1 Oportunidades de Negócios](#21-oportunidades-de-negocios1)
-#### [2.2 Instrução do Problema](#22-instrucao-do-problema1)
-#### [2.3 Instrução de Posição do Produto](#23-instrucao-de-posicao-do-produto1)
-## [3.Descrição da Parte Interessada e do Usuário](#3-descricao-da-parte-interessada-e-do-usuario)
-#### [3.1 Resumo das Partes Interessadas](#31-resumo-das-partes-interessadas1)
-#### [3.2 Resumo dos Usuários](#32-resumo-dos-usuarios1)
-#### [3.3 Ambiente do Usuário](#33-ambiente-do-usuario1)
-#### [3.4 Perfis das Partes Interessadas](#34-perfis-das-partes-interessadas1)
-#### [3.4.1 Time de Desenvolvimento](#341-time-de-desenvolvimento1)
-#### [3.4.2 Time de Gerenciamento](#342-time-de-gerenciamento1)
-#### [3.4.3 Supervisor](#343-supervisor1)
-#### [3.5 Perfil do Usuário](#35-perfil-do-usuario1)
-#### [3.5.1 Psicólogo](#351-psicologo1)
-#### [3.5.2 Gestor](#352-gestor1)
-#### [3.6 Principais Necessidades dos Usuários](#36-principais-necessidades-dos-usuarios1)
-## [4.Visão Geral do Produto](#4-visao-geral-do-produto)
-#### [4.1 Perspectiva do Produto](#41-perspectiva-do-produto1)
-#### [4.2 Resumo dos Recursos](#42-resumo-dos-recursos1)
-## [5.Recursos do Produto](#5-recursos-do-produto)
-## [6.Restrições](#6-restricoes)
-#### [6.1 Restrições de Design](#62-restricoes-de-design1)
-#### [6.2 Restrições de Segurança](#63-restricoes-de-seguranca1)
-#### [6.3 Restrições de Metodologia](#65-restricoes-de-metodologia1)
-
-
 ## 1. Introdução
 ### 1.1 Propósito
 O presente documento tem como objetivo expor requisitos visando as necessidades dos usuários finais e uma descrição compreensível do funcionamento geral do sistema.
