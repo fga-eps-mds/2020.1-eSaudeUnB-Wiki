@@ -14,6 +14,7 @@
 | 01/09/2020 | 0.10 | Adição da Parte Interessada Cliente e do Usuário Paciente| Vinicius Ferreira |
 
 ## 1. Introdução
+
 ### 1.1 Propósito
 O presente documento tem como objetivo expor requisitos visando as necessidades dos usuários finais e uma descrição compreensível do funcionamento geral do sistema.
 
@@ -21,22 +22,23 @@ O presente documento tem como objetivo expor requisitos visando as necessidades 
 Este documento busca exclusivamente oferecer um entendimento amplo e unificado a todas as partes envolvidas das expectativas sobre o projeto de desenvolvimento da aplicação
 
 ### 1.3 Definições, acrônimos e abreviações
-MDS: Métodos de Desenvolvimento de Software
-EPS: Engenharia de Produto de Software
-BI: Business Intelligence
+MDS: Métodos de Desenvolvimento de Software <br>
+EPS: Engenharia de Produto de Software <br>
+BI: Business Intelligence <br>
 
 ### 1.4 Referências
 AGUIAR, Carla Silva Rocha. Plataforma online para prontuário de atendimento fase de recuperação COVID-19. UNB, 2020. Disponível em: <http://repositoriocovid19.unb.br/repositorio-projetos/plataforma-online-para-prontuario-de-atendimento-fase-de-recuperacao-covid-19/>. Acesso em: 30 de aug. de 2020
 
 ### 1.5 Visão geral
-O documento está organizado  em tópicos, possuindo a seguinte disposição:
-**Posicionamento:** Fornece uma introdução ao posicionamento do produto perante o mercado.
-**Descrição da Parte Interessada e do Usuário:**  Fornece uma identificação ao perfil dos usuários e partes interessadas.
-**Visão Geral do Produto:** Fornece uma abstração geral das capacidades do produto.
-**Recursos do Produto:** Fornece uma listagem descritiva de todos os recursos e casos de uso do produto
-**Restrições:** Fornece uma descrição de restrições internas, externas, operacionais, regulamentares e dependências do sistema
+O documento está organizado  em tópicos, possuindo a seguinte disposição:<br>
+**Posicionamento:** Fornece uma introdução ao posicionamento do produto perante o mercado.<br>
+**Descrição da Parte Interessada e do Usuário:**  Fornece uma identificação ao perfil dos usuários e partes interessadas.<br>
+**Visão Geral do Produto:** Fornece uma abstração geral das capacidades do produto.<br>
+**Recursos do Produto:** Fornece uma listagem descritiva de todos os recursos e casos de uso do produto<br>
+**Restrições:** Fornece uma descrição de restrições internas, externas, operacionais, regulamentares e dependências do sistema<br>
 
-## 2 Posicionamento
+## 2. Posicionamento
+
 ### 2.1 Oportunidades de Negócios
 No contexto da pandemia que o mundo está passando atualmente, surge a necessidade de reflexão sobre o que foi aprendido durante este período e o delineamento de novas ações que possam ser realizadas em casos semelhantes. Pensando nisso a Plataforma online para prontuário de atendimento na fase de recuperação do COVID-19 representa uma solução, uma vez que, servirá tanto como prontuário para profissionais, como para análise de dados em tempo real.
 
@@ -47,8 +49,6 @@ No contexto da pandemia que o mundo está passando atualmente, surge a necessida
 |**Que afeta**|Os profissionais que, graças ao distanciamento social, precisam buscar novas formas de continuar o trabalho. Além de afetar a população em geral, uma vez que são necessárias mais informações para estarmos mais preparados para caso ocorra algo semelhante com a atual pandemia.|
 |**O impacto do problema é**|Que devido ao isolamento social, muitas pessoas estão desenvolvendo problemas psicológicos ou os já existentes estão se agravando. Somado à isso, o medo do COVID-19 faz com que muitas dessas pessoas não procurem ajuda.|
 |**Uma solução bem sucedida incluiria**|Uma plataforma que permitisse aos profissionais agendar, gerenciar e registrar atendimentos. E que permita que gestores tenham informações em tempo real sobre a saúde mental da comunidade a partir dos dados da plataforma.|
-
-
 
 ### 2.3 Instrução de Posição do Produto
 |  |  | 
@@ -61,7 +61,8 @@ No contexto da pandemia que o mundo está passando atualmente, surge a necessida
 |**O nosso produto**|apresenta uma interface de fácil utilização, e utiliza de BI para fornecer acesso a dashboards online com informações em tempo real.|
 
 
-## 3 Descrição da Parte Interessada e do Usuário
+## 3. Descrição da Parte Interessada e do Usuário
+
 ### 3.1 Resumo das Partes Interessadas
 | Nome | Descrição | Funçao |
 | -------- | -------- | -------- |
@@ -71,8 +72,6 @@ No contexto da pandemia que o mundo está passando atualmente, surge a necessida
 | Clientes | Psicólogos que serão principais usuários | Utilizar o software finalizado para o próprio trabalho |
 
 ### 3.2 Resumo dos Usuários
-
-
 | Nome | Descrição |
 | -------- | -------- |
 | Psicólogo ou outro profissional da área de saúde mental | Criará prontuários para registrar, avaliar e monitorar as consultas e pacientes |
@@ -83,10 +82,8 @@ No contexto da pandemia que o mundo está passando atualmente, surge a necessida
 Será disponibilizado para cada usuário após um login pessoal, uma área de trabalho que varia dependendo do nível de acesso. 
 
 ### 3.4 Perfis das Partes Interessadas
+
 #### 3.4.1 Time de Desenvolvimento
-
-
-
 |  | | 
 | -------- | -------- |
 | **Representantes**    | Abner Filipe, Caio Martins, Luis Marques, Pedro Henrique Castro, Rafael Leão, Vinícius Ferreira |
@@ -94,8 +91,8 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 | **Tipo**     | Estudantes da matéria Métodos de Desenvolvimento de software na Universidade de Brasília/Campus FGA |
 | **Responsabilidades**     | Desenvolver e implementar o software de código aberto e fazer todo seu processo de documentação|
 | **Critérios de sucesso**    | Entrega das releases e do produto final até o fim do curso |
-#### 3.4.2 Time de Gerenciamento
 
+#### 3.4.2 Time de Gerenciamento
 |  | | 
 | -------- | :--------: |
 | **Representantes**    | Joberth Rogers, João Pedro Pereira, Daniel Maike |
@@ -106,7 +103,6 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 
 
 #### 3.4.3 Supervisor
-
 |  | | 
 | -------- | :--------: |
 | **Representantes**    |Hilmer Rodrigues Neri |
@@ -115,7 +111,6 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 | **Responsabilidades**     |Avaliação das entregas de releases e do projeto final |
 
 #### 3.4.4 Cliente
-
 |    |    |
 |----|:----:|
 |  **Representantes**  |    Cristineide Leandro França    |
@@ -123,8 +118,8 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 | **Responsabilidades** |  Definir os requisitos e os problemas que devem ser solucionados pelo software   |
 
 ### 3.5 Perfil do Usuário
-#### 3.5.1 Psicólogo
 
+#### 3.5.1 Psicólogo
 | | |
 |---|:---:|
 | **Representante** | Cristineide Leandro França|
@@ -134,7 +129,6 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 
 
 #### 3.5.2 Gestor
-
 |||
 |--|:--:|
 **Representante** |Priscila Almeida Andrade|
@@ -143,7 +137,6 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 **Critérios de sucesso**|Programa implementado para uso|
 
 #### 3.5.3 Paciente
-
 |    |    |
 |----|:----:|
 | **Representante** | Cristineide Leandro França|
@@ -151,31 +144,29 @@ Será disponibilizado para cada usuário após um login pessoal, uma área de tr
 |**Responsabilidade**| Após um cadastro com seus dados, o paciente poderá conferir a lista de psicólogos e agendar consultas baseado nos horários disponíveis. Os prontuários disponibilizados devem se referir a estes pacientes cadastrados|
 |**Critérios de sucesso**| Programa implementado para uso|
 
-
 ### 3.6 Principais Necessidades dos Usuários 
 Um meio de comunicação unificado entre psicólogos, já que esses dados servirão para indicar os principais problemas dos pacientes, ajudando a definir qual o foco que deverá ser tomado coletivamente. 
-## 4 Visão Geral do Produto
+
+## 4. Visão Geral do Produto
+
 ### 4.1 Perspectiva do Produto
 O produto tem como meta a implantação de uma plataforma com a finalidade de atualizar os atendimentos na área de saúde mental decorrentes do isolamento social, com o propósito de lidar com a fase de recuperação da pandemia Covid-19.
+
 ### 4.2 Resumo dos Recursos
-
-
 | Benefício para o cliente | Recursos de Suporte |
 | -------- | -------- |
 | Armazenamento de informações de clientes, agendamento de consultas, registro de consultas de forma digital     | Elimina o uso de papéis bem como a facilidade de ter todas as informações agrupadas em uma só plataforma    |
 |Atendimento à distância|Por se tratar de uma plataforma web não existe a obrigatoriedade de o atendimento ser presencial
 |Análise em tempo real das informações da comunidade|Gráficos atualizados em tempo real das informações do sistema
 
-
-
-## 5 Recursos do Produto
-O sistema dispõe das seguintes funcionalidades:
-* Cadastro de psicólogos. 
-* Listagem de psicólogos.
-* Agendamento de consulta.
-* Geração de um prontuário eletrônico.
-* Acesso aos dados baseado em níveis de usuário.
-* Disponibilizar Dashboard de Business Intelligence.
+## 5. Recursos do Produto
+O sistema dispõe das seguintes funcionalidades:<br>
+* Cadastro de psicólogos. <br>
+* Listagem de psicólogos.<br>
+* Agendamento de consulta.<br>
+* Geração de um prontuário eletrônico.<br>
+* Acesso aos dados baseado em níveis de usuário.<br>
+* Disponibilizar Dashboard de Business Intelligence.<br>
 
 | Funcionalidades | Resumo |
 | -------- | -------- |
@@ -187,10 +178,13 @@ O sistema dispõe das seguintes funcionalidades:
 | Disponibilizar dashboard de business intelligence | O software processará as informações cadastradas e montará painéis com gráficos mostrando dados e estatísticas relevantes sobre os pacientes |
 
 
-## 6 Restrições
+## 6. Restrições
+
 ### 6.1 Restrições de Design
-Deve ser intuitivo e de fácil uso para os profissionais da área,tendo uma interface amigável.
+Deve ser intuitivo e de fácil uso para os profissionais da área, tendo uma interface amigável.
+
 ### 6.2 Restrições de Segurança
 Os dados armazenados pelo sistema devem se manter confidenciais, para manter sempre o direito sigilo profissional do paciente.
+
 ### 6.3 Restrições de Metodologia
 A metodologia de desenvolvimento da plataforma será baseada em práticas ágeis, DevOps, entrega contínua e comunidades de software livre, tendo seu código fonte disponibilizado gratuitamente para uso por toda a comunidade.
