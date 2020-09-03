@@ -160,7 +160,8 @@ O produto tem como meta a implantação de uma plataforma com a finalidade de at
 |Análise em tempo real das informações da comunidade|Gráficos atualizados em tempo real das informações do sistema
 
 ## 5. Recursos do Produto
-O sistema dispõe das seguintes funcionalidades:<br>
+O sistema dispõe das seguintes funcionalidades:<br><br>
+* Cadastro de pacientes. <br>
 * Cadastro de psicólogos. <br>
 * Listagem de psicólogos.<br>
 * Agendamento de consulta.<br>
@@ -168,9 +169,10 @@ O sistema dispõe das seguintes funcionalidades:<br>
 * Acesso aos dados baseado em níveis de usuário.<br>
 * Disponibilizar Dashboard de Business Intelligence.<br>
 
-| Funcionalidades | Resumo |
+| Funcionalidade | Resumo |
 | -------- | -------- |
-| Cadastro de psicólogos | Permite o cadastro de psicólogos voluntários eletronicamente |
+| Cadastro de pacientes | Permite o cadastro de pacientes para agendar consultas |
+| Cadastro de psicólogos | Permite o cadastro de psicólogos |
 | Listagem de psicólogos | Lista todos os psicólogos cadastrados dando ao usuário uma visibilidade maior sobre o perfil profissional e sua disponibilidade |
 | Agendamento de consulta | Após ter acesso ao perfil profissional do psicólogo permite ao usuário agendar uma consulta com o mesmo |
 | Geração de prontuário eletrônico | Disponibiliza ao psicólogo uma ficha para preenchimento dos dados do paciente |
