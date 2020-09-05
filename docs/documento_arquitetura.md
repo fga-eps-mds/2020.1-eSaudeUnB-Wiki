@@ -6,13 +6,24 @@
 | ---------- | ------ | ---------------------------- | -------------------------- |
 | 02/09/2020 | 0.1    | Abertura do documento        | Caio Martins               |
 | 03/09/2020 | 0.2    | Representação da Arquitetura | Abner Filipe e Rafael Leão |
+| 03/09/2020 | 0.3 | Introdução | Vinícius Ferreira Alves de Lima|
+| 04/09/2020 | 0.4 | Implementação | Luis Marques|
 
 
 
 ## 1 Introdução
 
+### 1.1 Finalidade
+Este documento tem como objetivo descrever a arquitetura do >nome do projeto<. São descritos os serviços e APIs que serão utilizados no desenvolvimento, tal como suas utilidades. Também lista um modelo geral de organização dos arquivos.
 
+### 1.2 Escopo
+O >nome do projeto< é um projeto de registro de prontuários feitos por psicólogos sobre seus pacientes e sessões. Também contará com agendamento, listagem de profissionais e de pacientes.
 
+### 1.3 Acrônimos e Abreviações
+| | |
+|-|-|
+|API | Application Programming Interface |
+|REST| Representational State Transfer |
 ## 2 Representação da Arquitetura
 
 ![](https://i.imgur.com/tanRfCn.png)
@@ -50,16 +61,30 @@ Criado pelo Facebook, Jest foi escolhido como framework de teste devido a sua r�
 ## 4 Visão de Implementação
 
 ### 4.1 Visão Geral
+A aplicação seguirá o padrão de implementação RESTful, isto é, seguiremos utilizando os principios REST. Estilo de arquitetura em que cada aplicação web é um conjunto de recursos que representam um estado permitindo uma comunicação entre aplições independente de sua implementação por meio do protopcolo HTTP.
+
 
 ### 4.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
 #### 4.2.1 Front-End
+O front-end será totalmente desenvolvido utilizando a biblioteca React, segue a estrutura de pacotes
+
+![](https://i.imgur.com/PH8ZVSn.png)
+
 
 #### 4.2.2 Back-End
+Estrutura de pacotes do back-end
+
+![](https://i.imgur.com/wm4DQc6.png)
+
 
 ### 4.3 Modelagem de Dados
+
+![](https://i.imgur.com/NybqjG6.png)
+
 
 
 
 ## 5 Visão de Implantação
 
+A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvonvimento de novas funções,possibilitando um uso antecipado de funções ja desenvolvidas.
