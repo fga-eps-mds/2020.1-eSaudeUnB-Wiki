@@ -8,7 +8,7 @@
 | 03/09/2020 | 0.2    | Representação da Arquitetura | Abner Filipe e Rafael Leão |
 | 03/09/2020 | 0.3 | Introdução | Vinícius Ferreira Alves de Lima|
 | 04/09/2020 | 0.4 | Implementação | Luis Marques|
-
+| 04/09/2020 | 0.5 | Metas e Restrições | Pedro Henrique Castro de Oliveira |
 
 
 ## 1 Introdução
@@ -54,9 +54,27 @@ Axios é um cliente HTTP, que funciona tanto no browser quanto em node.js. A bib
 
 Criado pelo Facebook, Jest foi escolhido como framework de teste devido a sua rápida e fácil implementação. Pelo fato de seus testes rodarem em modo paralelo e possuir a função de coverage no próprio framework, a execução dos testes é mais ágil e não necessita da utilização de bibliotecas nem configurações adicionais para verificar cobertura do código.
 
-## 3 Metas e Restrições de Arquitetura
+## 3. Metas e Restrições
 
+### 3.1. Metas
 
+Criação de uma plataforma online para cadastro de psicólogos voluntários e geração de um prontuário eletrônico para pacientes em fase recuperação da COVID-19 ou com a saúde mental comprometida devido ao isolamento social.
+
+### 3.2. Restrições
+
+* A plataforma deverá ser online, com suporte para os navegadores mais populares, portanto sendo necessário acesso à internet.
+
+    **Segurança:**
+* O sistema deverá ser seguro de modo que proteja os dados confidenciais do paciente garantindo o sigilo médico.
+
+    **Arquitetura:** 
+
+* Contará com uma interface bastante intuitiva
+* Possuirá uma alta escalabilidade garantindo a facilidade de expansão do projeto. 
+* Node.js foi a tecnologia escolhida para ser usada no back-end juntamente com o framework Express em modelo MC (Model-Controller) e a biblioteca React foi a escolha feita para o front-end. 
+* O banco de dados escolhido para o projeto foi o PostgreSQL.
+* Será usado o Axios devido ao seu funcionamento tanto no browser quanto em Node.js.
+* A ferramenta Docker será utilizada para facilitar o desenvolvimento em um ambiente isolado e construído especialmente para a equipe.
 
 ## 4 Visão de Implementação
 
