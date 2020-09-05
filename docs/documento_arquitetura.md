@@ -14,10 +14,10 @@
 ## 1 Introdução
 
 ### 1.1 Finalidade
-Este documento tem como objetivo descrever a arquitetura do >nome do projeto<. São descritos os serviços e APIs que serão utilizados no desenvolvimento, tal como suas utilidades. Também lista um modelo geral de organização dos arquivos.
+Este documento tem como objetivo descrever a arquitetura do eSaúdeUnB. São descritos os serviços e APIs que serão utilizados no desenvolvimento, tal como suas utilidades. Também lista um modelo geral de organização dos arquivos.
 
 ### 1.2 Escopo
-O >nome do projeto< é um projeto de registro de prontuários feitos por psicólogos sobre seus pacientes e sessões. Também contará com agendamento, listagem de profissionais e de pacientes.
+O eSaúdeUnB é um projeto de registro de prontuários feitos por psicólogos sobre seus pacientes e sessões. Também contará com agendamento, listagem de profissionais e de pacientes.
 
 ### 1.3 Acrônimos e Abreviações
 | | |
