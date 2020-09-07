@@ -109,3 +109,21 @@ Estrutura de pacotes do back-end
 ## 5 Visão de Implantação
 
 A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvonvimento de novas funções,possibilitando um uso antecipado de funções ja desenvolvidas.
+
+
+## Referências
+Node.js. Disponível em: https://nodejs.org/. Acesso em 07/09/2020.
+
+React. Disponível em: https://reactjs.org. Acesso em 07/09/2020.
+
+PostgreSQL. Disponível em: https://www.postgresql.org/docs/12/index.html. Acesso em 07/09/2020.
+
+Express. Disponível em: https://expressjs.com/pt-br/4x/api.html. Acesso em 07/09/2020.
+
+Axios. Disponível em: https://github.com/axios/axios. Acesso em 07/09/2020.
+
+Jest. Disponível em: https://jestjs.io/docs/pt-BR/getting-started. Acesso em 07/09/2020.
+
+DIAS, Emílio. 4 Conceitos sobre REST que Qualquer Desenvolvedor Precisa Conhecer. Algablog, 2016.
+Disponível em: https://blog.algaworks.com/4-conceitos-sobre-rest-que-qualquer-desenvolvedor-precisa-conhecer/. Acesso em: 07/09/2020.
+
