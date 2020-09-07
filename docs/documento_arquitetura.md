@@ -9,6 +9,7 @@
 | 03/09/2020 | 0.3 | Introdução | Vinícius Ferreira Alves de Lima|
 | 04/09/2020 | 0.4 | Implementação | Luis Marques|
 | 04/09/2020 | 0.5 | Metas e Restrições | Pedro Henrique Castro de Oliveira |
+| 06/09/2020 | 1.0 | Resumo Representação da Arquitetura | Abner Filipe e Rafael Leão |
 
 
 ## 1 Introdução
@@ -27,6 +28,8 @@ O eSaúdeUnB é um projeto de registro de prontuários feitos por psicólogos so
 ## 2 Representação da Arquitetura
 
 ![](https://i.imgur.com/tanRfCn.png)
+
+Resumo: Utilizaremos para comunicação cliente servidor a arquitetura REST juntamente com uma derivação da arquitetura MVC, o MC, ou seja, não será demandado para o back-end a responsabilidade da view, ou seja, o front-end fará esse trabalho com o uso do React js. Segue nos seguintes tópicos uma breve explicação das tecnologias que serão utilizados para o desenvolvimento.
 
 * React.js
 
