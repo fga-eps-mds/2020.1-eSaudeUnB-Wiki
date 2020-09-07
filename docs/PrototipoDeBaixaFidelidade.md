@@ -29,3 +29,5 @@
 ![ProntuarioPaciente.png](img/ProntuarioPaciente.png)
 
 ## 7. Tela de cadastro de novo atendimento
+
+![Cadastro_Atendimento.png](img/Cadastro_Atendimento.png)
