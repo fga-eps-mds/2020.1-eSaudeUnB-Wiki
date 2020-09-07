@@ -1,4 +1,8 @@
-#Protótipo de Baixa Fidelidade
+# Protótipo de Baixa Fidelidade
+## Histórico de versões
+| Data     | Versão   | Descrição| Autor    |
+| -------- | -------- | -------- | -------- |
+| 07/09/2020 | 1.0  | Adição de todas as telas do protótipo de baixa fidelidade | Abner Filipe, Caio Martins, Luis Marquis, Pedro Henrique, Rafael Leão, Vinicius Ferreira |
 
 ## 1. Login
 
