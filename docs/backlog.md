@@ -37,15 +37,15 @@ Primeiramente, foram recolhidos os requisitos obtidos a partir da proposta de pr
 
 ## 4. _Product Backlog_ <a name="backlog"></a>
 
-Devido ao curto tempo de desenvolvimento da aplicação pela equipe, foi preciso reduzir o escopo da aplicação de maneira a compor as partes principais que poderiam ser entregues até a data final estabelecida para o projeto. Dessa forma, o [backlog original](https://docs.google.com/spreadsheets/d/1tk3AKKslzvp-USAvyrjODCVK4mIj8pOG7cYVpn8alOA/edit?usp=sharing) foi dividido em dois: o implementado e o constante para iterações futuras. As imagens podem ser visualizadas abaixo. 
+Devido ao curto tempo de desenvolvimento da aplicação pela equipe, foi preciso reduzir o escopo da aplicação de maneira a compor as partes principais que poderiam ser entregues até a data final estabelecida para o projeto. Dessa forma, o [backlog original](https://docs.google.com/spreadsheets/d/1tk3AKKslzvp-USAvyrjODCVK4mIj8pOG7cYVpn8alOA/edit?usp=sharing) foi dividido em dois: o presente e o futuro para as próximas iterações. As imagens podem ser visualizadas abaixo. 
 
 O _Product Backlog_ pode ser acessado através desse link: https://docs.google.com/spreadsheets/d/1KaAB7QSrFc_kLbJjvetrwGHoPdRTF6AQEjbenxx-FSM/edit?usp=sharing
 
-### 4.1. _Product Backlog_ (Implementado)
-![ProductBacklogImplementado]()
+### 4.1. _Product Backlog_ (Presente)
+![ProductBacklogPresente](./img/backlog_presente.png)
 
-### 4.2. _Product Backlog_ (Para próximas iterações)
-![ProductBacklogProximo]()
+### 4.2. _Product Backlog_ (Futuro)
+![ProductBacklogFuturo](./img/backlog_futuro.png)
 
 ## 5. Referências <a name="referencias"></a>
 
