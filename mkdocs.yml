@@ -26,8 +26,13 @@ nav:
     - Documento de Visão: DocumentoDeVisao.md
   - Sprints:
     - Sprint 0:
-      - Planejamento Sprint 0: planejamento_sprint0.md
-      - Resultado Sprint 0: resultado_sprint0.md
+      - Planejamento: planejamento_sprint0.md
+      - Resultado: resultado_sprint0.md
     - Sprint 1:
-      - Planejamento Sprint 1: planejamento_sprint01.md
-      - Resultado Sprint 1: resultado_sprint01.md
+      - Planejamento: planejamento_sprint01.md
+      - Resultado: resultado_sprint01.md
+    - Sprint 2:
+      - Planejamento: planejamento_sprint2.md
+      - Resultado: resultado_sprint02.md
+    - Sprint 3:
+      - Planejamento Sprint 3: planejamento_sprint03.md
