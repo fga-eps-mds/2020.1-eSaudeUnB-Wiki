@@ -10,6 +10,7 @@
 | 04/09/2020 | 0.4 | Implementação | Luis Marques|
 | 04/09/2020 | 0.5 | Metas e Restrições | Pedro Henrique Castro de Oliveira |
 | 06/09/2020 | 1.0 | Resumo Representação da Arquitetura | Abner Filipe e Rafael Leão |
+|07/09/2020 | 1.1 | Referências adicionadas | Vinícius Ferreira |
 
 
 ## 1 Introdução
