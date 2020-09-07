@@ -26,6 +26,7 @@ nav:
     - Backlog do Produto: backlog.md
     - Documento de Visão: DocumentoDeVisao.md
     - Prototipo De Baixa Fidelidade: PrototipoDeBaixaFidelidade.md
+    - Estrutura Analítica do Projeto: eap.md
   - Sprints:
     - Sprint 0:
       - Planejamento: planejamento_sprint0.md
