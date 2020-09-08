@@ -11,6 +11,7 @@
 | 04/09/2020 | 0.5 | Metas e Restrições | Pedro Henrique Castro de Oliveira |
 | 06/09/2020 | 1.0 | Resumo Representação da Arquitetura | Abner Filipe e Rafael Leão |
 |07/09/2020 | 1.1 | Referências adicionadas | Vinícius Ferreira |
+|07/09/2020 | 1.2 | Arrumando formatação do campo Metas e Restrições | Pedro Henrique Castro de Oliveira |
 
 
 ## 1 Introdução
@@ -68,10 +69,10 @@ Criação de uma plataforma online para cadastro de psicólogos voluntários e g
 
 * A plataforma deverá ser online, com suporte para os navegadores mais populares, portanto sendo necessário acesso à internet.
 
-    **Segurança:**
+* **Segurança:**
 * O sistema deverá ser seguro de modo que proteja os dados confidenciais do paciente garantindo o sigilo médico.
 
-    **Arquitetura:** 
+* **Arquitetura:** 
 
 * Contará com uma interface bastante intuitiva
 * Possuirá uma alta escalabilidade garantindo a facilidade de expansão do projeto. 
