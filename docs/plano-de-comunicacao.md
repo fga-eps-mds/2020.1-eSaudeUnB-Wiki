@@ -17,7 +17,9 @@
 | Google Drive | - Armazenamento da modelagem dos diagramas desenvolvidos nos documentos. <br> - Armazenamento das tabelas de horas trabalhadas da equipe. |
 | Github | - Armazenamento e versionamento de código. <br> - Uso de Issues para rastreamento e delegação de tarefas. <br> - Usar o github pages para criação da wiki e mostrar os artefatos e andamento do projeto ao publico. <br> - Revisão e discussão das funcionalidades antes destas serem mergeadas. |
 | ZenHUb | - Monitoramento da produtividade da equipe através de gráficos de burndown e velocity. <br> - Rastreamento do andamento da funcionalidades criadas usando a metodologia Kanban. | 
+| Teams | - Ambiente onde ocorre as reuniões dos time <br> - Interação por vídeo chamada, já que a disciplina está ocorrendo remotamente, é uma forma do time se interagir melhor. |
 
+<br>
 
 ## Rituais do Projeto
 
