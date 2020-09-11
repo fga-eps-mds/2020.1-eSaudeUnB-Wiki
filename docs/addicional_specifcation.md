@@ -10,6 +10,7 @@
 | 08/09/2020 | 0.0.1 | Abertura do documento | Luis Marques e Pedro Henrique | 
 | 09/09/2020 | 0.0.2 | Adição dos campos Confiabilidade, Portabilidade, Desempenho, Restrições de Design | Pedro Henrique Castro de Oliveira|
 |10/09/2020|0.0.3|Topicos 1,2,6,7 é 9|Luis Marques|
+|10/09/2020|0.0.4|Formatação do documento |Luis Marques|
 
 ## 1. Introdução  
 
@@ -36,7 +37,7 @@ Como Ponto Essencial Para o projeto, temos que o Software Deverá ser de usabili
 * Intuitivo: para que se possa utilizar ao primeiro contato <br> 
 * Pratico: para utilização no dia a dia dos profissionais<br> 
 * Seguro: Proteção aos dados confidenciais de Pacientes e psicólogos<br> 
-* Estável: para utilização em larga escala. 
+* Estável: para utilização em larga escala. <br>
 ## 3. Confiabilidade 
 
 * O sistema deverá ter alto nível de confiabilidade devido a manipulação de informações particulares dos pacientes e o sigilo médico é algo essencial e que tem que ser garantido e priorizado. Pensando nisso, o sistema será baseado em hierarquia de acesso garantindo a seguridade dos dados. 
@@ -95,14 +96,14 @@ A camada MC (Model-Controller) encontrada no back-end (Node.js + Express.js) e a
 ## 9. Interfaces do Usuário  
 
 o Sistema contara com as seguintes telas:<br> 
--Login  
--Cadastro de Usuário Paciente< 
--Cadastro de Usuário Psicólogo 
--Lista de Psicólogos 
--Lista de Horários de um psicólogo 
--Lista de Prontuário dos pacientes 
--Visualização de prontuário de um paciente 
--Tela de cadastro de novo atendimento 
--informações complementares (quando o usuário estiver logado). 
+-Login  <br>
+-Cadastro de Usuário Paciente <br>
+-Cadastro de Usuário Psicólogo <br>
+-Lista de Psicólogos <br>
+-Lista de Horários de um psicólogo <br>
+-Lista de Prontuário dos pacientes <br>
+-Visualização de prontuário de um paciente <br>
+-Tela de cadastro de novo atendimento <br>
+-informações complementares (quando o usuário estiver logado). <br>
 
 ## 10. Diagrama NFR 
