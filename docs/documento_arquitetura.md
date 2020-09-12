@@ -12,6 +12,8 @@
 | 06/09/2020 | 1.0 | Resumo Representação da Arquitetura | Abner Filipe e Rafael Leão |
 |07/09/2020 | 1.1 | Referências adicionadas | Vinícius Ferreira |
 |07/09/2020 | 1.2 | Arrumando formatação do campo Metas e Restrições | Pedro Henrique Castro de Oliveira |
+| 12/09/2020 | 1.3 | Ajustando item 2 e 4.3 | Joberth Rogers Tavares Costa |
+| 12/09/2020 | 1.4 | Corrigindo erros ortográficos | Joberth Rogers Tavares Costa |
 
 
 ## 1 Introdução
@@ -25,17 +27,27 @@ O eSaúdeUnB é um projeto de registro de prontuários feitos por psicólogos so
 ### 1.3 Acrônimos e Abreviações
 | | |
 |-|-|
-|API | Application Programming Interface |
-|REST| Representational State Transfer |
+| API | Application Programming Interface |
+| REST | Representational State Transfer |
+| MVC | Model, View and Controller |
+| MC | Model and Controller |
+
 ## 2 Representação da Arquitetura
 
-![](https://i.imgur.com/tanRfCn.png)
+O modelo de arquitetura proposto nesse projeto é um modelo multicamada, onde é divido em três frentes principais:
 
-Resumo: Utilizaremos para comunicação cliente servidor a arquitetura REST juntamente com uma derivação da arquitetura MVC, o MC, ou seja, não será demandado para o back-end a responsabilidade da view, ou seja, o front-end fará esse trabalho com o uso do React js. Segue nos seguintes tópicos uma breve explicação das tecnologias que serão utilizados para o desenvolvimento.
+- A camada de persistência, onde engloba o banco de dados relacional Postgres.
+- A camada de manipulação e tratamento de dados, usando o framework ExpressJS.
+- Camada de visualização dos dados, responsável por renderizar todos os dados manipulados na camada de tratamento e lidar diretamente com o usuário final.
+
+Para realizar a comunicação entre as camadas, será utilizado o modelo de arquitetura cliente-servidor, no qual há os fornecedores de recursos e os que consomem esses recursos disponibilizados. O servidor é um fornecedor de recurso, onde é uma camada intermediária responsável por lidar diretamente com os a camada de persistência e fornecer os dados manipulados para a camada View através do protocolo de comunicação HTTP. O Cliente nesse ecossistema usufrui dos dados fazendo requisições ao servidor e renderizando estes para os usuários que fizeram a requisição.   
+
+
+![Diagrama de arquitetura](https://i.imgur.com/tanRfCn.png)
 
 * React.js
 
-O frontend do projeto usará a biblioteca ReactJS, pela grande comunidade que engloba o ecossistema dessa biblioteca. Além disso o ReactJS possui diversos componentes prontos que podem ser adicionados, o que ajuda bastante na agilidade do desenvolvimento. Essa biblioteca também conta com serviços para construção de PWA (progressive web application) de forma bastante simples e rápida. 
+O Frontend do projeto usará a biblioteca ReactJS, pela grande comunidade que engloba o ecossistema dessa biblioteca. Além disso o ReactJS possui diversos componentes prontos que podem ser adicionados, o que ajuda bastante na agilidade do desenvolvimento. Essa biblioteca também conta com serviços para construção de PWA (progressive web application) de forma bastante simples e rápida. Englobado na arquitetura do projeto, o ReactJs será a camada de View responsável por lidar diretamente com o usuário.
 
 * Node.js
 
@@ -49,9 +61,11 @@ O banco de dados escolhido para o projeto foi o Postgres, pela sua alta performa
 
 Para a parte do Backend, será usado o framework express juntamente com o  nodeJs, pela sua grande performance e flexibilidade, onde o próprio desenvolvedor tem a liberdade de definir a arquitetura do projeto. O express conta com todo o sistema de gerenciamento de rotas, utilitários HTTPs e gerenciamento de middlewares, o que é de grande ajuda para desenvolver aplicações do tipo REST e aplicações WEBs monolíticas.
 
+A responsabilidade desse framework é atuar como a camada de manipulação dos dados, sendo a API do projeto. A arquitetura usada no Backend será a MC, derivada da arquitetura MVC. Nesse caso não existe a View para essa camada, pois esta tem a única responsabilidade de fazer o interfaceamento e manipulação de dados entre a camada de persistência e View da projeto.
+
 * Axios
 
-Requisições http são um dos principais recursos usados no desenvolvimento web, já que são necessárias para acessar o backend de nossas aplicações, banco de dados, entre outros. 
+Requisições HTTP são um dos principais recursos usados no desenvolvimento web e mobile, já que são necessárias para acessar o servidor de nossas aplicações, banco de dados, entre outros. 
 
 Axios é um cliente HTTP, que funciona tanto no browser quanto em node.js. A biblioteca é basicamente uma API que sabe interagir tanto com XMLHttpRequest quanto com a interface http do node. Isso significa que o mesmo código utilizado para fazer requisições ajax no browser também funciona no servidor. Além disso, as requisições feitas através da biblioteca retornam uma promise, compatível com a nova versão do JavaScript - ES6.
 
@@ -84,7 +98,7 @@ Criação de uma plataforma online para cadastro de psicólogos voluntários e g
 ## 4 Visão de Implementação
 
 ### 4.1 Visão Geral
-A aplicação seguirá o padrão de implementação RESTful, isto é, seguiremos utilizando os principios REST. Estilo de arquitetura em que cada aplicação web é um conjunto de recursos que representam um estado permitindo uma comunicação entre aplições independente de sua implementação por meio do protopcolo HTTP.
+A aplicação seguirá o padrão de implementação RESTful, isto é, seguiremos utilizando os princípios REST. Estilo de arquitetura em que cada aplicação web é um conjunto de recursos que representam um estado permitindo uma comunicação entre aplicações independente de sua implementação por meio do protocolo HTTP.
 
 
 ### 4.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
@@ -103,14 +117,12 @@ Estrutura de pacotes do back-end
 
 ### 4.3 Modelagem de Dados
 
-![](https://i.imgur.com/NybqjG6.png)
-
-
+![](./img/DER.png)
 
 
 ## 5 Visão de Implantação
 
-A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvonvimento de novas funções,possibilitando um uso antecipado de funções ja desenvolvidas.
+A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvolvimento de novas funções,possibilitando um uso antecipado de funções ja desenvolvidas.
 
 
 ## Referências
