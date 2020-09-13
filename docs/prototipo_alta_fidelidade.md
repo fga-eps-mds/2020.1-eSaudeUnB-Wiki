@@ -6,13 +6,13 @@ Este documento tem como propósito apresentar o protótipo de alta fidelidade de
 
 ## Landing Page
 
-[![landing.png](img/landing.png)](img/landing.png)
+[![landingPage.png](img/landingPage.png)](img/landingPage.png)
 
 A Landing Page será a página inicial do projeto. Nela o usuário terá uma breve apresentação do eSaude e ainda poderá fazer o Login e se cadastrar na plataforma.
 
 ## Login
 
-[![Login.png](img/Login.png)](img/Login.png)
+[![LoginPage.png](img/LoginPage.png)](img/LoginPage.png)
 
 Após cadastrado o usuário poderá logar e fazer o uso das funcionalidades do site.
 
