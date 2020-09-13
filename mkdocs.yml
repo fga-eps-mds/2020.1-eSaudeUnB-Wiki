@@ -23,8 +23,12 @@ nav:
     - Termo de Abertura do Projeto: tap.md
     - Plano de Gestão e Configuração de Software: gcs.md
     - Roadmap Papéis: roadmap-papeis.md
-    - Backlog do Produto: backlog.md
+    - Estrutura Analítica do Projeto: eap.md
+    - Plano de Comunicação: plano-de-comunicacao.md
+  - Produto:
     - Documento de Visão: DocumentoDeVisao.md
+    - Backlog do Produto: backlog.md
+    - Documento de Metodologia e Papeis: metodologia-e-papeis.md
     - Prototipo De Baixa Fidelidade: PrototipoDeBaixaFidelidade.md
     - Estrutura Analítica do Projeto: eap.md
     - Documento de Especificação Suplementar: DocumentoDeEspecificacaoSuplementar.md
