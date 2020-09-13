@@ -9,15 +9,16 @@
 | --- | --- | --- | --- | 
 | 08/09/2020 | 0.1 | Abertura do documento | Luis Marques e Pedro Henrique | 
 | 09/09/2020 | 0.2 | Adição dos campos Confiabilidade, Portabilidade, Desempenho, Restrições de Design | Pedro Henrique Castro de Oliveira |
-|10/09/2020|0.3|Tópicos 1,2,6,7 e 9| Luis Marques |
-|10/09/2020|0.4|Formatação do documento | Luis Marques |
-|11/09/2020|1.0|Adiação do diagrama, tópico 8.3 e formatação |Luis Marques e Pedro Henrique |
+|10/09/2020|0.3| Tópicos 1,2,6,7 e 9| Luis Marques |
+|10/09/2020|0.4| Formatação do documento | Luis Marques |
+|11/09/2020|1.0| Adição do diagrama, tópico 8.3 e formatação | Luis Marques e Pedro Henrique |
+|13/09/2020|1.1| Mudança no nome do arquivo para padronização, mudança no texto do tópico 1.1 e tópico 7 e correção de ortografia | Pedro Henrique Castro de Oliveira |
 
 ## 1. Introdução  
 
 ### 1.1 Finalidade 
 
-Este documento tem por objetivo abordar as especificações sobre o software que não foram abordadas em documentos anteriores (Documento Visão, Documento de Arquitetura).
+Esse documento tem como objetivo esclarecer e evidenciar os requisitos não funcionais do sistema, deixando claro os atributos usabilidade, confiabilidade, portabilidade, desempenho, interoperabilidade, segurança e restrições de design, a fim de deixar a parte interessada e futuros desenvolvedores a par desses conceitos. Além de explicitar tudo que foi previamente definido com o cliente e não está listado no caso de uso.
 
 ### 1.2 Escopo 
 
@@ -32,7 +33,7 @@ Os requisitos e funcionalidades aqui especificados fazem parte do processo de de
 ### 1.4 Referências 
 AGUIAR, Carla Silva Rocha. Plataforma online para prontuário de atendimento fase de recuperação COVID-19. UNB, 2020. Disponível em: http://repositoriocovid19.unb.br/repositorio-projetos/plataforma-online-para-prontuario-de-atendimento-fase-de-recuperacao-covid-19/. Acesso em: 10 de set. de 2020 
 ## 2. Usabilidade  
-Como Ponto Essencial Para o projeto, temos que o Software Deverá ser de usabilidade fácil, de aprendizado rápido, é de uso simples para os profissionais. 
+Como ponto essencial para o projeto, temos que o software deverá ser de usabilidade fácil, de aprendizado rápido, e de uso simples para os profissionais. 
 ### 2.1 Metas de usabilidade 
 
 * Intuitivo: para que se possa utilizar ao primeiro contato.<br> 
@@ -56,7 +57,7 @@ Como Ponto Essencial Para o projeto, temos que o Software Deverá ser de usabili
 
 ## 7. Segurança  
 
-As Informações do prontuário, assim como nome, e qualquer outros dados armazenados pela aplicação, serão acessíveis somente por psicólogos, ou pelo próprio paciente, através de uma solicitação formal. 
+As Informações do prontuário serão acessíveis somente por psicólogos ou pode ser acessada pelo usuário paciente, desde que este solicite o prontuário formalmente.
 
 ## 8. Restrições de Design  
 
