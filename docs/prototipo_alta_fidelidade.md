@@ -45,7 +45,8 @@ Lista de pacientes cadastrados no site.
 
 ## Perfil do Psicólogo
 
-
+Através do perfil do psicólogo será possível relizar a alteração da bio exibida, configuração do cronograma e algumas informações pessoais.
 
 ## Perfil do Usuário
 
+Através do perfil do usuário será possível fazer algumas alterações de informações pessoais.
