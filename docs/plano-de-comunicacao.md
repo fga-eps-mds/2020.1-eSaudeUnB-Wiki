@@ -2,6 +2,13 @@
 
 <hr>
 
+## Histórico de Revisões
+
+|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+|:----------:|:--------:|:----------------------:|:---------------------------:|
+| 10/09/2020 |   0.1    | Criação do Documento de Metodologia e Papeis  |   Joberth Rogers  |
+
+
 ## Overview
 
 <p style="text-align: justify;">
@@ -15,9 +22,9 @@
 | Slack      | - Comunicação geral entre o time. <br> - Criar avisos. <br> - Notificar através do bot quando há alguma interação nos repositórios ( Pull Requests, Abertura de Issues e etc... ). |
 | Daily Bot | - Ferramenta usada para realizar as dailys de forma automática. |
 | Google Drive | - Armazenamento da modelagem dos diagramas desenvolvidos nos documentos. <br> - Armazenamento das tabelas de horas trabalhadas da equipe. |
-| Github | - Armazenamento e versionamento de código. <br> - Uso de Issues para rastreamento e delegação de tarefas. <br> - Usar o github pages para criação da wiki e mostrar os artefatos e andamento do projeto ao publico. <br> - Revisão e discussão das funcionalidades antes destas serem mergeadas. |
+| Github | - Armazenamento e versionamento de código. <br> - Uso de Issues para rastreamento e delegação de tarefas. <br> - Usar o github pages para criação da wiki e mostrar os artefatos e andamento do projeto ao publico. <br> - Revisão e discussão das funcionalidades antes destas serem mergeadas. <br> - Acompanhamento das tarefas da Sprint pelo board adicionado no repositório.  |
 | ZenHUb | - Monitoramento da produtividade da equipe através de gráficos de burndown e velocity. <br> - Rastreamento do andamento da funcionalidades criadas usando a metodologia Kanban. | 
-| Teams | - Ambiente onde ocorre as reuniões dos time <br> - Interação por vídeo chamada, já que a disciplina está ocorrendo remotamente, é uma forma do time se interagir melhor. |
+| Teams | - Ambiente onde ocorre as reuniões do time <br> - Interação por vídeo chamada, já que a disciplina está ocorrendo remotamente, é uma forma do time interagir melhor. |
 
 <br>
 
@@ -27,7 +34,7 @@ Atualmente o time usa dois rituais durante cada Sprint, sendo estes base para Me
     
 ### Dailys
  
- As dailys são realizadas de segunda a sexta para acompanhar o andamento de cada membro do time, onde são perguntados para cada integrante três perguntas:
+ As dailys são realizadas de segunda a sexta para acompanhar o andamento de cada membro do time através de um bot chamado ```Dailybot``` configurado na plataforma ```Slack``` que faz tudo de forma automática. Os integrantes do time durante a semana recebem as seguintes perguntas pelo bot para verificação do estado das issues planejadas:
 
  - O que você fez ontem?
  - O que você vai desenvolver hoje?
