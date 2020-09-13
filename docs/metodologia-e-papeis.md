@@ -1,4 +1,4 @@
-****# Metodologia e Papeis
+# Metodologia e Papeis
 
 ## Histórico de Revisões
 
@@ -21,9 +21,9 @@
 
 <p align = "justify"> O Scrum é um framework de gerenciamento incremental proveniente da metodologia ágil que colabora na planejamento e organização em projetos de software. O maior benefício dele é facilitar o trabalho complexo que envolve a criação e compartilhamento de conhecimento de novos produtos desenvolvidos, mantendo proximidade com o cliente nesse processo.</p>
 
-<p align = "justify"> Seu gerenciamento é incremental, com ciclos semanais chamados de **Sprint** que podem variar de 1 a 4 semanas. A Sprint representa um Time in Box no qual um conjunto de tarefas devem ser executadas e concluídas no tempo determinado, entregando uma ou mais funcionalidades que tenham valor para o cliente.</p>
+<p align = "justify"> Seu gerenciamento é incremental, com ciclos semanais chamados de <strong>Sprint</strong> que podem variar de 1 a 4 semanas. A Sprint representa um Time in Box no qual um conjunto de tarefas devem ser executadas e concluídas no tempo determinado, entregando uma ou mais funcionalidades que tenham valor para o cliente.</p>
 
-<p align = "justify"> Durante a Sprint são feitas reuniões diárias, chamadas de **Daily Scrum** ou **Daily Meeting**, para que a equipe esteja alinhada quanto ao que está ocorrendo em cada tarefa. Todas as funcionalidades e tarefas que a equipe deve realizar durante a Sprint devem estar no **Product Backlog**, no formato de uma "lista". Dessa, são escolhidas tarefas a serem realizadas na Sprint, compondo o **Sprint Backlog**.</p>
+<p align = "justify"> Durante a Sprint são feitas reuniões diárias, chamadas de <strong>Daily Scrum</strong> ou <strong>Daily Meeting</strong>, para que a equipe esteja alinhada quanto ao que está ocorrendo em cada tarefa. Todas as funcionalidades e tarefas que a equipe deve realizar durante a Sprint devem estar no <strong>Product Backlog</strong>, no formato de uma "lista". Dessa, são escolhidas tarefas a serem realizadas na Sprint, compondo o <strong>Sprint Backlog</strong>.</p>
 
 <p align = "justify"> A metodologia define três papéis:</p>
 
@@ -73,7 +73,7 @@
 
 #### 2.2.2. Recursos Incorporados
 
-* **<p align = "justify">Planning Game:** Definição das _user stories_ e estimar o tempo ideal necessário para execução das estórias definidas;</p>
+* **<p align = "justify">Planning Game:** Definição das <i>user stories</i> e estimar o tempo ideal necessário para execução das estórias definidas;</p>
 * **<p align = "justify">Small Releases:** Conforme as interações são concluídas, o cliente recebe pequenas versões/releases do sistema, visando com que seja colocado em prática e validado aquilo que está sendo implementado;</p>
 * **<p align = "justify">Pair Programming:** Todo código de produção é desenvolvido por duas pessoas trabalhando em conjunto, e às vezes com o mesmo teclado, o mesmo mouse e o mesmo monitor, somando forças para a implementação do código;</p>
 * **<p align = "justify">Coding Standards:** Todo código é desenvolvido seguindo um padrão que deve ser seguido por toda a equipe. Dessa forma, todos da equipe terão a mesma visão do código.</p>
@@ -81,9 +81,9 @@
 #### 2.2.3. Justificativa
 
 * <p align = "justify"> O conhecimento técnico é uniformemente distribuído entre a equipe;</p>
-* <p align = "justify"> As _user stories_ planejadas são acordadas entre cliente e equipe, e consequentemente, são mais concretas e fáceis de serem rastreadas e gerenciadas;</p>
+* <p align = "justify"> As <i>user stories</i> planejadas são acordadas entre cliente e equipe, e consequentemente, são mais concretas e fáceis de serem rastreadas e gerenciadas;</p>
 * <p align = "justify"> O código segue um padrão único e uma arquitetura definida, facilitando no processo de refatoração e manutenção;</p>
-* <p align = "justify">Versões do sistemas são lançadas a cada iteração, provindo ao cliente _features_ num processo mais curto e ágil.</p>
+* <p align = "justify">Versões do sistemas são lançadas a cada iteração, provindo ao cliente <i>features</i> num processo mais curto e ágil.</p>
 
 ### 2.3. Rational Unified Process (RUP)
 
