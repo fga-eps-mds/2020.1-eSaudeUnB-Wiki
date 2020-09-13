@@ -26,6 +26,7 @@ nav:
     - Backlog do Produto: backlog.md
     - Documento de Visão: DocumentoDeVisao.md
     - Prototipo De Baixa Fidelidade: PrototipoDeBaixaFidelidade.md
+    - Prototipo De Alta Fidelidade: prototipo_alta_fidelidade.md
     - Estrutura Analítica do Projeto: eap.md
   - Sprints:
     - Sprint 0:
