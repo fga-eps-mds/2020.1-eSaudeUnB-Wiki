@@ -90,6 +90,6 @@ Através do perfil do psicólogo será possível relizar a alteração da bio ex
 
 ## Perfil do Usuário
 
-[![userProfile.png](img/userProfile.png)](img/userProfile.png)
+[![userprofile.png](img/userprofile.png)](img/userprofile.png)
 
 Através do perfil do usuário será possível fazer algumas alterações de informações pessoais.
