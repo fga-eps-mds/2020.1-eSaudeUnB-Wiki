@@ -1,9 +1,8 @@
 # Resultado Sprint 3
 <hr>
-
-Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Documentos importantes que serão base para todo o projeto durante seu desenvolvimento. Dentre eles podemos destacar o documento de arquitetura que descreve nossa arquitetura inicial de forma bem detalhada. E a criação do backlog do produto, no qual define as histórias de desenvolvimento de um forma mais clara.
-
-
+<p style="text-align: justify">
+    Para essa Sprint foi planejado a primeira US envolvendo código, que foi designado ao time de MDS. Mesmo com apenas uma dupla nessa frente, foi possível enxergar alguns pontos no qual o time de EPS deve ter cuidado na hora das correções envolvendo esse tipo de história. Foi uma Sprint boa para o time em geral, tendo apenas uma divida técnica e sendo por parte do time de EPS, o que mostra o empenho da equipe em entregar o máximo de pontos planejados na Sprint, principalmente o time de MDS.
+</p>
 
 ## Fechamento da Sprint
 
@@ -26,7 +25,7 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 
 ## Burndown
 
-![Burnout Sprint 2](./img/burndown-sprint02.png)
+![Burnout Sprint 2](./img/burndown_sprint_03.png)
 
 ## Velocity
 
@@ -35,7 +34,7 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 ## Quadro de conhecimento
 
 <p style="text-align: justify;">
-    Como essa sprint foi dedicada exclusivamente a documentação mais uma vez, não houve uma melhora tão grande no avanço das tecnologias, provavelmente essa melhora será explicita na proxima Sprint, já que de acordo com o Roadmap, será a primeira issue de código para o time de MDS.
+    Sendo esta a primeira Sprint envolvendo código para o time de MDS, não foi possível notar alguma melhora significante para os membros, pois apenas uma dupla ficou responsável pela issue de código. A próxima Sprint de acordo com o RoadMap, terá issues de código para ambas as duplas e possivelmente o quadro de conhecimento tenha alguma melhora significante, já que com o pareamento estratégico criado pelo time de EPS, o conhecimento das tecnologias circulará mais entre o time de desenvolvimento, nivelando as habilidades no grupo. Para o time EPS, não houve muita melhora, pois essa sprint foi voltada exclusivamente para configuração de ambiente, habilidade que já era conhecida pela maioria do time de gerência.
 </p>
 
 ![Quadro Sprint 3](./img/quadro-conhecimento-sprint03.png)
@@ -44,28 +43,33 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 
 ### Pontos Positivos
 
-- Aumentou o conhecimento do time de MDS em relação a tecnologias e aos rituais da metodologia.
-- melhora da comunicação entre algumas pessoas do time de MDS.
-- Conhecimento em novos tipos de documentação.
-- Não houve dividas técnicas.
+- As issues em que algumas duplas estavam trabalhando foram feitas rapidamente para receber feedbacks e foi melhorando no decorrer da semana.
+- A equipe conseguiu entregar as principais issues.
 
 ### Pontos Negativos
 
-- Algumas pessoas do time de MDS ainda não se comunicam o bastante, respondem as dailys, mas não são tão presentes a perguntas do time como todo.
-- Dificuldades em aprender coisas novas (por parte do time de MDS), isso inclui documentação e código.
-- entregas feitas muito tarde, o que poderia ter causado dividas técnicas.
+- Trabalho das issues andaram muito rápidas no inicio e depois alguns membros se sentiram saturados e com dificuldade para continuar.
+- Duplas não tinha conhecimento a respeito da issue, sendo um pouco difícil de acompanhar no inicio.
+- Sobrecarga de outra disciplina e do trabalho.
+- Faltou proatividade da equipe de MDS e faltou empenho dos membros de EPS na correção dos PRs.
+- Melhorar organização para entrega das issues com mais rapidez para poder ter mais feedback e menos sobrecarga de outras matérias.
+- Dificuldades com código e principalmente com a parte de testes.
 
 ### A melhorar
 
-- Presença mais ativa de alguns membros.
-- Organizar melhor o tempo.
+- Ter mais calma com o trabalho.
+- Melhorar cronograma para contribuir melhor para o projeto.
+- Proporcionar mais ajuda para a equipe de MDS.
+- Correção mais rápida com os PRs, e proatividade com a equipe de MDS.
+- Melhorar conhecimentos de docker.
+
 
 ## Avaliação do Scrum Master
 
 <p style="text-align: justify;">
-    Mesmo com a entrega de todas as tarefas, senti que os membros de MDS estão um pouco desorganizados com as tarefas designadas. Eles dizem que não estão com dúvidas, mas ao entregar a documentação fica evidente o nível de clareza que entenderam sobre as issues. Nós de EPS tentamos deixar o mais claro possível que se tiverem dúvidar é necessário perguntar, de preferência nos canais gerais do slack para o sanamento das dúvidas de ambos os membros do time. 
+    Apesar de não ter entregado a issue de integração continua, devido aos problemas encontrados com os ambiente de desenvolvimento, a equipe conseguiu entregar com eficiência as outras tarefas planejadas, além de ter aumento significativo na comunicação de todos os membros. Os canais de duvidas vem sendo frenquentemente usados pelo time de MDS, o que torna os problemas para o time de gerência mais claros e fáceis de serem mitigados antes do termino da Sprint. O time de EPS também incentivou o pessoal de desenvolvimento a pesquisar mais sobre os erros encontrados, pois caso nenhum dos membros possa ajudar no momento da dúvida, a dupla não fique ociosa e aprende a lidar com os erros básico das tecnologias do produto.  
 </p>
 <p style="text-align: justify;">
-    Outro ponto a se abordar é os ritos que continuaram a ser seguidos e ambos os membros responderam as dailys, o que mostra o comprometimento do time, mesmo sendo remoto, o que é um ponto positivo para o time.
+    Vale a pena destacar que o time de EPS estava desfocado nessa Sprint, pois ambos Pull Requests foram revisados muito tarde, o que é um risco para o projeto, podendo estes tornarem dividas técnicas e atrapalhar o RoadMap do projeto. A equipe de gerência concordou que teve esse desfoque e que essa falha deve ser mitigada com dedicação maior a disciplina. 
 </p>
 
