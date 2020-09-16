@@ -21,6 +21,7 @@ nav:
     - Home: index.md
   - Projeto:
     - Termo de Abertura do Projeto: tap.md
+    - Roadmap do Produto: roadmap_produto.md
     - Plano de Gestão e Configuração de Software: gcs.md
     - Roadmap Papéis: roadmap-papeis.md
     - Backlog do Produto: backlog.md
