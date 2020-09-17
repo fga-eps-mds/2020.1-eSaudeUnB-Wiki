@@ -28,6 +28,7 @@ nav:
     - Plano de Comunicação: plano-de-comunicacao.md
   - Produto:
     - Documento de Visão: DocumentoDeVisao.md
+    - Documento de Arquitetura: documento_arquitetura.md
     - Backlog do Produto: backlog.md
     - Documento de Metodologia e Papeis: metodologia-e-papeis.md
     - Prototipo De Baixa Fidelidade: PrototipoDeBaixaFidelidade.md
