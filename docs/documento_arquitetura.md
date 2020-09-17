@@ -105,13 +105,13 @@ A aplicação seguirá o padrão de implementação RESTful, isto é, seguiremos
 #### 4.2.1 Front-End
 O front-end será totalmente desenvolvido utilizando a biblioteca React, segue a estrutura de pacotes
 
-![Estrutura do front-end](./img/front.png)
+![Estrutura do front-end](./img/frontenddiagram.png)
 
 
 #### 4.2.2 Back-End
 Estrutura de pacotes do back-end
 
-![Estrutura do back-end](./img/back.png)
+![Estrutura do back-end](./img/backenddiagram.png)
 
 
 ### 4.3 Modelagem de Dados
@@ -121,7 +121,7 @@ Estrutura de pacotes do back-end
 
 ## 5 Visão de Implantação
 
-A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvolvimento de novas funções,possibilitando um uso antecipado de funções ja desenvolvidas.
+A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvolvimento de novas funções, possibilitando um uso antecipado de funções ja desenvolvidas.
 
 
 ## Referências
