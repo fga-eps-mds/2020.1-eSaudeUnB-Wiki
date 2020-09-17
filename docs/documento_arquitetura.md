@@ -15,6 +15,7 @@
 | 12/09/2020 | 1.3    | Ajustando item 2 e 4.3 | Joberth Rogers Tavares Costa |
 | 12/09/2020 | 1.4    | Corrigindo erros ortográficos | Joberth Rogers Tavares Costa |
 | 16/09/2020 | 1.5    | Alterando o banco de dados para MongoDB e pequenas correções | Daniel, João Pedro e Joberth |
+| 17/09/2020 | 1.6    | Atualizando diagrama de pacotes | Daniel Maike |
 
 ## 1 Introdução
 
