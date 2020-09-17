@@ -1,7 +1,7 @@
-site_name: Grupo-1 Docs
+site_name: eSaudeUnB Docs
 
-repo_name: 'fga-eps-mds/2020.1-Grupo1-Wiki'
-repo_url: 'https://github.com/fga-eps-mds/2020.1-Grupo1-Wiki'
+repo_name: 'fga-eps-mds/2020.1-eSaudeUnB-Wiki'
+repo_url: 'https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki'
 
 theme:
   name: 'material'
