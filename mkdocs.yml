@@ -21,14 +21,30 @@ nav:
     - Home: index.md
   - Projeto:
     - Termo de Abertura do Projeto: tap.md
+    - Roadmap do Produto: roadmap_produto.md
     - Plano de Gestão e Configuração de Software: gcs.md
     - Roadmap Papéis: roadmap-papeis.md
+    - Estrutura Analítica do Projeto: eap.md
+    - Plano de Comunicação: plano-de-comunicacao.md
+  - Produto:
     - Documento de Visão: DocumentoDeVisao.md
     - Documento de Arquitetura: documento_arquitetura.md
+    - Backlog do Produto: backlog.md
+    - Documento de Metodologia e Papeis: metodologia-e-papeis.md
+    - Prototipo De Baixa Fidelidade: PrototipoDeBaixaFidelidade.md
+    - Prototipo De Alta Fidelidade: prototipo_alta_fidelidade.md
+    - Estrutura Analítica do Projeto: eap.md
+    - Documento de Especificação Suplementar: DocumentoDeEspecificacaoSuplementar.md
   - Sprints:
     - Sprint 0:
-      - Planejamento Sprint 0: planejamento_sprint0.md
-      - Resultado Sprint 0: resultado_sprint0.md
+      - Planejamento: planejamento_sprint0.md
+      - Resultado: resultado_sprint0.md
     - Sprint 1:
-      - Planejamento Sprint 1: planejamento_sprint01.md
-      - Resultado Sprint 1: resultado_sprint01.md
+      - Planejamento: planejamento_sprint01.md
+      - Resultado: resultado_sprint01.md
+    - Sprint 2:
+      - Planejamento: planejamento_sprint2.md
+      - Resultado: resultado_sprint02.md
+    - Sprint 3:
+      - Planejamento: planejamento_sprint03.md
+      - Resultado: resultado-sprint3.md

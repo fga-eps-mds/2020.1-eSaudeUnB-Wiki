@@ -45,5 +45,3 @@ Essa Sprint foi dedicada exclusivamente para a definição de um tema para o tim
 <p style="text-align: justify;">
     Não havendo um escopo, backlog ou roadmap ainda criados nesse primeiro momento, não foi possível mensurar métricas para essa fase inicial. Nesse primeiro momento a equipe de EPS optou por apenas utilizar essa pontuação para avaliar a produtividade da equipe, para quando houver entregáveis de valor para o projeto.
 </p>
-
-

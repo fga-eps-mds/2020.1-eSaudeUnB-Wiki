@@ -1,3 +1,12 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 <!-- 
 nome: Solicitação de recurso
 sobre: Sugira novas ideias para o projeto
