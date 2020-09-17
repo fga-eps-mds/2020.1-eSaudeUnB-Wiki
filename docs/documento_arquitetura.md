@@ -1,20 +1,20 @@
 # Documento de Arquitetura
-## Histórico de Revisão
 
+## Histórico de Revisão
 
 | Data       | Versão | Descrição                    | Autores                    |
 | ---------- | ------ | ---------------------------- | -------------------------- |
 | 02/09/2020 | 0.1    | Abertura do documento        | Caio Martins               |
 | 03/09/2020 | 0.2    | Representação da Arquitetura | Abner Filipe e Rafael Leão |
-| 03/09/2020 | 0.3 | Introdução | Vinícius Ferreira Alves de Lima|
-| 04/09/2020 | 0.4 | Implementação | Luis Marques|
-| 04/09/2020 | 0.5 | Metas e Restrições | Pedro Henrique Castro de Oliveira |
-| 06/09/2020 | 1.0 | Resumo Representação da Arquitetura | Abner Filipe e Rafael Leão |
-|07/09/2020 | 1.1 | Referências adicionadas | Vinícius Ferreira |
-|07/09/2020 | 1.2 | Arrumando formatação do campo Metas e Restrições | Pedro Henrique Castro de Oliveira |
-| 12/09/2020 | 1.3 | Ajustando item 2 e 4.3 | Joberth Rogers Tavares Costa |
-| 12/09/2020 | 1.4 | Corrigindo erros ortográficos | Joberth Rogers Tavares Costa |
-
+| 03/09/2020 | 0.3    | Introdução                   | Vinícius Ferreira Alves de Lima|
+| 04/09/2020 | 0.4    | Implementação                | Luis Marques|
+| 04/09/2020 | 0.5    | Metas e Restrições           | Pedro Henrique Castro de Oliveira |
+| 06/09/2020 | 1.0    | Resumo Representação da Arquitetura | Abner Filipe e Rafael Leão |
+| 07/09/2020 | 1.1    | Referências adicionadas | Vinícius Ferreira |
+| 07/09/2020 | 1.2    | Arrumando formatação do campo Metas e Restrições | Pedro Henrique Castro de Oliveira |
+| 12/09/2020 | 1.3    | Ajustando item 2 e 4.3 | Joberth Rogers Tavares Costa |
+| 12/09/2020 | 1.4    | Corrigindo erros ortográficos | Joberth Rogers Tavares Costa |
+| 16/09/2020 | 1.5    | Alterando o banco de dados para MongoDB e pequenas correções | Daniel, João Pedro e Joberth |
 
 ## 1 Introdução
 
@@ -36,14 +36,13 @@ O eSaúdeUnB é um projeto de registro de prontuários feitos por psicólogos so
 
 O modelo de arquitetura proposto nesse projeto é um modelo multicamada, onde é divido em três frentes principais:
 
-- A camada de persistência, onde engloba o banco de dados relacional Postgres.
+- A camada de persistência, onde engloba o banco de dados não-relacional MongoDB.
 - A camada de manipulação e tratamento de dados, usando o framework ExpressJS.
 - Camada de visualização dos dados, responsável por renderizar todos os dados manipulados na camada de tratamento e lidar diretamente com o usuário final.
 
 Para realizar a comunicação entre as camadas, será utilizado o modelo de arquitetura cliente-servidor, no qual há os fornecedores de recursos e os que consomem esses recursos disponibilizados. O servidor é um fornecedor de recurso, onde é uma camada intermediária responsável por lidar diretamente com os a camada de persistência e fornecer os dados manipulados para a camada View através do protocolo de comunicação HTTP. O Cliente nesse ecossistema usufrui dos dados fazendo requisições ao servidor e renderizando estes para os usuários que fizeram a requisição.   
 
-
-![Diagrama de arquitetura](https://i.imgur.com/tanRfCn.png)
+![Diagrama de arquitetura](./img/diagrama-arquitetura.png)
 
 * React.js
 
@@ -53,9 +52,9 @@ O Frontend do projeto usará a biblioteca ReactJS, pela grande comunidade que en
 
 Node.js é uma plataforma para construir aplicações web escaláveis de alta performance usando JavaScript do tipo server side, não dependendo de um browser para sua execução. Ele foi construído em cima da engine V8 que interpreta JavaScript, criado pela Google e usado em seu navegador, o Chrome.
 
-* Postgress SQL
+* MongoDB
 
-O banco de dados escolhido para o projeto foi o Postgres, pela sua alta performance para lidar com altas taxas de transações e também a sua imensa comunidade em seu ecossistema e uma ótima documentação para sua implantação.
+O banco de dados escolhido para o projeto foi o MongoDB, pela sua alta performance, a sua imensa comunidade em seu ecossistema e uma ótima documentação para sua implantação.
 
 * Express js
 
@@ -81,13 +80,13 @@ Criação de uma plataforma online para cadastro de psicólogos voluntários e g
 
 ### 3.2. Restrições
 
+#### 3.2.1. Compatibilidade
 * A plataforma deverá ser online, com suporte para os navegadores mais populares, portanto sendo necessário acesso à internet.
 
-* **Segurança:**
+#### 3.2.2. Segurança:
 * O sistema deverá ser seguro de modo que proteja os dados confidenciais do paciente garantindo o sigilo médico.
 
-* **Arquitetura:** 
-
+#### 3.2.3. Arquitetura: 
 * Contará com uma interface bastante intuitiva
 * Possuirá uma alta escalabilidade garantindo a facilidade de expansão do projeto. 
 * Node.js foi a tecnologia escolhida para ser usada no back-end juntamente com o framework Express em modelo MC (Model-Controller) e a biblioteca React foi a escolha feita para o front-end. 
@@ -106,18 +105,18 @@ A aplicação seguirá o padrão de implementação RESTful, isto é, seguiremos
 #### 4.2.1 Front-End
 O front-end será totalmente desenvolvido utilizando a biblioteca React, segue a estrutura de pacotes
 
-![](https://i.imgur.com/PH8ZVSn.png)
+![Estrutura do front-end](./img/front.png)
 
 
 #### 4.2.2 Back-End
 Estrutura de pacotes do back-end
 
-![](https://i.imgur.com/wm4DQc6.png)
+![Estrutura do back-end](./img/back.png)
 
 
 ### 4.3 Modelagem de Dados
 
-![](./img/DER.png)
+![Diagrama Entidade Relacionamento](./img/DER.png)
 
 
 ## 5 Visão de Implantação
@@ -130,7 +129,7 @@ Node.js. Disponível em: https://nodejs.org/. Acesso em 07/09/2020.
 
 React. Disponível em: https://reactjs.org. Acesso em 07/09/2020.
 
-PostgreSQL. Disponível em: https://www.postgresql.org/docs/12/index.html. Acesso em 07/09/2020.
+MongoDB. Disponível em: https://docs.mongodb.com/. Acesso em 16/09/2020.
 
 Express. Disponível em: https://expressjs.com/pt-br/4x/api.html. Acesso em 07/09/2020.
 
