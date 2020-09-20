@@ -26,6 +26,8 @@ nav:
     - Roadmap Papéis: roadmap-papeis.md
     - Estrutura Analítica do Projeto: eap.md
     - Plano de Comunicação: plano-de-comunicacao.md
+    - Plano de Gerenciamento de Riscos: plano-gerenciamento-riscos.md
+    - Burndown de Risco: burndown_risco.md
   - Produto:
     - Documento de Visão: DocumentoDeVisao.md
     - Documento de Arquitetura: documento_arquitetura.md
