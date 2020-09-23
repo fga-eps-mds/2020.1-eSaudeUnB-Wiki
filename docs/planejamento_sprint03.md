@@ -1,4 +1,4 @@
-# Planejamento Sprint 2
+# Planejamento Sprint 3
 
 <p style="text-align: justify:">
     Para essa Sprint, o time de EPS alocou a primeira issue de código para o time de MDS, e mais duas de documentação para que um MVP seja entregue até a release 01. Resolvemos como um time em deixar apenas uma equipe responsável por código esta semana, e as outras duas responsáveis pela documentação de especificação suplementar e outra para o prototipo de alta fidelidade. Para equipe de EPS, será configurado o deploy continuo e elaborado o plano de comunicação e metodologias do projeto.
