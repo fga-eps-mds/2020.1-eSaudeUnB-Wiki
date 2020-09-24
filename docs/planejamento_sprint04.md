@@ -1,4 +1,4 @@
-# Planejamento Sprint 4
+# Planejamento Sprint 5
 
 <p style="text-align: justify:">
     Para <i>sprint</i> 04 foram separado as histórias envolvendo código para todos os MDS, onde possivelmente o conhecimento envolvendo a tecnologia e regras de negócio serão compartilhado e nivelados entre todos os membros do time.
