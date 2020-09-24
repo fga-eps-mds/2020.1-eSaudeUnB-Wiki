@@ -30,6 +30,12 @@
     <span style="font-weight: bold;">Total de pontos da Sprint:</span> 52
 </p>
 
+## Pareamentos da Semana
+
+- Abner e Rafael
+- Vinicius e Pedro
+- Caio e Luís
+
 ## Papéis da Sprint
 
 **Scrum Master:** 
