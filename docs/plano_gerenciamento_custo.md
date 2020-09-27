@@ -22,8 +22,7 @@
 
 <p style="text-align: justify;">
     Tópico responsável por definir os principais processos que serão utilizado para fazer a gerência de custo 
-    dentro do projeto eSaude UnB. O dados as seguir seguirá as quatro etapas abordadas no PMBOK: planejamento,
-    estimativa, determinação e controle de custos.
+    dentro do projeto eSaude UnB. Os dados a seguir estão de acordo com as quatro etapas abordadas no PMBOK: planejamento,.
 </p>
 
 
@@ -46,52 +45,52 @@
 ### Recursos humanos
 
 <p style="text-align: justify;">
-    As estimativas de custos relacionadas a recursos humanos, levará em consideração a carga horária de 8 diárias e a média de 22 dias uteis dentro de um mês para estmas o valor hora de um profissional no mercado para fazer as estimativas. A média Salárial de cada profissional listado, foi extraído do site [glassdoor](https://www.glassdoor.com.br/index.htm) filtrado pelo estado Brasília/DF.
+    As estimativas de custos relacionadas a recursos humanos levarão em consideração a carga horária de 8 diárias e a média de 22 dias uteis dentro de um mês para estimar o valor-hora de um profissional no mercado. A média salarial de cada profissional listado foi extraída do site [glassdoor](https://www.glassdoor.com.br/index.htm) filtrando pela cidade de Brasília/DF.
 </p>
 
 <p style="text-align: justify;">
-    A média de horas na semana, foi tirada da planilha de horas levantada pelo time, que se encontra <a href ="https://docs.google.com/spreadsheets/d/1_QP40LNF94k5M1QygoXvott67ofHzmwreQSU4HlmqBk/edit?usp=sharing" >aqui</a>
+    A média de horas na semana foi tirada da planilha de horas levantada pelo time, que se encontra <a href ="https://docs.google.com/spreadsheets/d/1_QP40LNF94k5M1QygoXvott67ofHzmwreQSU4HlmqBk/edit?usp=sharing" >aqui</a>
 </p>
 
 | Profissional | Quantidade de Profissionais | Salário médio | Valor por Hora |
 |:---------:|:---------:|:---------:|:---------:|
-| Product Owner | 1 | R$ 7.327 | R$ 41.63 | 
-| Scrum Master | 1 | R$ 7.213 | R$ 40.98 |
-| DevOps | 1 | R$ 11.000 | R$ 62.5 | 
-| Desenvolvedor Júnior | 6 | R$ 2.714 | R$ 15.42 |
+| Product Owner | 1 | R$ 7327,00 | R$ 41,63 | 
+| Scrum Master | 1 | R$ 7213,00 | R$ 40,98 |
+| DevOps | 1 | R$ 11000,00 | R$ 62,50 | 
+| Desenvolvedor Júnior | 6 | R$ 2714,00 | R$ 15,42 |
 
 <p style="text-align: justify;">
-    Depois de levantado uma média de horas junto ao grupo, temos que em uma estimativa Pessimista, cada integrante do grupo trabalha 14 horas por semana, na Mais Provável é de 10 horas e a Otimista é de 8 horas. Devemos ressaltar que esta média de horas é de cada um da equipe, que possui 9 integrantes.
+    Depois de levantada uma média de horas junto ao grupo, temos que, em uma estimativa Pessimista, cada integrante do grupo trabalha 14 horas por semana, na Mais Provável, 10 horas e, na Otimista, 8 horas. Devemos ressaltar que esta média de horas é de cada um da equipe, que possui 9 integrantes.
 </p>
 
 - Estimativa Pessimista
 
 | Profissional | Média de Horas Integrante/Semana | Preço da Hora | Quantidade | Custo Semanal |
 |:---------:|:---------:|:---------:|:---------:|:----------:|
-| Product Owner | 14h | R$ 41.63 | 1 | R$ 582,82 |
-| Scrum Master | 14h | R$ 40.98 | 1 | R$ 573,72 |
-| DevOps | 14h | R$ 62.5 | 1 | R$ 875,00 |
-| Desenvolvedor Júnior | 14h | R$ 15.42 | 6 | R$ 1295,28 |
+| Product Owner | 14h | R$ 41,63 | 1 | R$ 582,82 |
+| Scrum Master | 14h | R$ 40,98 | 1 | R$ 573,72 |
+| DevOps | 14h | R$ 62,50 | 1 | R$ 875,00 |
+| Desenvolvedor Júnior | 14h | R$ 15,42 | 6 | R$ 1295,28 |
 | **Total** |  |  |  | **R$ 3326,82** |
  
 - Estimativa Mais Provável
 
 | Profissional | Média de Horas Integrante/Semana | Preço da Hora | Quantidade | Custo Semanal |
 |:---------:|:---------:|:---------:|:---------:|:----------:|
-| Product Owner | 10h | R$ 41.63 | 1 | R$ 416,3 |
-| Scrum Master | 10h | R$ 40.98 | 1 | R$ 409,8 |
-| DevOps | 10h | R$ 62.5 | 1 | R$ 625,00 |
-| Desenvolvedor Júnior | 10h | R$ 15.42 | 6 | R$ 925,2 |
+| Product Owner | 10h | R$ 41,63 | 1 | R$ 416,3 |
+| Scrum Master | 10h | R$ 40,98 | 1 | R$ 409,8 |
+| DevOps | 10h | R$ 62,50 | 1 | R$ 625,00 |
+| Desenvolvedor Júnior | 10h | R$ 15,42 | 6 | R$ 925,2 |
 | **Total** |  |  |  | **R$ 2376,3** |
 
 - Estimativa Otimista
 
 | Profissional | Média de Horas Integrante/Semana | Preço da Hora | Quantidade | Custo Semanal |
 |:---------:|:---------:|:---------:|:---------:|:----------:|
-| Product Owner | 8h | R$ 41.63 | 1 | R$ 333,04 |
-| Scrum Master | 8h | R$ 40.98 | 1 | R$ 327,84 |
-| DevOps | 8h | R$ 62.5 | 1 | R$ 500,00 |
-| Desenvolvedor Júnior | 8h | R$ 15.42 | 6 | R$ 740,16 |
+| Product Owner | 8h | R$ 41,63 | 1 | R$ 333,04 |
+| Scrum Master | 8h | R$ 40,98 | 1 | R$ 327,84 |
+| DevOps | 8h | R$ 62,50 | 1 | R$ 500,00 |
+| Desenvolvedor Júnior | 8h | R$ 15,42 | 6 | R$ 740,16 |
 | **Total** |  |  |  | **R$ 1901,04** |
 
 <p style="text-align: justify;">
@@ -100,21 +99,21 @@
 
 | Profissional | Média de Horas Integrante/Semana | Preço da Hora | Quantidade | Custo Semanal |
 |:---------:|:---------:|:---------:|:---------:|:----------:|
-| Product Owner | 10,33h | R$ 41.63 | 1 | R$ 430,03 |
-| Scrum Master | 10,33h | R$ 40.98 | 1 | R$ 423,32 |
-| DevOps | 10,33h | R$ 62.5 | 1 | R$ 645,62 |
-| Desenvolvedor Júnior | 10,33h | R$ 15.42 | 6 | R$ 955,73 |
+| Product Owner | 10,33h | R$ 41,63 | 1 | R$ 430,03 |
+| Scrum Master | 10,33h | R$ 40,98 | 1 | R$ 423,32 |
+| DevOps | 10,33h | R$ 62,50 | 1 | R$ 645,62 |
+| Desenvolvedor Júnior | 10,33h | R$ 15,42 | 6 | R$ 955,73 |
 | **Total** |  |  |  | **R$ 2454,7** |
 
 ## Custos Operacionais
 
 <p style="text-align: justify;">
-    Como o semestre está sendo desenvolvido a distância, os recursos levantados para realizar
+    Como o semestre está sendo desenvolvido à distância, os recursos levantados para realizar
     o desenvolvimento do projeto são os notebooks, a energia e internet. 
 </p>
 
 <p style="text-align: justify">
-    Levando em consideração que a média de um notebooks razoáveis e custo beneficio, de acordo com a <a href="https://www.zoom.com.br/notebook/deumzoom/melhor-notebook-custo-beneficio-2020?og=18000&gclid=Cj0KCQjwzbv7BRDIARIsAM-A6-1aB8KgfWysR8DJZKDBycAzNYBgeMmLMvqFz6FqGITBPdbwJFXZskgaAvMOEALw_wcB">zoom</a> é de R$ 2800. E como o padrão de alimentação das fontes de notebook tem em média 65W, podemos notar que de acordo com PERT o estudante vai gasta estimadamente 10,33h trabalhando temos que:
+    Levando em consideração que a média de um notebook razoável e do custo-benefício, de acordo com a <a href="https://www.zoom.com.br/notebook/deumzoom/melhor-notebook-custo-beneficio-2020?og=18000&gclid=Cj0KCQjwzbv7BRDIARIsAM-A6-1aB8KgfWysR8DJZKDBycAzNYBgeMmLMvqFz6FqGITBPdbwJFXZskgaAvMOEALw_wcB">Zoom</a> é de R$ 2800. E como o padrão de alimentação das fontes de notebook tem em média 65W, podemos notar que, de acordo com PERT, o estudante vai gastar aproximadamente 10,33h trabalhando temos que:
 </p>
 
 <p style="text-align: center; font-size: 20px; font-weight: bold;">
@@ -124,7 +123,7 @@
 </p>
 
 <p>
-    Para o calculo final da internet será considerado um preço base de R$ 100,00, que é plano base das operadoras mais famosas da região, com taxa de conexão de 120MB, onde possívelmente suprirá todas as atividades do time. 
+    Para o calculo final da internet será considerado um preço base de R$ 100,00, que é plano base das operadoras mais famosas da região, com taxa de conexão de 120MB, onde possivelmente, suprirá todas as atividades do time.  
 </p>
 
 | Item | Quantidade | valor/semana |
@@ -155,7 +154,7 @@
 ## Custo Final
 
 <p style="text-align: justify">
-    O projeto está em andamento, sendo assim é possível fazer apenas a estimativa de custos. Para estimar o custo final será usado o total de <strong>16</strong> semanas, o que contabiliza as <strong>16</strong> sprints planejadas. Conforme o andamento do projeto, estes custos serão analisados e atualizados neste documento. Atualmente, a previsão final de gastos do projeto é de:
+    O projeto está em andamento, sendo assim, é possível fazer apenas a estimativa de custos. Para estimar o custo final será usado o total de <strong>16</strong> semanas, o que contabiliza as <strong>16</strong> sprints planejadas. Conforme o andamento do projeto, estes custos serão analisados e atualizados neste documento. Atualmente, a previsão final de gastos do projeto é de:
 </p>
 
 
