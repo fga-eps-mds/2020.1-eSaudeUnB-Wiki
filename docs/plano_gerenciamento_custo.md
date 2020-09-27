@@ -9,7 +9,6 @@
 ## Introdução
 
 <p style="text-align: justify;">
-    <!-- O Plano apresentado a seguir irá mostrar informações pertencentes ao custos do projeto eSaude Unb. Muito dos custos ainda estão sendo levantados pelo time, mas a primeiro momento estão sendo colocados no documento, para uma análise de custo mais precisa. Vale a pena ressaltar que o projeto aqui desenvolvido encontra-se no contexto ágil, logo os cálculos aqui presentes serão baseados em semana para a estimativa de custo. -->
     Segundo o Guia PMBOK, o plano de gerenciamento dos custos define o formato e estabelece as atividades e os critérios de planejamento, estruturação e controle dos custos do projeto. Ele faz parte ou é um plano auxiliar do plano de gerenciamento do projeto.
 </p>
 
@@ -51,11 +50,11 @@
 </p>
 
 <p style="text-align: justify;">
-    A média de horas na semana, foi tirada da planilha de horas levantada pelo time, que se encontra [aqui](https://docs.google.com/spreadsheets/d/1_QP40LNF94k5M1QygoXvott67ofHzmwreQSU4HlmqBk/edit?usp=sharing)
+    A média de horas na semana, foi tirada da planilha de horas levantada pelo time, que se encontra <a href ="https://docs.google.com/spreadsheets/d/1_QP40LNF94k5M1QygoXvott67ofHzmwreQSU4HlmqBk/edit?usp=sharing" >aqui</a>
 </p>
 
 | Profissional | Quantidade de Profissionais | Salário médio | Valor por Hora |
-|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|:---------:|:---------:|:---------:|:---------:|
 | Product Owner | 1 | R$ 7.327 | R$ 41.63 | 
 | Scrum Master | 1 | R$ 7.213 | R$ 40.98 |
 | DevOps | 1 | R$ 11.000 | R$ 62.5 | 
@@ -107,26 +106,69 @@
 | Desenvolvedor Júnior | 10,33h | R$ 15.42 | 6 | R$ 955,73 |
 | **Total** |  |  |  | **R$ 2454,7** |
 
-<!-- 
+## Custos Operacionais
+
+<p style="text-align: justify;">
+    Como o semestre está sendo desenvolvido a distância, os recursos levantados para realizar
+    o desenvolvimento do projeto são os notebooks, a energia e internet. 
+</p>
+
+<p style="text-align: justify">
+    Levando em consideração que a média de um notebooks razoáveis e custo beneficio, de acordo com a <a href="https://www.zoom.com.br/notebook/deumzoom/melhor-notebook-custo-beneficio-2020?og=18000&gclid=Cj0KCQjwzbv7BRDIARIsAM-A6-1aB8KgfWysR8DJZKDBycAzNYBgeMmLMvqFz6FqGITBPdbwJFXZskgaAvMOEALw_wcB">zoom</a> é de R$ 2800. E como o padrão de alimentação das fontes de notebook tem em média 65W, podemos notar que de acordo com PERT o estudante vai gasta estimadamente 10,33h trabalhando temos que:
+</p>
+
+<p style="text-align: center; font-size: 20px; font-weight: bold;">
+    custo = Pot. x Dias x Horas x Tarifa</br>
+    0,065kW = (65W / 1000)</br>
+    0,065kW x 7 x 10,33h x 0,4863109 (tarifa local) = R$2,29.
+</p>
+
+<p>
+    Para o calculo final da internet será considerado um preço base de R$ 100,00, que é plano base das operadoras mais famosas da região, com taxa de conexão de 120MB, onde possívelmente suprirá todas as atividades do time. 
+</p>
+
+| Item | Quantidade | valor/semana |
+|:---------:|:---------:|:---------:|
+| Notebook | 9 | R$ 1575,00 |
+| Energia | 9 | R$ 20,57 | 
+| Internet | 9 | R$ 225,00 | 
+| **Total** |  | **R$ 1820,57** |
+
+</br>
+
+## Custo de ferramentas
+
+<p style="text-align: justify">
+    Como todas as ferramentas usadas contém plano gratuito ou o email da UnB disponibiliza algum recurso gratuito para uso, o custo de ferramentas será zero.
+</p>
+
+| Ferramenta | Objetivo | Preço |
+|:------|:------|:------|
+| Slack	| Comunicação da Equipe | R$ 0,00 |
+| GitHub	| Versionamento do software e da documentação | R$ 0,00 |
+| Servidores Azure | Plataforma onde se hospedará os ambientes de desenvolvimento | R$ 0,00 |
+| Daily Bot | Bot ṕara realizar as Dailys de forma automática (Plano Free) | R$ 0,00 | 
+| Teams | Comunicação por video chamada | R$ 0,00 |
+| Travis | Ferramenta para realizar o CI | R$ 0,00 | 
+| **Total** |  | **R$ 0,00** |
+
+## Custo Final
+
+<p style="text-align: justify">
+    O projeto está em andamento, sendo assim é possível fazer apenas a estimativa de custos. Para estimar o custo final será usado o total de <strong>16</strong> semanas, o que contabiliza as <strong>16</strong> sprints planejadas. Conforme o andamento do projeto, estes custos serão analisados e atualizados neste documento. Atualmente, a previsão final de gastos do projeto é de:
+</p>
 
 
-### Custos de Mão de Obra
+| Ferramenta | Custo (R$) |
+|:------|:------|
+| Custo de Pessoal	| R$ 39275,2 | 
+| Custo Operacional	| R$ 29129,12 | 
+| Custo de Ferramentas |R$ 0,00 | 
+| **Total** | **R$ 68404,32** |
 
-| Profissional | Quantidade de Profissionais | Salário médio | Valor por Hora | horas/semana | Custo/Semana |
-|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-| Product Owner | 1 | R$ 7.327 | R$ 41.63 | 12h | R$ 499,56 |
-| Scrum Master | 1 | R$ 7.213 | R$ 40.98 | 12h | R$ 491,76 |
-| DevOps | 1 | R$ 11.000 | R$ 62.5 | 12h | R$ 750,0 |
-| Desenvolvedor Júnior | 6 | R$ 2.714 | R$ 15.42 | 12h | R$ 185,04 |
-| **Total** | **9** | **R$ 28254** | **R$ 160,53** | **60h** | **R$ 2851,56** |
 
-Para fazer o cálculo de valor/hora, foi levado em consideração a carga horária de 8 diárias e a média de 22 dias uteis dentro de um mês. A média Salárial de cada profissional listado, foi extraído do site [glassdoor](https://www.glassdoor.com.br/index.htm) filtrado pelo estado Brasília/DF.
+## Referências
 
-A média de horas na semana, foi tirada da planilha de horas levantada pelo time, que se encontra [aqui](https://docs.google.com/spreadsheets/d/1_QP40LNF94k5M1QygoXvott67ofHzmwreQSU4HlmqBk/edit?usp=sharing)
-
-**O Total calculado por semana foi: R$ 2851,56**
-
-### Custos Operacionais
-
-| Item | Valor |
-| Conta de energia | R$  | -->
+- [1] PMI (PROJECT MANAGEMENT INSTITUTE). Um Guia do Conhecimento em Gerenciamento de Projetos (Guia PMBOK®) – Quinta Edição. Newtown Square: Project Management Institute, 2009.
+- [2] Plano de Gerenciamento dos Custos, Escritório de Projetos - Dispovível em: [https://escritoriodeprojetos.com.br/plano-de-gerenciamento-dos-custos](https://escritoriodeprojetos.com.br/plano-de-gerenciamento-dos-custos) Acessado em 26/09/2020.
+- [3] DevMedia. PMBOK: Trabalhando com gerenciamento de custos. - Disponível em: [https://www.devmedia.com.br/pmbok-trabalhando-com-gerenciamento-de-custos/31158](https://www.devmedia.com.br/pmbok-trabalhando-com-gerenciamento-de-custos/31158). Acessado em 26/09/2020.
