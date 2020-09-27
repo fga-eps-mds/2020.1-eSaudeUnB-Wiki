@@ -29,6 +29,7 @@ nav:
     - Plano de Gerenciamento de Riscos: plano-gerenciamento-riscos.md
     - Plano de Qualidade do Projeto: plano-qualidade-projeto.md
     - Burndown de Risco: burndown_risco.md
+    - Plano de Gerenciamento de Custos: plano_gerenciamento_custo.md
   - Produto:
     - Documento de Visão: DocumentoDeVisao.md
     - Documento de Arquitetura: documento_arquitetura.md
