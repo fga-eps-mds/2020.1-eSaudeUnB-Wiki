@@ -30,6 +30,7 @@ nav:
     - Plano de Qualidade do Projeto: plano-qualidade-projeto.md
     - Burndown de Risco: burndown_risco.md
     - Plano de Gerenciamento de Custos: plano_gerenciamento_custo.md
+    - Plano de Pipeline: plano-pipeline.md
   - Produto:
     - Documento de Visão: DocumentoDeVisao.md
     - Documento de Arquitetura: documento_arquitetura.md
