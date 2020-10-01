@@ -7,12 +7,11 @@ theme:
   name: 'material'
   language: pt
   palette:
-    primary: 'brown'
-    accent: 'brown'
+    primary: 'blue'
+    accent: 'blue'
   font:
     text: 'Barlow'
-  icon:
-    logo: material/library
+  logo: assets/logo.png
   feature:
     tabs: true
 
