@@ -1,4 +1,9 @@
-# Protótipo de alta fidelidade
+# Protótipo de Alta Fidelidade
+
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
+| -------- | -------- | -------- | -------- |
+| 13/09/2020 | 0.1  | Adição de todas as telas do protótipo de alta fidelidade | Abner Filipe e Caio Martins |
 
 ## Introdução
 
