@@ -133,4 +133,4 @@ o Sistema contara com as seguintes telas:<br>
 
 ## 10. Diagrama NFR 
 
-[ ![Diagrama_NFR.png](./img/diagrama_NFR.png) ](./img/diagrama_NFR.png)
+[![Diagrama_NFR.png](./img/diagrama_NFR.png)](./img/diagrama_NFR.png)

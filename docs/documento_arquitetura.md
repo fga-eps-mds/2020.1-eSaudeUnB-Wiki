@@ -42,7 +42,7 @@ O modelo de arquitetura proposto nesse projeto é um modelo multicamada, onde é
 
 Para realizar a comunicação entre as camadas, será utilizado o modelo de arquitetura cliente-servidor, no qual há os fornecedores de recursos e os que consomem esses recursos disponibilizados. O servidor é um fornecedor de recurso, onde é uma camada intermediária responsável por lidar diretamente com os a camada de persistência e fornecer os dados manipulados para a camada View através do protocolo de comunicação HTTP. O Cliente nesse ecossistema usufrui dos dados fazendo requisições ao servidor e renderizando estes para os usuários que fizeram a requisição.   
 
-![Diagrama de arquitetura](./img/diagrama-arquitetura.png)
+[![Diagrama de arquitetura](./img/diagrama-arquitetura.png)](./img/diagrama-arquitetura.png)
 
 * React.js
 
@@ -99,32 +99,28 @@ Criação de uma plataforma online para cadastro de psicólogos voluntários e g
 ### 4.1 Visão Geral
 A aplicação seguirá o padrão de implementação RESTful, isto é, seguiremos utilizando os princípios REST. Estilo de arquitetura em que cada aplicação web é um conjunto de recursos que representam um estado permitindo uma comunicação entre aplicações independente de sua implementação por meio do protocolo HTTP.
 
-
 ### 4.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
 #### 4.2.1 Front-End
 O front-end será totalmente desenvolvido utilizando a biblioteca React, segue a estrutura de pacotes
 
-![Estrutura do front-end](./img/frontenddiagram.png)
-
+[![Estrutura do front-end](./img/frontenddiagram.png)](./img/frontenddiagram.png)
 
 #### 4.2.2 Back-End
 Estrutura de pacotes do back-end
 
-![Estrutura do back-end](./img/backenddiagram.png)
-
+[![Estrutura do back-end](./img/backenddiagram.png)](./img/backenddiagram.png)
 
 ### 4.3 Modelagem de Dados
 
-![Diagrama Entidade Relacionamento](./img/DER.png)
-
+[![Diagrama Entidade Relacionamento](./img/DER.png)](./img/DER.png)
 
 ## 5 Visão de Implantação
 
-A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvolvimento de novas funções, possibilitando um uso antecipado de funções ja desenvolvidas.
-
+A implementação do Software será realizado por etapas, visando a utilização do software durante o desenvolvimento de novas funções, possibilitando um uso antecipado de funções já desenvolvidas.
 
 ## Referências
+
 Node.js. Disponível em: https://nodejs.org/. Acesso em 07/09/2020.
 
 React. Disponível em: https://reactjs.org. Acesso em 07/09/2020.

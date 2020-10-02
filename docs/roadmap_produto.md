@@ -7,4 +7,4 @@
 
 ## Roadmap da primeira release
 
-![Roadmap do Produto](./img/roadmap_primeira_release.png)
+[![Roadmap do Produto](./img/roadmap_primeira_release.png)](./img/roadmap_primeira_release.png)

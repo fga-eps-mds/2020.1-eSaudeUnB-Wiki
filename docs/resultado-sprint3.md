@@ -25,11 +25,11 @@
 
 ## Burndown
 
-![Burnout Sprint 2](./img/burndown_sprint_03.png)
+[![Burnout Sprint 2](./img/burndown_sprint_03.png)](./img/burndown_sprint_03.png)
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity-sprint-03.png)
+[![Velocity Sprint 0](./img/velocity-sprint-03.png)](./img/velocity-sprint-03.png)
 
 ## Quadro de conhecimento
 
@@ -37,7 +37,7 @@
     Sendo esta a primeira Sprint envolvendo código para o time de MDS, não foi possível notar alguma melhora significante para os membros, pois apenas uma dupla ficou responsável pela issue de código. A próxima Sprint de acordo com o RoadMap, terá issues de código para ambas as duplas e possivelmente o quadro de conhecimento tenha alguma melhora significante, já que com o pareamento estratégico criado pelo time de EPS, o conhecimento das tecnologias circulará mais entre o time de desenvolvimento, nivelando as habilidades no grupo. Para o time EPS, não houve muita melhora, pois essa sprint foi voltada exclusivamente para configuração de ambiente, habilidade que já era conhecida pela maioria do time de gerência.
 </p>
 
-![Quadro Sprint 3](./img/quadro-conhecimento-sprint03.png)
+[![Quadro Sprint 3](./img/quadro-conhecimento-sprint03.png)](./img/quadro-conhecimento-sprint03.png)
 
 ### Retrospectiva
 

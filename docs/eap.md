@@ -10,4 +10,4 @@ De acordo com PMBOK 6° edição, a Estrutura Analítica de Projeto (EAP) é o p
 estruturada do que deve ser entregue. Esse processo é realizado uma vez ou em pontos predefinidos no projeto.
 </p>
 
-![eap](./img/eap.png)
+[![eap](./img/eap.png)](./img/eap.png)
