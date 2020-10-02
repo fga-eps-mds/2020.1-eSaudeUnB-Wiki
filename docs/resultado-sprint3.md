@@ -1,5 +1,5 @@
 # Resultado Sprint 3
-<hr>
+
 <p style="text-align: justify">
     Para essa Sprint foi planejado a primeira US envolvendo código, que foi designado ao time de MDS. Mesmo com apenas uma dupla nessa frente, foi possível enxergar alguns pontos no qual o time de EPS deve ter cuidado na hora das correções envolvendo esse tipo de história. Foi uma Sprint boa para o time em geral, tendo apenas uma divida técnica e sendo por parte do time de EPS, o que mostra o empenho da equipe em entregar o máximo de pontos planejados na Sprint, principalmente o time de MDS.
 </p>

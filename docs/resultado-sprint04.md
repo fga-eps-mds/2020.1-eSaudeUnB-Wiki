@@ -1,5 +1,5 @@
 # Resultado Sprint 4
-<hr>
+
 <p style="text-align: justify">
     Nessa <i>sprint</i>, todos os membros de MDS pegaram histórias envolvendo código. Foi um marco importante dentro do projeto, sendo a primeira experiência com código compartilhado do time de desenvolvimento, tendo estes que corrigir problemas oriundos ao trabalho paralelo, uso do pair programming, e aprendizado mais intenso das tecnologia do projeto. O time de gerênciamento resolveu acompanhar mais de perto o time de MDS nos primeiros dias da <i>sprint</i>, para verificar a dificuldade das duplas com as <i>issues</i> e fazer um pareamento inicial para ajudar no alinhamento de conhecimento do time que está começando.
 </p>

@@ -1,5 +1,4 @@
 # Resultado Sprint 1
-<hr>
 
 Nessa Sprint foram designadas as primeiras atividades para o time de MDS com a elaboração do Documento de Visão. A Sprint marcou também a apresentação dos rituais iniciais da metodologia, com a implantação das dailys para toda a equipe.
 

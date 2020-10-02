@@ -1,5 +1,4 @@
 # Resultado Sprint 0
-<hr>
 
 Essa Sprint foi dedicada exclusivamente para a definição de um tema para o time de EPS e MDS, onde a ideia inicial foi oferecida pela professora Carla. Essa semana também foi marcada pelo contato inicial com os clientes e equipe de MDS.
 

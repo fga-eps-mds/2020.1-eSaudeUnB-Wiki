@@ -1,5 +1,4 @@
 # Resultado Sprint 2
-<hr>
 
 Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Documentos importantes que serão base para todo o projeto durante seu desenvolvimento. Dentre eles podemos destacar o documento de arquitetura que descreve nossa arquitetura inicial de forma bem detalhada. E a criação do backlog do produto, no qual define as histórias de desenvolvimento de um forma mais clara.
 
