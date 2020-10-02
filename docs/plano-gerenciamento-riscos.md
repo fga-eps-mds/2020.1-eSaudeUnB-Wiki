@@ -1,8 +1,7 @@
 # Plano de Gerenciamento de Riscos
 
-## Histórico de Revisões
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 16/09/2020 |   0.1    | Criação do Plano de Gerenciamento de Riscos |   João Pedro  |
 | 18/09/2020 |   0.2    | Identificação dos riscos |   João Pedro  |

@@ -1,8 +1,7 @@
 # Documento de Arquitetura
 
-## Histórico de Revisão
-
-| Data       | Versão | Descrição                    | Autores                    |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 | ---------- | ------ | ---------------------------- | -------------------------- |
 | 02/09/2020 | 0.1    | Abertura do documento        | Caio Martins               |
 | 03/09/2020 | 0.2    | Representação da Arquitetura | Abner Filipe e Rafael Leão |

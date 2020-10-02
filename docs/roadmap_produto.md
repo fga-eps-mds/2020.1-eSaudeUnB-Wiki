@@ -1,8 +1,7 @@
 # Roadmap do Produto
 
-## Histórico de Revisões
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 15/09/2020 |   0.1    | Criação do Roadmap do Produto e inclusão do Roadmap da primeira release |   João Pedro  |
 

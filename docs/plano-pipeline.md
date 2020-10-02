@@ -1,6 +1,7 @@
 # Plano de Pipeline
 
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 27/09/2020 |   0.1    | Criação do Plano de Pipeline |   Daniel Maike  |
 

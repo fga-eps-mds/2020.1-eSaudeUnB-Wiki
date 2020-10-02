@@ -1,8 +1,7 @@
 # Plano de Gerênciamento de Custo
 
-## Histórico de Revisões
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 25/09/2020 |   0.1    | Criação do Plano de Gerenciamento de Custo | Joberth Rogers |
 
@@ -12,7 +11,7 @@
     Segundo o Guia PMBOK, o plano de gerenciamento dos custos define o formato e estabelece as atividades e os critérios de planejamento, estruturação e controle dos custos do projeto. Ele faz parte ou é um plano auxiliar do plano de gerenciamento do projeto.
 </p>
 
-## Acrónimos
+## Acrônimos
 
 - PMBOK: Project Management Body of Knowledge
 - EAP: Estrutura Analítica de Projeto

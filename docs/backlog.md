@@ -1,8 +1,7 @@
 # Backlog
 
-## Histórico de Revisões
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 01/09/2020 |   0.1    | Criação do Documento de Backlog  |   João Pedro  |
 

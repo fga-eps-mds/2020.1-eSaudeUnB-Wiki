@@ -1,8 +1,7 @@
 # Termo de Abertura do Projeto
 
-## Histórico de Revisão
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 26/08/2020 |   0.1    | Criação do Termo de Abertura do Projeto           |   Daniel Maike, João Pedro, Joberth Rogers  |
 | 26/08/2020 |   0.2    | Adição dos tópicos 8, 9, 10 e 11           |   João Pedro  |

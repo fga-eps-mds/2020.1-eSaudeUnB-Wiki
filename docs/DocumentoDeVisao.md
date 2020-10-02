@@ -1,6 +1,7 @@
-# Documento de visão
-## Histórico de versões
-| Data     | Versão   | Descrição| Autor    |
+# Documento de Visão
+
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 | -------- | -------- | -------- | -------- |
 | 29/08/2020 | 0.1  | Adição da Introdução | Caio Martins |
 | 29/08/2020 | 0.2  | Alteração na Restrição | Luis Marques |
@@ -11,7 +12,7 @@
 | 30/08/2020 | 0.7  | Formatação e inclusão de informações ao tópico restrições | Luis Marques |
 | 31/08/2020| 0.8 |Inclusão da Visão Geral do Produto| Abner Filipe |
 | 01/09/2020 | 0.9 | Correção de Erros no Sumário | Abner Filipe / Rafael Leão |
-| 01/09/2020 | 0.10 | Adição da Parte Interessada Cliente e do Usuário Paciente| Vinicius Ferreira |
+| 01/09/2020 | 0.10 | Adição da Parte Interessada Cliente e do Usuário Paciente| Vinícius Ferreira |
 
 ## 1. Introdução
 

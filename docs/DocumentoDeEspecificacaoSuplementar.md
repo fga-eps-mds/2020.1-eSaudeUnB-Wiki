@@ -1,18 +1,14 @@
 # Especificação suplementar 
 
- 
- 
-
-## Histórico de Revisão 
-
-| Data | Versão | Descrição | Autores | 
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 | --- | --- | --- | --- | 
 | 08/09/2020 | 0.1 | Abertura do documento | Luis Marques e Pedro Henrique | 
 | 09/09/2020 | 0.2 | Adição dos campos Confiabilidade, Portabilidade, Desempenho, Restrições de Design | Pedro Henrique Castro de Oliveira |
 |10/09/2020|0.3| Tópicos 1,2,6,7 e 9| Luis Marques |
 |10/09/2020|0.4| Formatação do documento | Luis Marques |
-|11/09/2020|1.0| Adição do diagrama, tópico 8.3 e formatação | Luis Marques e Pedro Henrique |
-|13/09/2020|1.1| Mudança no nome do arquivo para padronização, mudança no texto do tópico 1.1 e tópico 7 e correção de ortografia | Pedro Henrique Castro de Oliveira |
+|11/09/2020|0.5| Adição do diagrama, tópico 8.3 e formatação | Luis Marques e Pedro Henrique |
+|13/09/2020|0.6| Mudança no nome do arquivo para padronização, mudança no texto do tópico 1.1 e tópico 7 e correção de ortografia | Pedro Henrique Castro de Oliveira |
 
 ## 1. Introdução  
 
