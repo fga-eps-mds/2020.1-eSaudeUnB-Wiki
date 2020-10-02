@@ -29,7 +29,7 @@ Nessa Sprint foram designadas as primeiras atividades para o time de MDS com a e
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity_sprint01.png)
+![Velocity Sprint 0](./img/velocity_sprint1.png)
 
 ## Quadro de conhecimento
 
