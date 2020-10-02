@@ -10,20 +10,6 @@
 | 27/08/2020 |   0.5    | Revisão dos tópicos 5, 6 | João Pedro, Joberth Rogers | 
 | 27/08/2020 |   0.6    | Atualização do tópico 8 | Daniel Maike, Joberth Rogers | 
 
-## Sumário
-
-[1. Introdução](#1-introducao) </br>
-[2. Finalidade do projeto](#2-finalidade-do-projeto) </br>
-[3. Objetivos do projeto](#3-objetivos-do-projeto) </br>
-[4. Requisitos de alto nível](#4-requisitos-de-alto-nivel) </br>
-[5. Descrição](#5-descricao) </br>
-[6. Risco geral do projeto](#6-risco-geral-do-projeto)</br>
-[7. Cronograma de Marcos](#7-cronograma-de-marcos) </br>
-[8. Stakeholders](#8-stakeholders) </br>
-[9. Requisitos para aprovação do projeto](#9-requisitos-para-aprovacao-do-projeto) </br>
-[10. Gerentes do projeto](#10-gerentes-do-projeto) </br>
-[11. Patrocinador](#11-patrocinador) </br>
-
 ## 1. Introdução
 
 <p align = "justify"> De acordo com a descrição do PMBOK (PMI, 2017), o termo de abertura do projeto é o documento emitido pelo responsável pela iniciação do projeto ou patrocinador do projeto que autoriza formalmente a existência de um projeto e fornece ao gerente do projeto a autoridade para aplicar os recursos organizacionais nas atividades do projeto.</p>
