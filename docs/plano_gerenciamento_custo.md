@@ -4,6 +4,7 @@
 | Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 25/09/2020 |   0.1    | Criação do Plano de Gerenciamento de Custo | Joberth Rogers |
+| 01/10/2020 | 0.2 | Correção de ortografia | Joberth Rogers |
 
 ## Introdução
 
@@ -20,8 +21,8 @@
 ## Processo de Gerenciamento de Custos
 
 <p style="text-align: justify;">
-    Tópico responsável por definir os principais processos que serão utilizado para fazer a gerência de custo 
-    dentro do projeto eSaude UnB. Os dados a seguir estão de acordo com as quatro etapas abordadas no PMBOK: planejamento,.
+    Tópico responsável por definir os principais processos que serão utilizado no planejamentodos custo 
+    dentro do projeto eSaude UnB. Os dados a seguir estão de acordo com as quatro etapas abordadas no PMBOK: planejamento.
 </p>
 
 
@@ -37,14 +38,14 @@
     Pessimista (<strong>P</strong>) e Mais Provável (<strong>M</strong>). Logo PERT é calculada pela formula:
 </p>
 
-<div align="center">
+<div style="text-align:center;">
     <img src="https://i.imgur.com/XT3N2he.jpg" width="300px" >
 </div>
 
 ### Recursos humanos
 
 <p style="text-align: justify;">
-    As estimativas de custos relacionadas a recursos humanos levarão em consideração a carga horária de 8 diárias e a média de 22 dias uteis dentro de um mês para estimar o valor-hora de um profissional no mercado. A média salarial de cada profissional listado foi extraída do site [glassdoor](https://www.glassdoor.com.br/index.htm) filtrando pela cidade de Brasília/DF.
+    As estimativas de custos relacionadas a recursos humanos levarão em consideração a carga horária de 8 diárias e a média de 22 dias uteis dentro de um mês para estimar o valor-hora de um profissional no mercado. A média salarial de cada profissional listado foi extraída do site <a href="https://www.glassdoor.com.br/index.htm">Glassdoor</a> filtrando pela cidade de Brasília/DF.
 </p>
 
 <p style="text-align: justify;">

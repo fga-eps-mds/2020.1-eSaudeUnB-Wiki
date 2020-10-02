@@ -101,7 +101,7 @@
 
 * Express.js 
 
-* Postgress SQL 
+* Mongo Database
 
 * Axios 
 
