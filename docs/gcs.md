@@ -59,7 +59,7 @@ Tipos:
 
 * Exemplo:
 
-   ```feat: create user structure #1```
+   ```feat: create user structure```
 
 </p>
 
