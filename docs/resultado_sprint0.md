@@ -22,7 +22,7 @@ Essa Sprint foi dedicada exclusivamente para a definição de um tema para o tim
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity-sprint0.png)
+![Velocity Sprint 0](./img/velocity_sprint0.png)
 
 ## Quadro de conhecimento inicial
 
