@@ -9,7 +9,7 @@
 | US06 - Cadastrar o atendimento do paciente no prontuário | 8 |
 | US07 - Cadastrar a disponibilidade dos profissionais de psicologia | 13 |
 | Bugfix: ajustes de Design | 3 |
-| plano de custo do projeto | 5 |
+| Plano de custo do projeto | 5 |
 | Plano de Qualidade do Projeto | 2 |
 | Documentação do Pipeline de Devops | 5 |
 
@@ -27,7 +27,7 @@
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity_sprint3.png)
+![Velocity Sprint 0](./img/velocity_sprint5.png)
 
 ## Quadro de conhecimento
 

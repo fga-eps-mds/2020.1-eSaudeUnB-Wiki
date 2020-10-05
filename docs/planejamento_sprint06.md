@@ -1,7 +1,7 @@
-# Planejamento Sprint 5
+# Planejamento Sprint 6
 
 <p style="text-align: justify:">
-    Como essa <i>sprint</i> é uma anterior a <i>release</i>, nós do time de EPS decidimos alocar apenas uma história de usuário para o time de EPS e o resto das duplas focar em issues voltadas para o design e aumento da cobertura de teste. 
+    Como essa <i>sprint</i> é uma anterior a <i>release</i>, o time de EPS decidiu alocar apenas uma história de usuário para o time de MDS e o resto das duplas focar em <i>issues</i> voltadas para o design e aumento da cobertura de teste. 
 </p>
 
 ## Duração da Sprint
