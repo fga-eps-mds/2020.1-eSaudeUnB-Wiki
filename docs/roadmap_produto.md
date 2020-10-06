@@ -4,6 +4,7 @@
 | Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 15/09/2020 |   0.1    | Criação do Roadmap do Produto e inclusão do Roadmap da primeira release |   João Pedro  |
+| 06/10/2020 |   0.2    | Alteração da data final e das issues da Sprint 7 |   João Pedro  |
 
 ## Roadmap da primeira release
 
