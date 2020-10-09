@@ -44,10 +44,10 @@
 |:-------------:|:----:|:----:|
 | Abner Filipe Cunha Ribeiro | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=abner423)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=abner423) | 
 | Caio Martins Ferreira | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=PerhapsAlex)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=PerhapsAlex) |
-| Luis Gustavo Ferreira Marques | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=Rafaelltm)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=Rafaelltm) |
-| Pedro Henrique Castro de Oliveira | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=Rafaelltm)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=pedroholiveira1998) |
+| Luis Gustavo Ferreira Marques | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=luisgfmarques)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=luisgfmarques) |
+| Pedro Henrique Castro de Oliveira | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=pedroholiveira1998)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=pedroholiveira1998) |
 | Rafael Leão Teixeira de Magalhães | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=Rafaelltm)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=Rafaelltm) |
-| Vinícius Ferreira Alves de Lima | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=Rafaelltm)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=vinelime) |
+| Vinícius Ferreira Alves de Lima | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=vinelime)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=vinelime) |
 
 ## Vídeo de Apresentação da Release 1
 
