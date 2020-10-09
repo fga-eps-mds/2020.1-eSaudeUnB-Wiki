@@ -25,11 +25,11 @@
 
 ## Burndown
 
-[![Burnout Sprint 2](./img/burndown_sprint_03.png)](./img/burndown_sprint_03.png)
+[![Burnout Sprint 3](./img/burndown_sprint_03.png)](./img/burndown_sprint_03.png)
 
 ## Velocity
 
-[![Velocity Sprint 0](./img/velocity-sprint-03.png)](./img/velocity-sprint-03.png)
+[![Velocity Sprint 3](./img/velocity_sprint3.png)](./img/velocity_sprint3.png)
 
 ## Quadro de conhecimento
 

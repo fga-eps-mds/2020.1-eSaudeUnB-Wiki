@@ -8,7 +8,7 @@
 
 ## Histórias de Usuário desenvolvidas
 
-<p align="justify"> Durante o período da Release 1, a equipe de desenvolvimento realizou oito histórias de usuário, conforme abaixo.<p>
+<p align="justify"> Durante o período da Release 1, a equipe de desenvolvimento realizou oito histórias de usuário, conforme abaixo.</p>
 
 | Código US | Descrição | Issue |
 |:----------:|:---------:|:---------:|
@@ -23,7 +23,7 @@
 
 ## Quadro das Histórias de Usuário por Desenvolvedor
 
-<p align="justify"> O quadro abaixo mostra quais foram os pares responsáveis por cada uma das histórias de usuário desenvolvidas ao longo da Release 1.<p>
+<p align="justify"> O quadro abaixo mostra quais foram os pares responsáveis por cada uma das histórias de usuário desenvolvidas ao longo da Release 1.</p>
 
 | Desenvolvedor | US01 | US02 | US03 | US04 | US05 | US06 | US07 | US08 |
 |:-------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -36,7 +36,7 @@
 
 ## Contribuições por Desenvolvedor em cada repositório
 
-<p align="justify"> Por conta do pareamento e das reuniões entre os integrantes terem sido realizadas de forma remota, os commits podem ter sido feitos em coautoria nos computadores de um dos integrantes do par, fazendo com que os gráficos de contribuição do <i>Insights</i> do GitHub não reflitam a realidade do desenvolvimento.<p>
+<p align="justify"> Por conta do pareamento e das reuniões entre os integrantes terem sido realizadas de forma remota, os commits podem ter sido feitos em coautoria nos computadores de um dos integrantes do par, fazendo com que os gráficos de contribuição do <i>Insights</i> do GitHub não reflitam a realidade do desenvolvimento.</p>
 
 <p align="justify">Desta forma, seguem abaixo os links para as listas de commits de cada um dos desenvolvedores para cada um dos repositórios.</p>
 
@@ -51,12 +51,12 @@
 
 ## Vídeo de Apresentação da Release 1
 
-<p align="justify"> Por conta do tamanho do arquivo do vídeo, tivemos que colocar o link para ele dentro da nossa pasta compartilhada no Google Drive.<p>
+<p align="justify"> Por conta do tamanho do arquivo do vídeo, tivemos que colocar o link para ele dentro da nossa pasta compartilhada no Google Drive.</p>
 
 [Vídeo de Apresentação da Release 1](https://drive.google.com/file/d/1j2xZNd7Co9lRfwDtXPjXm9a2UlqaSXui/view?usp=sharing)
 
 ## Slides da Apresentação da Release 1
 
-<p align="justify"> Abaixo segue o link o arquivo com os slides usados na Apresentação da Release 1 que está dentro da nossa pasta compartilhada no Google Drive.<p>
+<p align="justify"> Abaixo segue o link o arquivo com os slides usados na Apresentação da Release 1 que está dentro da nossa pasta compartilhada no Google Drive.</p>
 
 [Slides da Apresentação da Release 1](https://docs.google.com/presentation/d/15LHI7zxYDb5mlwv3EHJSYBH9jV6M5LsB6vDv5u9V9Lc/edit?usp=sharing)

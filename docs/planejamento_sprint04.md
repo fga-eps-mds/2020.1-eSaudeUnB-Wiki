@@ -11,22 +11,6 @@
 
 **Duração:** Sete dias
 
-## Tarefas
-
-| Issues | Pontos |
-| ------ | ------ |
-| US02 - Implementação do Usuário Administrador | 8 |
-| US03 - Implementação da edição do usuário paciente | 8 |
-| US04 - Implementação do prontuário de paciente | 8 |
-| Elaboração do Planejamento de Risco | 3 |
-| Burndown de Risco | 2 |
-
-<hr>
-
-<p style="text-align: center;">
-    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 29
-</p>
-
 ## Pareamentos da Semana
 
 - Caio e Rafael
@@ -55,3 +39,20 @@
 - Luis Gustavo
 - Rafael Leão
 - Vinicius Ferreira
+
+
+## Tarefas
+
+| Issues | Pontos |
+| ------ | ------ |
+| US02 - Implementação do Usuário Administrador | 8 |
+| US03 - Implementação da edição do usuário paciente | 8 |
+| US04 - Implementação do prontuário de paciente | 8 |
+| Elaboração do Planejamento de Risco | 3 |
+| Burndown de Risco | 2 |
+
+<hr>
+
+<p style="text-align: center;">
+    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 29
+</p>

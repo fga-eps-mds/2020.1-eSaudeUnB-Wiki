@@ -11,25 +11,6 @@
 
 **Duração:** Sete dias
 
-## Tarefas
-
-| Issues | Pontos |
-| ------ | ------ |
-| Configuração inicial do Deploy Continuo | 8 |
-| US05 - Implementar a ficha do profissional de psicologia | 8 |
-| US06 - Cadastrar o atendimento do paciente no prontuário | 8 |
-| US07 - Cadastrar a disponibilidade dos profissionais de psicologia | 13 |
-| Bugfix: ajustes de Design | 3 |
-| plano de custo do projeto | 5 |
-| Plano de Qualidade do Projeto | 2 |
-| Documentação do Pipeline de Devops | 5 |
-
-<hr>
-
-<p style="text-align: center;">
-    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 52
-</p>
-
 ## Pareamentos da Semana
 
 - Abner e Rafael
@@ -58,3 +39,23 @@
 - Luis Gustavo
 - Rafael Leão
 - Vinicius Ferreira
+
+
+## Tarefas
+
+| Issues | Pontos |
+| ------ | ------ |
+| Configuração inicial do Deploy Continuo | 8 |
+| US05 - Implementar a ficha do profissional de psicologia | 8 |
+| US06 - Cadastrar o atendimento do paciente no prontuário | 8 |
+| US07 - Cadastrar a disponibilidade dos profissionais de psicologia | 13 |
+| Bugfix: ajustes de Design | 3 |
+| plano de custo do projeto | 5 |
+| Plano de Qualidade do Projeto | 2 |
+| Documentação do Pipeline de Devops | 5 |
+
+<hr>
+
+<p style="text-align: center;">
+    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 52
+</p>

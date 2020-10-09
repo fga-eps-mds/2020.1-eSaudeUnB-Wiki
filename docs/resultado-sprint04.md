@@ -24,16 +24,16 @@
 
 ## Burndown
 
-[![Burnout Sprint 2](./img/burndown_sprint_04.png)](./img/burndown_sprint_04.png)
+[![Burnout Sprint 4](./img/burndown_sprint_04.png)](./img/burndown_sprint_04.png)
 
 ## Velocity
 
-[![Velocity Sprint 0](./img/velocity_sprint_04.png)](./img/velocity_sprint_04.png)
+[![Velocity Sprint 4](./img/velocity_sprint4.png)](./img/velocity_sprint4.png)
 
 ## Quadro de conhecimento
 
 
-[![Quadro Sprint 3](./img/quadro_conhecimento_sprint_04.png)](./img/quadro_conhecimento_sprint_04.png)
+[![Quadro Sprint 4](./img/quadro_conhecimento_sprint_04.png)](./img/quadro_conhecimento_sprint_04.png)
 
 ### Retrospectiva
 

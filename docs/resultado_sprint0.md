@@ -17,11 +17,11 @@ Essa Sprint foi dedicada exclusivamente para a definição de um tema para o tim
 
 ## Burndown
 
-[![Burnout Sprint 0](./img/burnout-sprint0.png)](./img/burnout-sprint0.png)
+[![Burndown Sprint 0](./img/burndown-sprint0.png)](./img/burndown-sprint0.png)
 
 ## Velocity
 
-[![Velocity Sprint 0](./img/velocity-sprint0.png)](./img/velocity-sprint0.png)
+[![Velocity Sprint 0](./img/velocity_sprint0.png)](./img/velocity_sprint0.png)
 
 ## Quadro de conhecimento inicial
 

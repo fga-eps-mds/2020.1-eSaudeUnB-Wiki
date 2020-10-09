@@ -24,7 +24,7 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 
 ## Velocity
 
-[![Velocity Sprint 0](./img/velocity-sprint02.png)](./img/velocity-sprint02.png)
+[![Velocity Sprint 2](./img/velocity_sprint2.png)](./img/velocity_sprint2.png)
 
 ## Quadro de conhecimento
 
