@@ -53,7 +53,7 @@
 
 <p align="justify"> Por conta do tamanho do arquivo do vídeo, tivemos que colocar o link para ele dentro da nossa pasta compartilhada no Google Drive.<p>
 
-[Vídeo de Apresentação da Release 1](https://docs.google.com/presentation/d/15LHI7zxYDb5mlwv3EHJSYBH9jV6M5LsB6vDv5u9V9Lc/edit?usp=sharing)
+[Vídeo de Apresentação da Release 1](https://drive.google.com/file/d/1j2xZNd7Co9lRfwDtXPjXm9a2UlqaSXui/view?usp=sharing)
 
 ## Slides da Apresentação da Release 1
 
