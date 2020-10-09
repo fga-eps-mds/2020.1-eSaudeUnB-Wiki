@@ -51,9 +51,13 @@
 
 ## Vídeo de Apresentação da Release 1
 
-<p align="justify"> Por conta do tamanho do arquivo do vídeo, tivemos que colocar o link para ele dentro da nossa pasta compartilhada no Google Drive.</p>
-
-[Vídeo de Apresentação da Release 1](https://drive.google.com/file/d/1j2xZNd7Co9lRfwDtXPjXm9a2UlqaSXui/view?usp=sharing)
+<iframe 
+    class="release-1-video" 
+    src="https://www.youtube.com/embed/uj1biOAqANA"
+    name="eSaúde UnB - Apresentação da Release 1"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+>
 
 ## Slides da Apresentação da Release 1
 
