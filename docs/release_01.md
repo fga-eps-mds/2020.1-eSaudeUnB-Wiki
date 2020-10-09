@@ -51,13 +51,21 @@
 
 ## Vídeo de Apresentação da Release 1
 
-<iframe 
+<div class="link-title">
+  <h3>
+    eSaúde UnB - Apresentação da Release 1
+  </h3>
+</div>
+<div class="video-container">
+  <iframe 
     class="release-1-video" 
     src="https://www.youtube.com/embed/uj1biOAqANA"
     name="eSaúde UnB - Apresentação da Release 1"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
 >
+  </iframe>
+</div>
 
 ## Slides da Apresentação da Release 1
 
