@@ -1,8 +1,7 @@
 # Plano de Gestão e Configuração de Software
 
-## Histórico de Revisão
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 25/08/2020 |   0.1    | Criação do Documento de GCS           |   Daniel Maike, João Pedro, Joberth Rogers  |
 | 26/08/2020 |   0.2    | Adequação dos Itens de Configuração          |   Daniel Maike, João Pedro, Joberth Rogers  |
@@ -60,7 +59,7 @@ Tipos:
 
 * Exemplo:
 
-   ```feat: create user structure #1```
+   ```feat: create user structure```
 
 </p>
 

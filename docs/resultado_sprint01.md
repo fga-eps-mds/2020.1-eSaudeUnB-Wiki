@@ -1,5 +1,4 @@
 # Resultado Sprint 1
-<hr>
 
 Nessa Sprint foram designadas as primeiras atividades para o time de MDS com a elaboração do Documento de Visão. A Sprint marcou também a apresentação dos rituais iniciais da metodologia, com a implantação das dailys para toda a equipe.
 
@@ -25,11 +24,11 @@ Nessa Sprint foram designadas as primeiras atividades para o time de MDS com a e
 
 ## Burndown
 
-![Burnout Sprint 0](./img/burndown_sprint01.png)
+[![Burnout Sprint 0](./img/burndown_sprint01.png)](./img/burndown_sprint01.png)
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity_sprint1.png)
+[![Velocity Sprint 0](./img/velocity_sprint01.png)](./img/velocity_sprint01.png)
 
 ## Quadro de conhecimento
 
@@ -37,7 +36,7 @@ Nessa Sprint foram designadas as primeiras atividades para o time de MDS com a e
     Como essa sprint foi dedicada a estudos das tecnologias por parte dos MDS, podemos ver uma pequena melhora nas tecnologias NodeJs e ReactJs, que foram as tecnologias acordadas pela equipe no desenvolvimento do projeto.
 </p>
 
-![Quadro Sprint 0](./img/quadro-sprint-0.png)
+[![Quadro Sprint 0](./img/quadro-sprint-0.png)](./img/quadro-sprint-0.png)
 
 ### Retrospectiva
 

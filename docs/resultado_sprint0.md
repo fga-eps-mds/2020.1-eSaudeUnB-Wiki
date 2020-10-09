@@ -1,5 +1,4 @@
 # Resultado Sprint 0
-<hr>
 
 Essa Sprint foi dedicada exclusivamente para a definição de um tema para o time de EPS e MDS, onde a ideia inicial foi oferecida pela professora Carla. Essa semana também foi marcada pelo contato inicial com os clientes e equipe de MDS.
 
@@ -18,11 +17,11 @@ Essa Sprint foi dedicada exclusivamente para a definição de um tema para o tim
 
 ## Burndown
 
-![Burnout Sprint 0](./img/burnout-sprint0.png)
+[![Burnout Sprint 0](./img/burnout-sprint0.png)](./img/burnout-sprint0.png)
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity_sprint0.png)
+[![Velocity Sprint 0](./img/velocity-sprint0.png)](./img/velocity-sprint0.png)
 
 ## Quadro de conhecimento inicial
 
@@ -34,7 +33,7 @@ Essa Sprint foi dedicada exclusivamente para a definição de um tema para o tim
     Com esse quadro foi possível ter um overview das habilidades de ambos os times desse projeto, e servirá como referência inicial para rastrear a evolução técnica da equipe.
 </p>
 
-![Quadro Sprint 0](./img/quadro-sprint-0.png)
+[![Quadro Sprint 0](./img/quadro-sprint-0.png)](./img/quadro-sprint-0.png)
 
 ## Avaliação do Scrum Master
 

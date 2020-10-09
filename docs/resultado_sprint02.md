@@ -1,5 +1,4 @@
 # Resultado Sprint 2
-<hr>
 
 Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Documentos importantes que serão base para todo o projeto durante seu desenvolvimento. Dentre eles podemos destacar o documento de arquitetura que descreve nossa arquitetura inicial de forma bem detalhada. E a criação do backlog do produto, no qual define as histórias de desenvolvimento de um forma mais clara.
 
@@ -21,11 +20,11 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 
 ## Burndown
 
-![Burnout Sprint 2](./img/burndown-sprint02.png)
+[![Burnout Sprint 2](./img/burndown-sprint02.png)](./img/burndown-sprint02.png)
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity_sprint2.png)
+[![Velocity Sprint 0](./img/velocity-sprint02.png)](./img/velocity-sprint02.png)
 
 ## Quadro de conhecimento
 
@@ -33,7 +32,7 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
     Como essa sprint foi dedicada exclusivamente a documentação mais uma vez, não houve uma melhora tão grande no avanço das tecnologias, provavelmente essa melhora será explicita na proxima Sprint, já que de acordo com o Roadmap, será a primeira issue de código para o time de MDS.
 </p>
 
-![Quadro Sprint 2](./img/quadro-conhecimento-sprint02.png)
+[![Quadro Sprint 2](./img/quadro-conhecimento-sprint02.png)](./img/quadro-conhecimento-sprint02.png)
 
 ### Retrospectiva
 
