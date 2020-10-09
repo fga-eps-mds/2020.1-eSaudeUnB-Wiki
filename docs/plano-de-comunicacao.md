@@ -1,10 +1,7 @@
 # Plano de Comunicação do Projeto
 
-<hr>
-
-## Histórico de Revisões
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 10/09/2020 |   0.1    | Criação do Documento de Metodologia e Papeis  |   Joberth Rogers  |
 

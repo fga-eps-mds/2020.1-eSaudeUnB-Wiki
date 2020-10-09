@@ -1,14 +1,13 @@
 # Planejamento Sprint 0
 
-<hr>
-
 <p style="text-align: justify:">
     Após a decisão do tema a ser desenvolvido pelo grupo, serão designados para essa Sprint algumas tarefas de abertura para toda a equipe. Para o time de MDS serão atribuídos exclusivamente issues de documentação e estudos das tecnologias selecionadas pelo grupo, e para EPS serão mapeadas tarefas envolvendo a organização da Wiki e documentos de abertura de projeto.    
 </p>
 
 ## Duração da Sprint
 
-**Início:** 24/08/2020</br>
+**Início:** 24/08/2020
+
 **Término:** 31/08/2020
 
 **Duração:** Sete dias

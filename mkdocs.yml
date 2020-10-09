@@ -37,7 +37,6 @@ nav:
     - Documento de Metodologia e Papeis: metodologia-e-papeis.md
     - Prototipo De Baixa Fidelidade: PrototipoDeBaixaFidelidade.md
     - Prototipo De Alta Fidelidade: prototipo_alta_fidelidade.md
-    - Estrutura Analítica do Projeto: eap.md
     - Documento de Especificação Suplementar: DocumentoDeEspecificacaoSuplementar.md
   - Sprints:
     - Sprint 0:
@@ -56,6 +55,9 @@ nav:
       - Planejamento: planejamento_sprint04.md
       - Resultado: resultado-sprint04.md
     - Sprint 5:
-      - Planejamento: planejamento_sprint05.md
+      - Planejamento: planejamento_sprint05.m
+      - Resultado: resultado_sprint05.md
+    - Sprint 6:
+      - Planejamento: planejamento_sprint06.md
   - Releases:
     - Release 1: release_01.md

@@ -1,6 +1,7 @@
 # Plano de Pipeline
 
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 27/09/2020 |   0.1    | Criação do Plano de Pipeline |   Daniel Maike  |
 
@@ -45,19 +46,19 @@ MongoDB Atlas é o serviço de banco de dados em nuvem global para aplicativos m
 
 ## 2. Pipeline Back-End - Code Climate
 
-![Pipeline BackEnd CodeClimate](./img/pipelinebackendcodeclimate.png)
+[![Pipeline BackEnd CodeClimate](./img/pipelinebackendcodeclimate.png)](./img/pipelinebackendcodeclimate.png)
 
 ## 3. Pipeline Front-End - Code Climate
 
-![Pipeline FrontEnd CodeClimate](./img/pipelinefrontendcodeclimate.png)
+[![Pipeline FrontEnd CodeClimate](./img/pipelinefrontendcodeclimate.png)](./img/pipelinefrontendcodeclimate.png)
 
 ## 4. Pipeline Back-End - CI/CD
 
-![Pipeline BackEnd](./img/pipelinebackend.png)
+[![Pipeline BackEnd](./img/pipelinebackend.png)](./img/pipelinebackend.png)
 
 ## 5. Pipeline Front-End - CI/CD
 
-![Pipeline FrontEnd](./img/pipelinefrontend.png)
+[![Pipeline FrontEnd](./img/pipelinefrontend.png)](./img/pipelinefrontend.png)
 
 ## 6. Referências
 

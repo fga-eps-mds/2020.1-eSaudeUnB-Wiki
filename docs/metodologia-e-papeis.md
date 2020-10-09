@@ -1,8 +1,7 @@
 # Metodologia e Papeis
 
-## Histórico de Revisões
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 08/09/2020 |   0.1    | Criação do Documento de Metodologia e Papeis  |   João Pedro  |
 | 13/09/2020 |   0.2    | Inclusão do Kanban e dos papeis  |   João Pedro  |

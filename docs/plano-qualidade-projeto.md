@@ -1,8 +1,7 @@
 # Plano de Qualidade do Projeto
 
-## Histórico de Revisões
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 24/09/2020 |   0.1    | Criação do Plano de Qualidade do Projeto |   João Pedro  |
 | 26/09/2020 |   0.2    | Inclusão da finalidade do Plano, das métricas e das ferramentas |   João Pedro  |

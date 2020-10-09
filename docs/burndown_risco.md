@@ -1,8 +1,7 @@
 # Burndown de Risco 
 
-## Histórico de Revisão 
-
-| Data | Versão | Descrição | Autores | 
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 | --- | --- | --- | --- | 
 | 18/09/2020 | 0.1 | Adicionado Burndown de Risco | Joberth Rogers e João Pedro | 
 
