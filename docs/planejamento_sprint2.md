@@ -11,23 +11,6 @@
 
 **Duração:** Sete dias
 
-## Tarefas
-
-| Issues | Pontos |
-| ------ | ------ |
-| Treinamento e estudo de teste | 3 |
-| Protótipo de Baixa Fidelidade | 3 |
-| Elaboração do Documento de Arquitetura | 5 |
-| Elaboração inicial do backlog do produto | 5 |
-| Criação do Ambiente de Desenvolvimento | 5 |
-| Elaboração do EAP | 2 |
-
-<hr>
-
-<p style="text-align: center;">
-    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 23
-</p>
-
 ## Papéis da Sprint
 
 **Scrum Master:** 
@@ -50,3 +33,22 @@
 - Luis Gustavo
 - Rafael Leão
 - Vinicius Ferreira
+
+## Tarefas
+
+| Issues | Pontos |
+| ------ | ------ |
+| Treinamento e estudo de teste | 3 |
+| Protótipo de Baixa Fidelidade | 3 |
+| Elaboração do Documento de Arquitetura | 5 |
+| Elaboração inicial do backlog do produto | 5 |
+| Criação do Ambiente de Desenvolvimento | 5 |
+| Elaboração do EAP | 2 |
+
+<hr>
+
+<p style="text-align: center;">
+    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 23
+</p>
+
+

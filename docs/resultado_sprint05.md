@@ -27,7 +27,7 @@
 
 ## Velocity
 
-![Velocity Sprint 0](./img/velocity_sprint5.png)
+![Velocity Sprint 5](./img/velocity_sprint5.png)
 
 ## Quadro de conhecimento
 

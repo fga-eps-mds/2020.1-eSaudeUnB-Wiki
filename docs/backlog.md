@@ -10,17 +10,17 @@
 
 <p align="justify"> A partir de um levantamento de requisitos bem fundamentado, é possível definir um <i>backlog</i> bem estruturado a partir do qual o desenvolvimento pode obter maior sucesso.</p> 
 
-<p align="justify"> O <i>backlog</i> do produto é um artefato <i>SCRUM</i> constantemente refatorado devido à volatilidade dos requisitos elicitados junto aos <i>stakeholders</i>, e, desta maneira, possui diversas modificações.</i> 
+<p align="justify"> O <i>backlog</i> do produto é um artefato <i>SCRUM</i> constantemente refatorado devido à volatilidade dos requisitos elicitados junto aos <i>stakeholders</i>, e, desta maneira, possui diversas modificações.</p>
 
 <p align="justify"> Tais modificações podem ser consultadas através do histórico de versões presente no do documento do <i>backlog</i> armazenado na pasta do Google Drive. Ele pode ser acessado a partir do link abaixo:</p>
 
-[eSaudeUnB - Backlog](https://docs.google.com/spreadsheets/d/1KaAB7QSrFc_kLbJjvetrwGHoPdRTF6AQEjbenxx-FSM/edit?usp=sharing)
+[eSaudeUnB - Backlog](https://docs.google.com/spreadsheets/d/1KaAB7QSrFc_kLbJjvetrwGHoPdRTF6AQEjbenxx-FSM/edit?usp=sharing) <br>
 
-## 1.1. Propósito
+### 1.1. Propósito
 
 <p align="justify"> O presente documento tem como propósito apresentar o <i>product backlog</i> do <i>software</i> desenvolvido para a plataforma eSaúde UnB, trazendo as histórias de usuários e os seus critérios de aceitação. Espera-se a partir desse <i>backlog</i> conseguir planejar as <i>sprints</i> (conforme a metodologia estabelecida) a serem executadas até o prazo final da melhor forma possível.</p>
 
-## 1.2. Escopo
+### 1.2. Escopo
 
 <p align="justify"> O escopo do <i>product backlog</i> considera as histórias selecionadas a partir dos requisitos elicitados, a serem desenvolvidos até o fim do prazo de entrega do projeto. Assim, optou-se por dividir em módulos e apresentar os critérios de aceitação da histórias a serem entregues.</p>
 

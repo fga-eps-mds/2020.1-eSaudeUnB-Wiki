@@ -11,21 +11,6 @@
 
 **Duração:** Sete dias
 
-## Tarefas
-
-| Issues | Pontos |
-| ------ | ------ |
-| US08 - Implementar a consulta à ficha do profissional de psicologia | 8 |
-| FIX - Melhorias de manutenibilidade, cobertura de testes e correção de bugs | 8 |
-| FIX - Correções de Design | 5 |
-| FIX - Melhorias na documentação do projeto | 5 |
-
-<hr>
-
-<p style="text-align: center;">
-    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 26
-</p>
-
 ## Pareamentos da Semana
 
 - Rafael e Pedro
@@ -54,3 +39,19 @@
 - Luis Gustavo
 - Rafael Leão
 - Vinicius Ferreira
+
+
+## Tarefas
+
+| Issues | Pontos |
+| ------ | ------ |
+| US08 - Implementar a consulta à ficha do profissional de psicologia | 8 |
+| FIX - Melhorias de manutenibilidade, cobertura de testes e correção de bugs | 8 |
+| FIX - Correções de Design | 5 |
+| FIX - Melhorias na documentação do projeto | 5 |
+
+<hr>
+
+<p style="text-align: center;">
+    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 26
+</p>
