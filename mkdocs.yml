@@ -55,7 +55,9 @@ nav:
       - Planejamento: planejamento_sprint04.md
       - Resultado: resultado-sprint04.md
     - Sprint 5:
-      - Planejamento: planejamento_sprint05.md
+      - Planejamento: planejamento_sprint05.m
       - Resultado: resultado_sprint05.md
     - Sprint 6:
       - Planejamento: planejamento_sprint06.md
+  - Releases:
+    - Release 1: release_01.md
