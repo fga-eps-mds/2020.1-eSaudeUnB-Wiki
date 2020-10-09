@@ -1,8 +1,7 @@
 # Termo de Abertura do Projeto
 
-## Histórico de Revisão
-
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+## Histórico de Versões
+| Data     | Versão   | Descrição | Autor(es) |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 26/08/2020 |   0.1    | Criação do Termo de Abertura do Projeto           |   Daniel Maike, João Pedro, Joberth Rogers  |
 | 26/08/2020 |   0.2    | Adição dos tópicos 8, 9, 10 e 11           |   João Pedro  |
@@ -10,20 +9,6 @@
 | 26/08/2020 |   0.4    | Adição do tópico 5, 6 e 8 | Joberth Rogers | 
 | 27/08/2020 |   0.5    | Revisão dos tópicos 5, 6 | João Pedro, Joberth Rogers | 
 | 27/08/2020 |   0.6    | Atualização do tópico 8 | Daniel Maike, Joberth Rogers | 
-
-## Sumário
-
-[1. Introdução](#1-introducao) </br>
-[2. Finalidade do projeto](#2-finalidade-do-projeto) </br>
-[3. Objetivos do projeto](#3-objetivos-do-projeto) </br>
-[4. Requisitos de alto nível](#4-requisitos-de-alto-nivel) </br>
-[5. Descrição](#5-descricao) </br>
-[6. Risco geral do projeto](#6-risco-geral-do-projeto)</br>
-[7. Cronograma de Marcos](#7-cronograma-de-marcos) </br>
-[8. Stakeholders](#8-stakeholders) </br>
-[9. Requisitos para aprovação do projeto](#9-requisitos-para-aprovacao-do-projeto) </br>
-[10. Gerentes do projeto](#10-gerentes-do-projeto) </br>
-[11. Patrocinador](#11-patrocinador) </br>
 
 ## 1. Introdução
 
