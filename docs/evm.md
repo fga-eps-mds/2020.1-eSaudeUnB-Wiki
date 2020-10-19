@@ -11,18 +11,20 @@ Este documento tem o objetivo de saber o valor agregado e o andamento do projeto
 
 ## Valor Agregado X Valor Real X Valor Planejado
 
-<iframe width="1111" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=153700002&amp;format=interactive">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=153700002&amp;format=interactive" style="width: 100%; height: 400px;">
 </iframe>
 
 ## Variação de Custo X Variação de Prazo
 
-<iframe width="1111" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=1450999196&amp;format=interactive">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=1450999196&amp;format=interactive" style="width: 100%; height: 400px;">
 </iframe>
 
 ## Ind. de Desempenho de Custo X Ind. Desempenho de Prazo
 
-<iframe width="1111" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=1696410937&amp;format=interactive">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=1696410937&amp;format=interactive" style="width: 100%; height: 400px;">
 </iframe>
+
+Para ver mais detalhes sobre o documento desenvolvido <a href="https://drive.google.com/file/d/1-pW2paDr7O6RlWf2d1YnaOl38L3IKhWI/view?usp=sharing">aqui.</a>
 
 ## Referência
 
