@@ -41,6 +41,7 @@
 ### Pontos Negativos
 
 - Modificações levantadas em cima da hora pelo professor, sobrecarga dos membros para adequar ao que foi pedido.
+- Não conseguiram encontrar um horário em comum para parear, a conversa entre o trio não foi fluida. (MDS)
 
 ### A melhorar
 
