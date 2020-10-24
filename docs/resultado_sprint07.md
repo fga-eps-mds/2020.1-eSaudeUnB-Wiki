@@ -41,14 +41,14 @@
 ### Pontos Negativos
 
 - Modificações levantadas em cima da hora pelo professor, sobrecarga dos membros para adequar ao que foi pedido.
-- Não conseguiram encontrar um horário em comum para parear, a conversa entre o trio não foi fluida. (MDS)
+- Não conseguiram encontrar um horário em comum para parear, a conversa entre os trios não foram fluida. (MDS)
 
 ### A melhorar
 
-- Não houve pontos de melhora.
+- Não houve pontos de melhoria.
 
 ## Avaliação do Scrum Master
 
 <p style="text-align: justify;">
-    Essa <i>sprint</i> foi bem mais tranquila em comparação as passadas. Houve correção em grande parte dos documentos, mas houve melhoras significantes nas documentações desenvolvidas no decorrer do semestre até o momento atual, isso inclui correções ortográficas e correções e adaptações de tópicos. As atividades foram desenvolvidas em tempo hábil, mas o vídeo da apresentação foi entregue no tempo do deadline, devido a refatorações feitas em cima da hora. A priori todas as atividades foram entregues com exito em mais uma <i>sprint</i>.
+    Essa <i>sprint</i> foi bem mais tranquila em comparação as passadas. Houve correção em grande parte dos documentos, mas houve melhoras significativas nas documentações desenvolvidas no decorrer do semestre até o momento atual, isso inclui correções ortográficas, correções e adaptações de tópicos. As atividades foram desenvolvidas em tempo hábil, mas o vídeo da apresentação foi entregue no tempo do deadline, devido as refatorações pedidas em cima da hora. A priori todas as atividades foram entregues com exito em mais uma <i>sprint</i>.
 </p>

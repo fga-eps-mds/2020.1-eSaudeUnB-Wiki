@@ -1,7 +1,7 @@
 # Planejamento Sprint 8
 
 <p style="text-align: justify:">
-    Após o retorno da release, nós como time resolvemos deixar essa <i>sprint</i> para correções de bugs novamente, para poder ter o fluxo da aplicação completa para que os clientes pudessem realizar os testes de usabilidade da aplicação. 
+    Após o retorno da release, nós como time resolvemos deixar essa <i>sprint</i> para correções de bugs novamente, com o intuito de ter o fluxo da aplicação completa para que os clientes do projeto pudessem realizar os testes de usabilidade da aplicação nas próximas sprints. 
 </p>
 
 ## Duração da Sprint

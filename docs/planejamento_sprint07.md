@@ -1,7 +1,7 @@
 # Planejamento Sprint 7
 
 <p style="text-align: justify:">
-    Essa <i>sprint</i> é a semana da <i>release</i>, o grupo resolveu diminuir a carga de trabalho do grupo e dedicar se especialmente a implementação da apresentação e slides com tudo que foi desenvolvido durante a primeira parte do projeto e correção de documentos antigos. 
+    Essa <i>sprint</i> é a semana da <i>release</i>, logo o grupo resolveu diminuir a carga de trabalho do grupo para que este pudesse dedicar se especialmente ao desenvolvimento da apresentação e slides da release, contendo tudo que foi desenvolvido durante a primeira parte do projeto e também fazer correções dos documentos antigos desenvolvidos. 
 </p>
 
 ## Duração da Sprint
