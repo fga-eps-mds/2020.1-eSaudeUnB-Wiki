@@ -1,7 +1,7 @@
 # Resultado Sprint 8
 
 <p style="align-item: justify;">
-    Como não houve aval sobre o projeto do professor sobre a release, nós do time de EPS, optamos por separar issues de pequenas melhorias, para o time de EPS.
+    Como não houve feedback do professor sobre a primeira release do projeto, nós do time de EPS, optamos por separar issues de pequenas melhorias, para o time de EPS.
 </p>
 
 ## Fechamento da Sprint
