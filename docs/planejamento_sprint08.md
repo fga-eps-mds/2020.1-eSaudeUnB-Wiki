@@ -7,7 +7,7 @@
 ## Duração da Sprint
 
 **Início:** 13/10/2020</br>
-**Término:** 20/10/2020
+**Término:** 19/10/2020
 
 **Duração:** Sete dias
 
