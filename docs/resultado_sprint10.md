@@ -23,15 +23,15 @@
 
 ## Burndown
 
-![Burnout Sprint 10](./img/burndown_sprint10.png)
+[![Burnout Sprint 10](./img/burndown_sprint10.png)](./img/burndown_sprint10.png)
 
 ## Velocity
 
-![Velocity Sprint 10](./img/velocity_sprint10.png)
+[![Velocity Sprint 10](./img/velocity_sprint10.png)](./img/velocity_sprint10.png)
 
 ## Quadro de conhecimento
 
-![Quadro Sprint 10](./img/quadro_conhecimento_sprint10.png)
+[![Quadro Sprint 10](./img/quadro_conhecimento_sprint10.png)](./img/quadro_conhecimento_sprint10.png)
 
 ## EVM da Sprint
 

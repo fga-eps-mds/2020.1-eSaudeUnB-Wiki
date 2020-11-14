@@ -22,11 +22,11 @@
 
 ## Burndown
 
-![Burnout Sprint 8](./img/burndown_sprint08.png)
+[![Burnout Sprint 8](./img/burndown_sprint08.png)](./img/burndown_sprint08.png)
 
 ## Velocity
 
-![Velocity Sprint 8](./img/velocity_sprint08.png)
+[![Velocity Sprint 8](./img/velocity_sprint08.png)](./img/velocity_sprint08.png)
 
 ## Quadro de conhecimento
 
@@ -34,7 +34,7 @@
    O quadro de conhecimento desde a <i>sprint</i> passada não houve qualquer mudanças, como as issues foram particularmente de <i>BUGFIX</i>, não havia novas opções para que o time de MDS pudesse explorar, logo o quadro de conhecimento foi mantido.
 </p>
 
-![Quadro Sprint 6](./img/quadro_conhecimento_sprint_06.png)
+[![Quadro Sprint 6](./img/quadro_conhecimento_sprint_06.png)](./img/quadro_conhecimento_sprint_06.png)
 
 ## EVM da Sprint
 
