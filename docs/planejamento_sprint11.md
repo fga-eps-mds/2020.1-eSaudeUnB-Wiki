@@ -55,7 +55,7 @@
 <hr>
 
 <p style="text-align: center;">
-    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 37
+    <span style="font-weight: bold;">Total de pontos da Sprint:</span> 32
 </p>
 
 <hr>
