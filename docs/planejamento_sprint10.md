@@ -45,10 +45,10 @@
 
 | Issues | Pontuação | Responsáveis |
 | ------ | ------ | --------|
-| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/91">US10 - Implementação do agendamento de consulta pelos pacientes</a> | 13 |
-| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/96">FIX - Melhoria do Protótipo de Alta Fidelidade</a> | 5 |
-| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/94">US12 - Implementação da visualização das consultas agendadas</a> | 5 |
-| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/95">US13 - Implementação da autenticação dos usuários</a> | 13 |
+| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/91">US10 - Implementação do agendamento de consulta pelos pacientes</a> | 13 | Abner e Vinícius |
+| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/96">FIX - Melhoria do Protótipo de Alta Fidelidade</a> | 5 | Pedro e Caio |
+| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/94">US12 - Implementação da visualização das consultas agendadas</a> | 5 | Abner e Vinícius |
+| <a href="https://github.com/fga-eps-mds/2020.1-eSaudeUnB-Wiki/issues/95">US13 - Implementação da autenticação dos usuários</a> | 13 | Rafael e Luís |
 
 <hr>
 
