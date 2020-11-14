@@ -4,14 +4,14 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 
 ## Fechamento da Sprint
 
-| Issues | Pontos |
-| ------ | ------ |
-| Treinamento e estudo de teste | 3 |
-| Protótipo de Baixa Fidelidade | 3 |
-| Elaboração do Documento de Arquitetura | 5 |
-| Elaboração inicial do backlog do produto | 5 |
-| Criação do Ambiente de Desenvolvimento | 5 |
-| Elaboração do EAP | 2 |
+| Issues                                   | Pontos |
+| ---------------------------------------- | ------ |
+| Treinamento e estudo de teste            | 3      |
+| Protótipo de Baixa Fidelidade            | 3      |
+| Elaboração do Documento de Arquitetura   | 5      |
+| Elaboração inicial do backlog do produto | 5      |
+| Criação do Ambiente de Desenvolvimento   | 5      |
+| Elaboração do EAP                        | 2      |
 
 </br>
 
@@ -34,7 +34,11 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 
 [![Quadro Sprint 2](./img/quadro-conhecimento-sprint02.png)](./img/quadro-conhecimento-sprint02.png)
 
-### Retrospectiva
+## EVM da Sprint
+
+<iframe style="width: 100%; height: 400px;"  seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=1055720375&amp;format=interactive"></iframe>
+
+## Retrospectiva
 
 ### Pontos Positivos
 
@@ -62,4 +66,3 @@ Mais uma vez tivemos uma Sprint apenas com documentação para todo o time. Docu
 <p style="text-align: justify;">
     Outro ponto a se abordar é os ritos que continuaram a ser seguidos e ambos os membros responderam as dailys, o que mostra o comprometimento do time, mesmo sendo remoto, o que é um ponto positivo para o time.
 </p>
-

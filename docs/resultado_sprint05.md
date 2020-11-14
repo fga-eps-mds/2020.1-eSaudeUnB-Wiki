@@ -37,7 +37,11 @@
 
 ![Quadro Sprint 5](./img/quadro_conhecimento_05.png)
 
-### Retrospectiva
+## EVM da Sprint
+
+<iframe style="width: 100%; height: 400px;"  seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=1008010379&amp;format=interactive"></iframe>
+
+## Retrospectiva
 
 ### Pontos Positivos
 
