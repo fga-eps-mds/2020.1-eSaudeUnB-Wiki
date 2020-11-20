@@ -32,7 +32,7 @@
 ## Quadro de conhecimento
 
 <p style="text-align: justify;">
-   Os integrantes que mais retiveram conhecimento nessa sprint foi os membros de EPS, pois houve uma pequena evolução nos conhecimentos envolvendo DevOps.
+   Os integrantes que mais retiveram conhecimento nessa sprint foram os membros de EPS, pois houve uma pequena evolução nos conhecimentos envolvendo DevOps.
 </p>
 
 [![Quadro Sprint 6](./img/quadro_conhecimento_sprint_06.png)](./img/quadro_conhecimento_sprint_06.png)

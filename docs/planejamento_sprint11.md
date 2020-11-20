@@ -64,8 +64,8 @@
 
 | Issue | Objetivo |
 | ----- | -------- |
-| US14 - Implementação da lista de espera | Implmentação de uma fila de pacientes, caso estes não consigam ter exito em marcar uma consulta com um psicologo. |
-| FIX - Corrigir a visualização das consultas agendada | A funcionalidade teve alguns problemas em relação a renderização das consultas para o paciente, logo foi movida para essa Sprint para que essa seja corrigida. |
+| US14 - Implementação da lista de espera | Implementação de uma fila de pacientes, caso estes não consigam ter exito em marcar uma consulta com um psicologo. |
+| FIX - Corrigir a visualização das consultas agendadas | A funcionalidade teve alguns problemas em relação a renderização das consultas para o paciente, logo foi movida para essa Sprint para que essa seja corrigida. |
 | FIX - Atualizando EVM para Agile EVM  | Atualização do EVM atual para o EVM Agile, para que este tenha uma visão mais ampla de valor agregado para a metodologia Scrum dentro do projeto. |
-| FIX - Corrigir os testes da autenticação | O testes não estavam funcionando devido ao token jwt não esta sendo passado como parâmetro para os teste, logo estes estavam falhando. |
+| FIX - Corrigir os testes da autenticação | O testes não estavam funcionando devido ao token jwt não esta sendo passado como parâmetro para os testes, logo estes estavam falhando. |
 | FIX - Implementar as mudanças feitas no protótipo de alta fidelidade | Continuar fazendo as modificações do protótipo proposta na sprint passada para ter um design melhor comparada a versão antiga da plataforma. |  
