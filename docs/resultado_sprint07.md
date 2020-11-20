@@ -17,11 +17,11 @@
 
 ## Burndown
 
-![Burnout Sprint 6](./img/burndown_sprint07.png)
+[![Burnout Sprint 6](./img/burndown_sprint07.png)](./img/burndown_sprint07.png)
 
 ## Velocity
 
-![Velocity Sprint 6](./img/velocity_sprint07.png)
+[![Velocity Sprint 6](./img/velocity_sprint07.png)](./img/velocity_sprint07.png)
 
 ## Quadro de conhecimento
 
@@ -29,7 +29,7 @@
    Como essa semana não foi dedicada a código, nenhum dos integrantes teve alguma melhora específica nas tecnologias listadas no quadro de conhecimento.
 </p>
 
-![Quadro Sprint 6](./img/quadro_conhecimento_sprint_06.png)
+[![Quadro Sprint 6](./img/quadro_conhecimento_sprint_06.png)](./img/quadro_conhecimento_sprint_06.png)
 
 ## EVM da Sprint
 

@@ -23,11 +23,11 @@
 
 ## Burndown
 
-![Burnout Sprint 5](./img/burndown_sprint05.png)
+[![Burnout Sprint 5](./img/burndown_sprint05.png)](./img/burndown_sprint05.png)
 
 ## Velocity
 
-![Velocity Sprint 5](./img/velocity_sprint5.png)
+[![Velocity Sprint 5](./img/velocity_sprint5.png)](./img/velocity_sprint5.png)
 
 ## Quadro de conhecimento
 
@@ -35,7 +35,7 @@
    Nessa <i>sprint</i> foi possível perceber uma pequena melhora no conhecimento dos integrantes em relação as áreas de banco de dados e arquitetura REST, o que para a maioria da equipe eram áreas de maior dificuldade.
 </p>
 
-![Quadro Sprint 5](./img/quadro_conhecimento_05.png)
+[![Quadro Sprint 5](./img/quadro_conhecimento_05.png)](./img/quadro_conhecimento_05.png)
 
 ## EVM da Sprint
 
