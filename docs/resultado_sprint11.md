@@ -1,4 +1,4 @@
-# Resultado Sprint 10
+# Resultado Sprint 11
 
 <p style="align-item: justify;">
     Nessa <i>sprint</i> o time resolveu implementar <i>issues</i> para complementar as parte de Login e Registro dentro da plataforma com com a implementação da autenticação usando OAuth e continuação das histórias de usuário da parte de consultas e agendamento dos usuários.
