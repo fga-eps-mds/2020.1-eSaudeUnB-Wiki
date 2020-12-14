@@ -1,4 +1,4 @@
-# Planejamento Sprint 13
+# Planejamento Sprint 14
 
 <p style="text-align: justify:">
    Para essa <i>sprint</i> foi incluída a <i>issue</i> da história de usuário de implementar a recuperação da senha do usuário e duas <i>issues</i> para de correção: uma para finalizar a correção da responsividade das telas da plataforma e outra para corrigir a funcionalidade da disponibilidade dos usuários profissionais. 
