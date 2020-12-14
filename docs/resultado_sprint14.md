@@ -29,7 +29,7 @@
 
 ## EVM da Sprint
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubhtml?gid=268898443&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTKacsqu4_Id3fiivyQCnw7btXFrMPZ5HP8UL2cBn4Y-f7acPC6JadEeH8GHFUDzA/pubchart?oid=1089958705&amp;format=interactive"></iframe>
 
 ## Retrospectiva
 
