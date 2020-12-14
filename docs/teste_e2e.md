@@ -8,6 +8,7 @@
     Para executar os testes funcionais no pipeline foi usado a ferramenta de orquestração de workflows Github Actions, essa verificação é acionada a cada vez que um Pull Request é criado dentro do repositório Frontend do Esaúde-Unb. A seguinte figura mostra o workflow até chegar na etapa de verificação dos testes.  
 </p>
 
+![[teste](img/teste_e2e_workflow.png)](img/teste_e2e_workflow.png)
 
 <p style="text-align: justify;">
     Atualmente o coverage de testes está em 76%, não foi possível chegar ao coverage máximo devido ao tempo que resta da disciplina, mas os teste desenvolvidos cobrem mais da metade dos casos o que é um ponto positivo para teste na camada de usuário.
