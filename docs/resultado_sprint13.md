@@ -25,7 +25,7 @@
 
 ## Quadro de conhecimento
 
-[ ![Quadro Sprint 13](./img/quadro_conhecimento_sprint12.png) ](./img/quadro_conhecimento_sprint13.png)
+[ ![Quadro Sprint 13](./img/quadro_conhecimento_sprint13.png) ](./img/quadro_conhecimento_sprint13.png)
 
 ## EVM da Sprint
 
