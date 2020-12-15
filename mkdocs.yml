@@ -30,7 +30,7 @@ nav:
     - Burndown de Risco: burndown_risco.md
     - Plano de Gerenciamento de Custos: plano_gerenciamento_custo.md
     - Plano de Pipeline: plano-pipeline.md
-    - Testes Funcionais: test_e2e.md
+    - Testes Funcionais: teste_e2e.md
     - EVM: evm.md
   - Produto:
     - Documento de Visão: DocumentoDeVisao.md
