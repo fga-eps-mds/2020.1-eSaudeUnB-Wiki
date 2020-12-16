@@ -5,6 +5,7 @@
 |    Data    |  Versão  |        Descrição       |          Autor(es)          |
 |:----------:|:--------:|:----------------------:|:---------------------------:|
 | 15/12/2020 |   0.1    | Criação do Documento da Release 2  |   João Pedro  |
+
 <br>
 
 ## Contribuições por Desenvolvedor em cada repositório
