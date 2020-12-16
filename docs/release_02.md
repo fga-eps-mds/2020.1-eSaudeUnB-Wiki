@@ -21,6 +21,7 @@
 | Pedro Henrique Castro de Oliveira | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=pedroholiveira1998)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=pedroholiveira1998) |
 | Rafael Leão Teixeira de Magalhães | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=Rafaelltm)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=Rafaelltm) |
 | Vinícius Ferreira Alves de Lima | [BE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-BackEnd/commits?author=vinelime)  | [FE](https://github.com/fga-eps-mds/2020.1-eSaudeUnB-FrontEnd/commits?author=vinelime) |
+
 <br>
 
 ## Vídeo de Apresentação da Release 2
